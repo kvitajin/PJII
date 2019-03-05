@@ -5,6 +5,7 @@
     <e p="$USER_HOME$/.Rider2018.3/system/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_cv3.1211994332.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="cv3" t="IncludeRecursive">
+        <e p="DynamicArry.cs" t="Include" />
         <e p="IADT.cs" t="Include" />
         <e p="IZasobnik.cs" t="Include" />
         <e p="MujZasobnik.cs" t="Include" />
