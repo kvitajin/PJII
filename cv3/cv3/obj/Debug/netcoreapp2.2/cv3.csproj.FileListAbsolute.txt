@@ -1,0 +1,11 @@
+/home/kvitajin/RiderProjects/vsb/cv3/cv3/obj/Debug/netcoreapp2.2/cv3.csprojAssemblyReference.cache
+/home/kvitajin/RiderProjects/vsb/cv3/cv3/obj/Debug/netcoreapp2.2/cv3.csproj.CoreCompileInputs.cache
+/home/kvitajin/RiderProjects/vsb/cv3/cv3/obj/Debug/netcoreapp2.2/cv3.AssemblyInfoInputs.cache
+/home/kvitajin/RiderProjects/vsb/cv3/cv3/obj/Debug/netcoreapp2.2/cv3.AssemblyInfo.cs
+/home/kvitajin/RiderProjects/vsb/cv3/cv3/bin/Debug/netcoreapp2.2/cv3.deps.json
+/home/kvitajin/RiderProjects/vsb/cv3/cv3/bin/Debug/netcoreapp2.2/cv3.runtimeconfig.json
+/home/kvitajin/RiderProjects/vsb/cv3/cv3/bin/Debug/netcoreapp2.2/cv3.runtimeconfig.dev.json
+/home/kvitajin/RiderProjects/vsb/cv3/cv3/bin/Debug/netcoreapp2.2/cv3.dll
+/home/kvitajin/RiderProjects/vsb/cv3/cv3/bin/Debug/netcoreapp2.2/cv3.pdb
+/home/kvitajin/RiderProjects/vsb/cv3/cv3/obj/Debug/netcoreapp2.2/cv3.dll
+/home/kvitajin/RiderProjects/vsb/cv3/cv3/obj/Debug/netcoreapp2.2/cv3.pdb

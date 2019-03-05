@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2018.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.3/system/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_cv2.-1276442022.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="cv2" t="IncludeRecursive">
+        <e p="IADT.cs" t="Include" />
+        <e p="IFronta.cs" t="Include" />
+        <e p="IZasobnik.cs" t="Include" />
+        <e p="MojeFronta.cs" t="Include" />
+        <e p="MujZasobnik.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="StackIsEmptyException.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="cv2.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="cv2.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="cv2.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
