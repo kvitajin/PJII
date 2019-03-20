@@ -6,7 +6,11 @@
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="test1" t="IncludeRecursive">
+        <e p="CanadaVisa.cs" t="Include" />
+        <e p="IVisa.cs" t="Include" />
+        <e p="NewZelandVisa.cs" t="Include" />
         <e p="Program.cs" t="Include" />
+        <e p="VisaList.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -16,6 +20,7 @@
           </e>
         </e>
         <e p="test1.csproj" t="IncludeRecursive" />
+        <e p="test1.csproj.DotSettings" t="Include" />
       </e>
       <e p="test1.sln" t="IncludeFlat" />
     </e>
