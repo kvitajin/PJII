@@ -1,0 +1,44 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/kvitajin/RiderProjects/vsb/dais1/dais1/dais1.csproj",
+    "projectName": "dais1",
+    "projectPath": "/home/kvitajin/RiderProjects/vsb/dais1/dais1/dais1.csproj",
+    "outputPath": "/home/kvitajin/RiderProjects/vsb/dais1/dais1/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "System.Data.SqlClient": {
+          "target": "Package",
+          "version": "[4.7.0-preview3.19128.7, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

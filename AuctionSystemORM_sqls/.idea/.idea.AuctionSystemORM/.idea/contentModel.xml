@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.3/system/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_AuctionSystemORM.1926298942.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="AuctionSystemORM.csproj" t="IncludeRecursive" />
+      <e p="AuctionSystemORM.sln" t="IncludeFlat" />
+      <e p="Database" t="Include">
+        <e p="Auction.cs" t="Include" />
+        <e p="Category.cs" t="Include" />
+        <e p="User.cs" t="Include" />
+        <e p="dao_sqls" t="Include">
+          <e p="AuctionTable.cs" t="Include" />
+          <e p="CategoryTable.cs" t="Include" />
+          <e p="Database.cs" t="Include" />
+          <e p="UserTable.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

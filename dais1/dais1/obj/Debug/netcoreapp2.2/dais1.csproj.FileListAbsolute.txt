@@ -1,0 +1,11 @@
+/home/kvitajin/RiderProjects/vsb/dais1/dais1/bin/Debug/netcoreapp2.2/dais1.deps.json
+/home/kvitajin/RiderProjects/vsb/dais1/dais1/bin/Debug/netcoreapp2.2/dais1.runtimeconfig.json
+/home/kvitajin/RiderProjects/vsb/dais1/dais1/bin/Debug/netcoreapp2.2/dais1.runtimeconfig.dev.json
+/home/kvitajin/RiderProjects/vsb/dais1/dais1/bin/Debug/netcoreapp2.2/dais1.dll
+/home/kvitajin/RiderProjects/vsb/dais1/dais1/bin/Debug/netcoreapp2.2/dais1.pdb
+/home/kvitajin/RiderProjects/vsb/dais1/dais1/obj/Debug/netcoreapp2.2/dais1.csprojAssemblyReference.cache
+/home/kvitajin/RiderProjects/vsb/dais1/dais1/obj/Debug/netcoreapp2.2/dais1.csproj.CoreCompileInputs.cache
+/home/kvitajin/RiderProjects/vsb/dais1/dais1/obj/Debug/netcoreapp2.2/dais1.AssemblyInfoInputs.cache
+/home/kvitajin/RiderProjects/vsb/dais1/dais1/obj/Debug/netcoreapp2.2/dais1.AssemblyInfo.cs
+/home/kvitajin/RiderProjects/vsb/dais1/dais1/obj/Debug/netcoreapp2.2/dais1.dll
+/home/kvitajin/RiderProjects/vsb/dais1/dais1/obj/Debug/netcoreapp2.2/dais1.pdb

@@ -24,12 +24,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4d02e97-d6c8-4fb6-9cf2-ae0dc516b11d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cv3/DynamicArry.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cv2/.idea/.idea.cv2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv2/.idea/.idea.cv2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.cv3/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cv3/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.cv3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cv3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv3/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/cv3/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv3/obj/Debug/netcoreapp2.2/cv3.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/cv3/obj/Debug/netcoreapp2.2/cv3.csproj.CoreCompileInputs.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +34,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cv3/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="331">
@@ -107,7 +102,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cv3/DynamicArry.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="181">
@@ -251,12 +246,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551798212385</updated>
-      <workItem from="1551798216316" duration="4302000" />
+      <workItem from="1551798216316" duration="4385000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4302000" />
+    <option name="totallyTimeSpent" value="4385000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -273,7 +268,7 @@
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.2497332" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.2497332" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
@@ -282,7 +277,7 @@
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info active="true" anchor="bottom" id="Build" order="6" visible="true" weight="0.32969433" />
+      <window_info anchor="bottom" id="Build" order="6" visible="true" weight="0.32969433" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="NuGet" order="8" />
       <window_info anchor="bottom" id="Message" order="9" />
@@ -373,20 +368,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cv3/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-          <folding>
-            <marker date="1551802135289" expanded="true" signature="6:58" ph="..." />
-            <marker date="1551802135289" expanded="true" signature="74:986" ph="{...}" />
-            <marker date="1551802135289" expanded="true" signature="94:984" ph="{...}" />
-            <marker date="1551802135289" expanded="true" signature="136:978" ph="{...}" />
-            <marker date="1551802135289" expanded="true" signature="138:738" ph="/* MujZasobnik&lt;int?&gt; ciselnik =new MujZasobnik&lt;int?&gt;(5);        //nejde, protoze int neni soucasti ICar ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cv3/DynamicArry.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
@@ -413,6 +394,20 @@
             <marker date="1551802518700" expanded="true" signature="1611:1665" ph="{...}" />
             <marker date="1551802518700" expanded="true" signature="1702:1759" ph="{...}" />
             <marker date="1551802518700" expanded="true" signature="1759:1840" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cv3/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+          <folding>
+            <marker date="1551802135289" expanded="true" signature="6:58" ph="..." />
+            <marker date="1551802135289" expanded="true" signature="74:986" ph="{...}" />
+            <marker date="1551802135289" expanded="true" signature="94:984" ph="{...}" />
+            <marker date="1551802135289" expanded="true" signature="136:978" ph="{...}" />
+            <marker date="1551802135289" expanded="true" signature="138:738" ph="/* MujZasobnik&lt;int?&gt; ciselnik =new MujZasobnik&lt;int?&gt;(5);        //nejde, protoze int neni soucasti ICar ... */" />
           </folding>
         </state>
       </provider>
