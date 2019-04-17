@@ -23,11 +23,19 @@
   "frameworks": {
     "netcoreapp2.2": {
       "dependencies": {
+        "BCrypt.Net": {
+          "target": "Package",
+          "version": "[0.1.0, )"
+        },
         "Microsoft.NETCore.App": {
           "suppressParent": "All",
           "target": "Package",
           "version": "[2.2.0, )",
           "autoReferenced": true
+        },
+        "System.Data.SqlClient": {
+          "target": "Package",
+          "version": "[4.7.0-preview3.19128.7, )"
         }
       },
       "imports": [

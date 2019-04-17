@@ -24,78 +24,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9873353b-3114-4532-ab90-3e542e9e3132" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM.sln.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/DAIS_ORM.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/DAIS_ORM.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/DAIS_ORM.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/DAIS_ORM.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/Calculator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/cv5.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/.idea/.idea.cv6/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/.idea/.idea.cv6/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/.idea/.idea.cv6/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/.idea/.idea.cv6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/.idea/.idea.cv6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/Reader.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/Users.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/cv6.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/Debug/netcoreapp2.2/cv6.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/Debug/netcoreapp2.2/cv6.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/Debug/netcoreapp2.2/cv6.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/Debug/netcoreapp2.2/cv6.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/cv6.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/cv6.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/cv6.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv7/.idea/.idea.cv7/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv7/cv7/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/.idea/.idea.dais1/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/dais1.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/Debug/netcoreapp2.2/dais1.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/Debug/netcoreapp2.2/dais1.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/Debug/netcoreapp2.2/dais1.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/Debug/netcoreapp2.2/dais1.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/dais1.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/dais1.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/dais1.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cv2/.idea/.idea.cv2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv2/.idea/.idea.cv2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cv3/.idea/.idea.cv3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/.idea/.idea.cv3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test1/.idea/.idea.test1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test1/.idea/.idea.test1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Database.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AuctionSystemORM/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AuctionSystemORM/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AuctionSystemORM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AuctionSystemORM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee/storage_v2/_src_/schema/KVI0029.hWFPFg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee/storage_v2/_src_/schema/KVI0029.hWFPFg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/DAIS_ORM.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/DAIS_ORM.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/DAIS_ORM.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/DAIS_ORM.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv8/.idea/.idea.cv8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv8/.idea/.idea.cv8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv8/cv8/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../cv8/cv8/Program.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,12 +47,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Database/dao_sqls/Database.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+            <state relative-caret-position="-1287">
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
               <folding>
                 <marker date="1461064402000" expanded="true" signature="6:89" ph="..." />
                 <marker date="1461064402000" expanded="true" signature="127:3161" ph="{...}" />
@@ -144,13 +87,126 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+              <folding>
+                <marker date="1461064702000" expanded="false" signature="6:72" ph="..." />
+                <marker date="1461064702000" expanded="true" signature="97:955" ph="{...}" />
+                <marker date="1461064702000" expanded="true" signature="117:953" ph="{...}" />
+                <marker date="1461064702000" expanded="true" signature="163:947" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Properties/AssemblyInfo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1460319976000" expanded="false" signature="6:101" ph="..." />
+                <marker date="1460319976000" expanded="true" signature="103:290" ph="/* General Information about an assembly is controlled through the following ... */" />
+                <marker date="1460319976000" expanded="true" signature="609:819" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+                <marker date="1460319976000" expanded="true" signature="994:1321" ph="/* Version information for an assembly consists of the following four values: ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Database/dao_sqls/AuctionTable.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2111">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding>
+                <marker date="1461064620000" expanded="false" signature="6:99" ph="..." />
+                <marker date="1461064620000" expanded="true" signature="137:8095" ph="{...}" />
+                <marker date="1461064620000" expanded="true" signature="169:8093" ph="{...}" />
+                <marker date="1461064620000" expanded="true" signature="1380:1435" ph="/// Insert ... " />
+                <marker date="1461064620000" expanded="true" signature="1485:1547" ph="{...}" />
+                <marker date="1461064620000" expanded="true" signature="1557:1612" ph="/// Insert ... " />
+                <marker date="1461064620000" expanded="true" signature="1676:2189" ph="{...}" />
+                <marker date="1461064620000" expanded="true" signature="1740:1835" ph="{...}" />
+                <marker date="1461064620000" expanded="true" signature="1852:1906" ph="{...}" />
+                <marker date="1461064620000" expanded="true" signature="2097:2153" ph="{...}" />
+                <marker date="1461064620000" expanded="true" signature="2199:2254" ph="/// Update ... " />
+                <marker date="1461064620000" expanded="true" signature="2304:2618" ph="{...}" />
+                <marker date="1461064620000" expanded="true" signature="2628:2754" ph="/// Select records ... " />
+                <marker date="1461064620000" expanded="true" signature="2815:3232" ph="{...}" />
+                <marker date="1461064620000" expanded="true" signature="3242:3309" ph="/// Delete the record. ... " />
+                <marker date="1461064620000" expanded="true" signature="3357:3682" ph="{...}" />
+                <marker date="1461064620000" expanded="true" signature="3692:3759" ph="/// Select the record. ... " />
+                <marker date="1461064620000" expanded="true" signature="3814:4379" ph="{...}" />
+                <marker date="1461064620000" expanded="true" signature="4221:4288" ph="{...}" />
+                <marker date="1461064620000" expanded="true" signature="4389:4456" ph="/// Prepare a command. ... " />
+                <marker date="1461064620000" expanded="true" signature="4536:5491" ph="{...}" />
+                <marker date="1461064620000" expanded="true" signature="5501:5638" ph="/// Read ... " />
+                <marker date="1461064620000" expanded="true" signature="5723:8087" ph="{...}" />
+                <marker date="1461064620000" expanded="true" signature="5838:8048" ph="{...}" />
+                <marker date="1461064620000" expanded="true" signature="6017:6113" ph="{...}" />
+                <marker date="1461064620000" expanded="true" signature="6258:6492" ph="{...}" />
+                <marker date="1461064620000" expanded="true" signature="6323:6474" ph="{...}" />
+                <marker date="1461064620000" expanded="true" signature="6801:6949" ph="/* bad solution: ... */" />
+                <marker date="1461064620000" expanded="true" signature="6992:7090" ph="{...}" />
+                <marker date="1461064620000" expanded="true" signature="7133:7231" ph="{...}" />
+                <marker date="1461064620000" expanded="true" signature="7274:7373" ph="{...}" />
+                <marker date="1461064620000" expanded="true" signature="7530:7757" ph="{...}" />
+                <marker date="1461064620000" expanded="true" signature="7788:7994" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Database/dao_sqls/CategoryTable.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1842">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding>
+                <marker date="1461064584000" expanded="false" signature="6:99" ph="..." />
+                <marker date="1461064584000" expanded="true" signature="137:5622" ph="{...}" />
+                <marker date="1461064584000" expanded="true" signature="170:5620" ph="{...}" />
+                <marker date="1461064584000" expanded="true" signature="885:952" ph="/// Insert the record. ... " />
+                <marker date="1461064584000" expanded="true" signature="1004:1301" ph="{...}" />
+                <marker date="1461064584000" expanded="true" signature="1311:1454" ph="/// Update the record. ... " />
+                <marker date="1461064584000" expanded="true" signature="1506:1803" ph="{...}" />
+                <marker date="1461064584000" expanded="true" signature="1814:1878" ph="/// Select records. ... " />
+                <marker date="1461064584000" expanded="true" signature="1930:2285" ph="{...}" />
+                <marker date="1461064584000" expanded="true" signature="2295:2372" ph="/// Select records for category. ... " />
+                <marker date="1461064584000" expanded="true" signature="2426:2997" ph="{...}" />
+                <marker date="1461064584000" expanded="true" signature="2836:2906" ph="{...}" />
+                <marker date="1461064584000" expanded="true" signature="3007:3074" ph="/// Delete the record. ... " />
+                <marker date="1461064584000" expanded="true" signature="3115:3434" ph="{...}" />
+                <marker date="1461064584000" expanded="true" signature="3444:3511" ph="/// Prepare a command. ... " />
+                <marker date="1461064584000" expanded="true" signature="3593:3899" ph="{...}" />
+                <marker date="1461064584000" expanded="true" signature="3909:3987" ph="/// Select the record for a name. ... " />
+                <marker date="1461064584000" expanded="true" signature="4067:4845" ph="{...}" />
+                <marker date="1461064584000" expanded="true" signature="4131:4226" ph="{...}" />
+                <marker date="1461064584000" expanded="true" signature="4243:4297" ph="{...}" />
+                <marker date="1461064584000" expanded="true" signature="4621:4691" ph="{...}" />
+                <marker date="1461064584000" expanded="true" signature="4749:4805" ph="{...}" />
+                <marker date="1461064584000" expanded="true" signature="4946:5614" ph="{...}" />
+                <marker date="1461064584000" expanded="true" signature="5065:5573" ph="{...}" />
+                <marker date="1461064584000" expanded="true" signature="5317:5417" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Database/dao_sqls/AuctionTable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Database/dao_sqls/CategoryTable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Database/dao_sqls/Database.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
@@ -164,6 +220,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -180,27 +237,13 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="AuctionSystemORM" type="24d0babc:SolutionExplorerModelNode" />
               <item name="AuctionSystemORM" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Properties" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="AuctionSystemORM" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="AuctionSystemORM" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Database" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="AuctionSystemORM" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="AuctionSystemORM" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Database" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="dao_sqls" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
     </panes>
   </component>
@@ -255,11 +298,12 @@
       <option name="presentableId" value="Default" />
       <updated>1554984153507</updated>
       <workItem from="1554984155099" duration="1855000" />
+      <workItem from="1555530520912" duration="3041000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1855000" />
+    <option name="totallyTimeSpent" value="4896000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -273,19 +317,11 @@
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2524013" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="TeamCity" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -293,18 +329,26 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="TeamCity" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -319,8 +363,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Database/dao_sqls/Database.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+        <state relative-caret-position="-1287">
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
           <folding>
             <marker date="1461064402000" expanded="true" signature="6:89" ph="..." />
             <marker date="1461064402000" expanded="true" signature="127:3161" ph="{...}" />
@@ -350,6 +394,107 @@
             <marker date="1461064402000" expanded="true" signature="2771:2853" ph="{...}" />
             <marker date="1461064402000" expanded="true" signature="2901:2984" ph="/// Select encapulated in the command. ... " />
             <marker date="1461064402000" expanded="true" signature="3040:3153" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding>
+            <marker date="1461064702000" expanded="false" signature="6:72" ph="..." />
+            <marker date="1461064702000" expanded="true" signature="97:955" ph="{...}" />
+            <marker date="1461064702000" expanded="true" signature="117:953" ph="{...}" />
+            <marker date="1461064702000" expanded="true" signature="163:947" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1460319976000" expanded="false" signature="6:101" ph="..." />
+            <marker date="1460319976000" expanded="true" signature="103:290" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1460319976000" expanded="true" signature="609:819" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+            <marker date="1460319976000" expanded="true" signature="994:1321" ph="/* Version information for an assembly consists of the following four values: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Database/dao_sqls/AuctionTable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2111">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <marker date="1461064620000" expanded="false" signature="6:99" ph="..." />
+            <marker date="1461064620000" expanded="true" signature="137:8095" ph="{...}" />
+            <marker date="1461064620000" expanded="true" signature="169:8093" ph="{...}" />
+            <marker date="1461064620000" expanded="true" signature="1380:1435" ph="/// Insert ... " />
+            <marker date="1461064620000" expanded="true" signature="1485:1547" ph="{...}" />
+            <marker date="1461064620000" expanded="true" signature="1557:1612" ph="/// Insert ... " />
+            <marker date="1461064620000" expanded="true" signature="1676:2189" ph="{...}" />
+            <marker date="1461064620000" expanded="true" signature="1740:1835" ph="{...}" />
+            <marker date="1461064620000" expanded="true" signature="1852:1906" ph="{...}" />
+            <marker date="1461064620000" expanded="true" signature="2097:2153" ph="{...}" />
+            <marker date="1461064620000" expanded="true" signature="2199:2254" ph="/// Update ... " />
+            <marker date="1461064620000" expanded="true" signature="2304:2618" ph="{...}" />
+            <marker date="1461064620000" expanded="true" signature="2628:2754" ph="/// Select records ... " />
+            <marker date="1461064620000" expanded="true" signature="2815:3232" ph="{...}" />
+            <marker date="1461064620000" expanded="true" signature="3242:3309" ph="/// Delete the record. ... " />
+            <marker date="1461064620000" expanded="true" signature="3357:3682" ph="{...}" />
+            <marker date="1461064620000" expanded="true" signature="3692:3759" ph="/// Select the record. ... " />
+            <marker date="1461064620000" expanded="true" signature="3814:4379" ph="{...}" />
+            <marker date="1461064620000" expanded="true" signature="4221:4288" ph="{...}" />
+            <marker date="1461064620000" expanded="true" signature="4389:4456" ph="/// Prepare a command. ... " />
+            <marker date="1461064620000" expanded="true" signature="4536:5491" ph="{...}" />
+            <marker date="1461064620000" expanded="true" signature="5501:5638" ph="/// Read ... " />
+            <marker date="1461064620000" expanded="true" signature="5723:8087" ph="{...}" />
+            <marker date="1461064620000" expanded="true" signature="5838:8048" ph="{...}" />
+            <marker date="1461064620000" expanded="true" signature="6017:6113" ph="{...}" />
+            <marker date="1461064620000" expanded="true" signature="6258:6492" ph="{...}" />
+            <marker date="1461064620000" expanded="true" signature="6323:6474" ph="{...}" />
+            <marker date="1461064620000" expanded="true" signature="6801:6949" ph="/* bad solution: ... */" />
+            <marker date="1461064620000" expanded="true" signature="6992:7090" ph="{...}" />
+            <marker date="1461064620000" expanded="true" signature="7133:7231" ph="{...}" />
+            <marker date="1461064620000" expanded="true" signature="7274:7373" ph="{...}" />
+            <marker date="1461064620000" expanded="true" signature="7530:7757" ph="{...}" />
+            <marker date="1461064620000" expanded="true" signature="7788:7994" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Database/dao_sqls/CategoryTable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1842">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <marker date="1461064584000" expanded="false" signature="6:99" ph="..." />
+            <marker date="1461064584000" expanded="true" signature="137:5622" ph="{...}" />
+            <marker date="1461064584000" expanded="true" signature="170:5620" ph="{...}" />
+            <marker date="1461064584000" expanded="true" signature="885:952" ph="/// Insert the record. ... " />
+            <marker date="1461064584000" expanded="true" signature="1004:1301" ph="{...}" />
+            <marker date="1461064584000" expanded="true" signature="1311:1454" ph="/// Update the record. ... " />
+            <marker date="1461064584000" expanded="true" signature="1506:1803" ph="{...}" />
+            <marker date="1461064584000" expanded="true" signature="1814:1878" ph="/// Select records. ... " />
+            <marker date="1461064584000" expanded="true" signature="1930:2285" ph="{...}" />
+            <marker date="1461064584000" expanded="true" signature="2295:2372" ph="/// Select records for category. ... " />
+            <marker date="1461064584000" expanded="true" signature="2426:2997" ph="{...}" />
+            <marker date="1461064584000" expanded="true" signature="2836:2906" ph="{...}" />
+            <marker date="1461064584000" expanded="true" signature="3007:3074" ph="/// Delete the record. ... " />
+            <marker date="1461064584000" expanded="true" signature="3115:3434" ph="{...}" />
+            <marker date="1461064584000" expanded="true" signature="3444:3511" ph="/// Prepare a command. ... " />
+            <marker date="1461064584000" expanded="true" signature="3593:3899" ph="{...}" />
+            <marker date="1461064584000" expanded="true" signature="3909:3987" ph="/// Select the record for a name. ... " />
+            <marker date="1461064584000" expanded="true" signature="4067:4845" ph="{...}" />
+            <marker date="1461064584000" expanded="true" signature="4131:4226" ph="{...}" />
+            <marker date="1461064584000" expanded="true" signature="4243:4297" ph="{...}" />
+            <marker date="1461064584000" expanded="true" signature="4621:4691" ph="{...}" />
+            <marker date="1461064584000" expanded="true" signature="4749:4805" ph="{...}" />
+            <marker date="1461064584000" expanded="true" signature="4946:5614" ph="{...}" />
+            <marker date="1461064584000" expanded="true" signature="5065:5573" ph="{...}" />
+            <marker date="1461064584000" expanded="true" signature="5317:5417" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -24,94 +24,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9af900d1-b70c-42c0-b539-474e3f28ea6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM.sln.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/DAIS_ORM.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/DAIS_ORM.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/DAIS_ORM.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/DAIS_ORM.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/Calculator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/cv5.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/.idea/.idea.cv6/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/.idea/.idea.cv6/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/.idea/.idea.cv6/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/.idea/.idea.cv6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/.idea/.idea.cv6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/Reader.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/Users.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/cv6.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/Debug/netcoreapp2.2/cv6.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/Debug/netcoreapp2.2/cv6.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/Debug/netcoreapp2.2/cv6.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/Debug/netcoreapp2.2/cv6.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/cv6.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/cv6.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/cv6.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv7/.idea/.idea.cv7/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv7/cv7/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.cv8/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.cv8/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.cv8/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.cv8/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv8.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv8/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv8/cv8.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv8/obj/Debug/netcoreapp2.2/cv8.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv8/obj/Debug/netcoreapp2.2/cv8.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv8/obj/Debug/netcoreapp2.2/cv8.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv8/obj/Debug/netcoreapp2.2/cv8.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv8/obj/cv8.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv8/obj/cv8.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv8/obj/cv8.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv8/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv8/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/.idea/.idea.dais1/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/dais1.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/Debug/netcoreapp2.2/dais1.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/Debug/netcoreapp2.2/dais1.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/Debug/netcoreapp2.2/dais1.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/Debug/netcoreapp2.2/dais1.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/dais1.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/dais1.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/dais1.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cv2/.idea/.idea.cv2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv2/.idea/.idea.cv2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cv3/.idea/.idea.cv3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/.idea/.idea.cv3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test1/.idea/.idea.test1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test1/.idea/.idea.test1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv8/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/cv8/Program.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -124,27 +37,27 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cv8/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="48" column="53" lean-forward="true" selection-start-line="48" selection-start-column="53" selection-end-line="48" selection-end-column="53" />
+            <state relative-caret-position="225">
+              <caret line="52" column="42" lean-forward="true" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
               <folding>
-                <marker date="1555426999217" expanded="true" signature="6:65" ph="..." />
-                <marker date="1555426999217" expanded="true" signature="144:4297" ph="{...}" />
-                <marker date="1555426999217" expanded="true" signature="164:3359" ph="{...}" />
-                <marker date="1555426999217" expanded="true" signature="206:3353" ph="{...}" />
-                <marker date="1555426999217" expanded="true" signature="596:3251" ph="{...}" />
-                <marker date="1555426999217" expanded="true" signature="614:2012" ph="/* using (StreamWriter sw = new StreamWriter(fs, Encoding.UTF8, 1024, true)) { ... */" />
-                <marker date="1555426999217" expanded="true" signature="2096:2458" ph="{...}" />
-                <marker date="1555426999217" expanded="true" signature="2206:2440" ph="{...}" />
-                <marker date="1555426999217" expanded="true" signature="2522:3035" ph="/* using (BinaryReader br =new BinaryReader(fs)) { ... */" />
-                <marker date="1555426999217" expanded="true" signature="3100:3216" ph="{...}" />
-                <marker date="1555426999217" expanded="true" signature="3379:4295" ph="{...}" />
-                <marker date="1555426999217" expanded="true" signature="3546:3557" ph="{...}" />
-                <marker date="1555426999217" expanded="true" signature="3640:3803" ph="{...}" />
-                <marker date="1555426999217" expanded="true" signature="3832:3903" ph="{...}" />
-                <marker date="1555426999217" expanded="true" signature="3928:3995" ph="{...}" />
-                <marker date="1555426999217" expanded="true" signature="4025:4096" ph="{...}" />
-                <marker date="1555426999217" expanded="true" signature="4122:4191" ph="{...}" />
-                <marker date="1555426999217" expanded="true" signature="4218:4287" ph="{...}" />
+                <marker date="1555432564789" expanded="true" signature="6:65" ph="..." />
+                <marker date="1555432564789" expanded="true" signature="144:4346" ph="{...}" />
+                <marker date="1555432564789" expanded="true" signature="164:3408" ph="{...}" />
+                <marker date="1555432564789" expanded="true" signature="206:3402" ph="{...}" />
+                <marker date="1555432564789" expanded="true" signature="596:3300" ph="{...}" />
+                <marker date="1555432564789" expanded="true" signature="614:2012" ph="/* using (StreamWriter sw = new StreamWriter(fs, Encoding.UTF8, 1024, true)) { ... */" />
+                <marker date="1555432564789" expanded="true" signature="2096:2447" ph="{...}" />
+                <marker date="1555432564789" expanded="true" signature="2195:2429" ph="{...}" />
+                <marker date="1555432564789" expanded="true" signature="2511:3024" ph="/* using (BinaryReader br =new BinaryReader(fs)) { ... */" />
+                <marker date="1555432564789" expanded="true" signature="3089:3265" ph="{...}" />
+                <marker date="1555432564789" expanded="true" signature="3428:4344" ph="{...}" />
+                <marker date="1555432564789" expanded="true" signature="3595:3606" ph="{...}" />
+                <marker date="1555432564789" expanded="true" signature="3689:3852" ph="{...}" />
+                <marker date="1555432564789" expanded="true" signature="3881:3952" ph="{...}" />
+                <marker date="1555432564789" expanded="true" signature="3977:4044" ph="{...}" />
+                <marker date="1555432564789" expanded="true" signature="4074:4145" ph="{...}" />
+                <marker date="1555432564789" expanded="true" signature="4171:4240" ph="{...}" />
+                <marker date="1555432564789" expanded="true" signature="4267:4336" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -261,12 +174,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555423263533</updated>
-      <workItem from="1555423267132" duration="4007000" />
+      <workItem from="1555423267132" duration="4871000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4007000" />
+    <option name="totallyTimeSpent" value="4871000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -292,11 +205,11 @@
       <window_info anchor="bottom" id="TeamCity" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Build" weight="0.32969433" />
+      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.32969433" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32969433" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32969433" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -334,27 +247,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cv8/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="48" column="53" lean-forward="true" selection-start-line="48" selection-start-column="53" selection-end-line="48" selection-end-column="53" />
+        <state relative-caret-position="225">
+          <caret line="52" column="42" lean-forward="true" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
           <folding>
-            <marker date="1555426999217" expanded="true" signature="6:65" ph="..." />
-            <marker date="1555426999217" expanded="true" signature="144:4297" ph="{...}" />
-            <marker date="1555426999217" expanded="true" signature="164:3359" ph="{...}" />
-            <marker date="1555426999217" expanded="true" signature="206:3353" ph="{...}" />
-            <marker date="1555426999217" expanded="true" signature="596:3251" ph="{...}" />
-            <marker date="1555426999217" expanded="true" signature="614:2012" ph="/* using (StreamWriter sw = new StreamWriter(fs, Encoding.UTF8, 1024, true)) { ... */" />
-            <marker date="1555426999217" expanded="true" signature="2096:2458" ph="{...}" />
-            <marker date="1555426999217" expanded="true" signature="2206:2440" ph="{...}" />
-            <marker date="1555426999217" expanded="true" signature="2522:3035" ph="/* using (BinaryReader br =new BinaryReader(fs)) { ... */" />
-            <marker date="1555426999217" expanded="true" signature="3100:3216" ph="{...}" />
-            <marker date="1555426999217" expanded="true" signature="3379:4295" ph="{...}" />
-            <marker date="1555426999217" expanded="true" signature="3546:3557" ph="{...}" />
-            <marker date="1555426999217" expanded="true" signature="3640:3803" ph="{...}" />
-            <marker date="1555426999217" expanded="true" signature="3832:3903" ph="{...}" />
-            <marker date="1555426999217" expanded="true" signature="3928:3995" ph="{...}" />
-            <marker date="1555426999217" expanded="true" signature="4025:4096" ph="{...}" />
-            <marker date="1555426999217" expanded="true" signature="4122:4191" ph="{...}" />
-            <marker date="1555426999217" expanded="true" signature="4218:4287" ph="{...}" />
+            <marker date="1555432564789" expanded="true" signature="6:65" ph="..." />
+            <marker date="1555432564789" expanded="true" signature="144:4346" ph="{...}" />
+            <marker date="1555432564789" expanded="true" signature="164:3408" ph="{...}" />
+            <marker date="1555432564789" expanded="true" signature="206:3402" ph="{...}" />
+            <marker date="1555432564789" expanded="true" signature="596:3300" ph="{...}" />
+            <marker date="1555432564789" expanded="true" signature="614:2012" ph="/* using (StreamWriter sw = new StreamWriter(fs, Encoding.UTF8, 1024, true)) { ... */" />
+            <marker date="1555432564789" expanded="true" signature="2096:2447" ph="{...}" />
+            <marker date="1555432564789" expanded="true" signature="2195:2429" ph="{...}" />
+            <marker date="1555432564789" expanded="true" signature="2511:3024" ph="/* using (BinaryReader br =new BinaryReader(fs)) { ... */" />
+            <marker date="1555432564789" expanded="true" signature="3089:3265" ph="{...}" />
+            <marker date="1555432564789" expanded="true" signature="3428:4344" ph="{...}" />
+            <marker date="1555432564789" expanded="true" signature="3595:3606" ph="{...}" />
+            <marker date="1555432564789" expanded="true" signature="3689:3852" ph="{...}" />
+            <marker date="1555432564789" expanded="true" signature="3881:3952" ph="{...}" />
+            <marker date="1555432564789" expanded="true" signature="3977:4044" ph="{...}" />
+            <marker date="1555432564789" expanded="true" signature="4074:4145" ph="{...}" />
+            <marker date="1555432564789" expanded="true" signature="4171:4240" ph="{...}" />
+            <marker date="1555432564789" expanded="true" signature="4267:4336" ph="{...}" />
           </folding>
         </state>
       </provider>

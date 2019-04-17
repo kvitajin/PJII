@@ -46,7 +46,7 @@ namespace cv8 {
                     }
                 }*/
                 using (BinaryWriter bw =new BinaryWriter(fs, Encoding.UTF8, true)) {
-                    bw.Write(((ICollection) osoby).Count);
+                    bw.Write((osoby.Length()));
                     foreach (Contact i in osoby) {
                         bw.Write(i.Jmeno);
                         bw.Write(i.Vek);
@@ -71,7 +71,8 @@ namespace cv8 {
 
                 using (BinaryReader br = new BinaryReader(fs)) {
                     br.BaseStream.Seek(9,SeekOrigin.Begin);
-                    br.ReadString();
+                    string email =br.ReadString();
+                    Console.WriteLine(email);
                 }
                 
                 }
