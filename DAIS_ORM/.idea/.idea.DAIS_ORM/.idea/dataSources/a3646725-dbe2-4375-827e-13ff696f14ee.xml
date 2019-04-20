@@ -514,8 +514,8 @@
     <schema id="171" parent="1" name="KVI0029">
       <ObjectId>939</ObjectId>
       <CreatedTimestamp>2019-02-14.15:49:18</CreatedTimestamp>
-      <ModifiedTimestamp>2019-04-17.23:45:13</ModifiedTimestamp>
-      <IntrospectionTimestamp>2019-04-17.23:45:16</IntrospectionTimestamp>
+      <ModifiedTimestamp>2019-04-18.17:29:51</ModifiedTimestamp>
+      <IntrospectionTimestamp>2019-04-18.17:29:52</IntrospectionTimestamp>
       <Current>1</Current>
       <Visible>1</Visible>
     </schema>
@@ -45700,7 +45700,7 @@ FOTO_FOTO_ID</ColNames>
       <Predicate> ( ( dokument_dokument_id IS NOT NULL )
     AND ( foto_foto_id IS NULL ) )
     OR ( ( foto_foto_id IS NOT NULL )
-      AND ( dokument_dokument_id IS NULL ) ) </Predicate>
+      AND ( dokument_dokument_id IS NULL ) )</Predicate>
     </check>
     <column id="6755" parent="392" name="OBEC_ID">
       <Position>1</Position>

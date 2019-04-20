@@ -10,7 +10,9 @@
       <e p="DAIS_ORM" t="IncludeRecursive">
         <e p="DAIS_ORM.csproj" t="IncludeRecursive" />
         <e p="Database.cs" t="Include" />
+        <e p="Dokument.cs" t="Include" />
         <e p="Program.cs" t="Include" />
+        <e p="Uzivatel.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
