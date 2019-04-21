@@ -24,15 +24,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79775e71-fbe8-4e42-a352-d31964a760b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DAIS_ORM/Dokument.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAIS_ORM/Uzivatel.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AuctionSystemORM_sqls/.idea/.idea.AuctionSystemORM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AuctionSystemORM_sqls/.idea/.idea.AuctionSystemORM/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AuctionSystemORM_sqls/Database/dao_sqls/AuctionTable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AuctionSystemORM_sqls/Database/dao_sqls/AuctionTable.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DAIS_ORM/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DAIS_ORM/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee/storage_v2/_src_/schema/KVI0029.hWFPFg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee/storage_v2/_src_/schema/KVI0029.hWFPFg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DAIS_ORM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DAIS_ORM/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAIS_ORM/Database.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAIS_ORM/Database.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAIS_ORM/Dokument.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAIS_ORM/Dokument.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAIS_ORM/Uzivatel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAIS_ORM/Uzivatel.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cv3/.idea/.idea.cv3/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/.idea/.idea.cv3/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cv3/.idea/.idea.cv3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/.idea/.idea.cv3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cv3/cv3/obj/Debug/netcoreapp2.2/cv3.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/cv3/obj/Debug/netcoreapp2.2/cv3.assets.cache" afterDir="false" />
@@ -130,8 +125,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DAIS_ORM/Database.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="135">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding>
                 <marker date="1555591058223" expanded="false" signature="6:61" ph="..." />
                 <marker date="1555591058223" expanded="true" signature="81:436" ph="{...}" />
@@ -145,7 +140,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a3646725-dbe2-4375-827e-13ff696f14ee/console.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2505">
+            <state relative-caret-position="833">
               <caret line="167" column="4" selection-start-line="167" selection-start-column="4" selection-end-line="167" selection-end-column="4" />
             </state>
           </provider>
@@ -155,26 +150,26 @@
         <entry file="file://$PROJECT_DIR$/DAIS_ORM/Uzivatel.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
               <folding>
-                <marker date="1555776083780" expanded="false" signature="6:95" ph="..." />
-                <marker date="1555776083780" expanded="true" signature="115:4453" ph="{...}" />
-                <marker date="1555776083780" expanded="true" signature="155:3668" ph="{...}" />
-                <marker date="1555776083780" expanded="true" signature="294:383" ph="{...}" />
-                <marker date="1555776083780" expanded="true" signature="430:1189" ph="{...}" />
-                <marker date="1555776083780" expanded="true" signature="844:1151" ph="{...}" />
-                <marker date="1555776083780" expanded="true" signature="1246:2063" ph="{...}" />
-                <marker date="1555776083780" expanded="true" signature="1718:2025" ph="{...}" />
-                <marker date="1555776083780" expanded="true" signature="2131:2393" ph="{...}" />
-                <marker date="1555776083780" expanded="true" signature="2448:2654" ph="{...}" />
-                <marker date="1555776083780" expanded="true" signature="2724:3652" ph="{...}" />
-                <marker date="1555776083780" expanded="true" signature="3151:3642" ph="{...}" />
-                <marker date="1555776083780" expanded="true" signature="3694:4451" ph="{...}" />
-                <marker date="1555776083780" expanded="true" signature="3897:3987" ph="{...}" />
-                <marker date="1555776083780" expanded="true" signature="4022:4114" ph="{...}" />
-                <marker date="1555776083780" expanded="true" signature="4146:4224" ph="{...}" />
-                <marker date="1555776083780" expanded="true" signature="4252:4328" ph="{...}" />
-                <marker date="1555776083780" expanded="true" signature="4359:4441" ph="{...}" />
+                <marker date="1555777972005" expanded="false" signature="6:95" ph="..." />
+                <marker date="1555777972005" expanded="true" signature="115:4510" ph="{...}" />
+                <marker date="1555777972005" expanded="true" signature="155:3725" ph="{...}" />
+                <marker date="1555777972005" expanded="true" signature="294:383" ph="{...}" />
+                <marker date="1555777972005" expanded="true" signature="430:1218" ph="{...}" />
+                <marker date="1555777972005" expanded="true" signature="844:1151" ph="{...}" />
+                <marker date="1555777972005" expanded="true" signature="1275:2120" ph="{...}" />
+                <marker date="1555777972005" expanded="true" signature="1747:2054" ph="{...}" />
+                <marker date="1555777972005" expanded="true" signature="2188:2450" ph="{...}" />
+                <marker date="1555777972005" expanded="true" signature="2505:2711" ph="{...}" />
+                <marker date="1555777972005" expanded="true" signature="2781:3709" ph="{...}" />
+                <marker date="1555777972005" expanded="true" signature="3208:3699" ph="{...}" />
+                <marker date="1555777972005" expanded="true" signature="3751:4508" ph="{...}" />
+                <marker date="1555777972005" expanded="true" signature="3954:4044" ph="{...}" />
+                <marker date="1555777972005" expanded="true" signature="4079:4171" ph="{...}" />
+                <marker date="1555777972005" expanded="true" signature="4203:4281" ph="{...}" />
+                <marker date="1555777972005" expanded="true" signature="4309:4385" ph="{...}" />
+                <marker date="1555777972005" expanded="true" signature="4416:4498" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -183,8 +178,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+            <state relative-caret-position="180">
+              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -192,22 +187,37 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DAIS_ORM/Dokument.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+            <state relative-caret-position="390">
+              <caret line="67" column="8" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
               <folding>
-                <marker date="1555592766555" expanded="false" signature="6:95" ph="..." />
-                <marker date="1555592766555" expanded="true" signature="116:1180" ph="{...}" />
-                <marker date="1555592766555" expanded="true" signature="153:1178" ph="{...}" />
-                <marker date="1555592766555" expanded="true" signature="266:1172" ph="{...}" />
-                <marker date="1555592766555" expanded="true" signature="404:588" ph="{...}" />
-                <marker date="1555592766555" expanded="true" signature="588:876" ph="{...}" />
-                <marker date="1555592766555" expanded="true" signature="1183:1560" ph="/* SqlCommand list = _connection.CreateCommand(); ... */" />
+                <marker date="1555856282619" expanded="false" signature="6:95" ph="..." />
+                <marker date="1555856282619" expanded="true" signature="155:3644" ph="{...}" />
+                <marker date="1555856282619" expanded="true" signature="192:3210" ph="{...}" />
+                <marker date="1555856282619" expanded="true" signature="305:1212" ph="{...}" />
+                <marker date="1555856282619" expanded="true" signature="443:627" ph="{...}" />
+                <marker date="1555856282619" expanded="true" signature="627:916" ph="{...}" />
+                <marker date="1555856282619" expanded="true" signature="1278:1598" ph="{...}" />
+                <marker date="1555856282619" expanded="true" signature="1657:2315" ph="{...}" />
+                <marker date="1555856282619" expanded="true" signature="2009:2250" ph="{...}" />
+                <marker date="1555856282619" expanded="true" signature="2399:2884" ph="{...}" />
+                <marker date="1555856282619" expanded="true" signature="2958:3186" ph="{...}" />
+                <marker date="1555856282619" expanded="true" signature="3234:3642" ph="{...}" />
+                <marker date="1555856282619" expanded="true" signature="3359:3432" ph="{...}" />
+                <marker date="1555856282619" expanded="true" signature="3462:3533" ph="{...}" />
+                <marker date="1555856282619" expanded="true" signature="3565:3636" ph="{...}" />
+                <marker date="1555856282619" expanded="true" signature="3647:4024" ph="/* SqlCommand list = _connection.CreateCommand(); ... */" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>reader</find>
+      <find>insert</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -222,10 +232,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/DAIS_ORM/Database.cs" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-        <option value="$PROJECT_DIR$/DAIS_ORM/Dokument.cs" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a3646725-dbe2-4375-827e-13ff696f14ee/console.sql" />
         <option value="$PROJECT_DIR$/DAIS_ORM/Uzivatel.cs" />
+        <option value="$PROJECT_DIR$/DAIS_ORM/Dokument.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
       </list>
     </option>
   </component>
@@ -247,6 +257,11 @@
           <expand>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DAIS_ORM" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DAIS_ORM" type="24d0babc:SolutionExplorerModelNode" />
               <item name="DAIS_ORM" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
@@ -301,19 +316,24 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/DAIS_ORM/bin/Debug/netcoreapp2.2/DAIS_ORM.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DAIS_ORM" />
       <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/DAIS_ORM/DAIS_ORM.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="None" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <browser url="http://localhost:5000" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
@@ -333,12 +353,12 @@
       <workItem from="1555529949175" duration="2852000" />
       <workItem from="1555535700555" duration="15172000" />
       <workItem from="1555680218940" duration="1298000" />
-      <workItem from="1555775316562" duration="768000" />
+      <workItem from="1555775316562" duration="9045000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24412000" />
+    <option name="totallyTimeSpent" value="32689000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -358,9 +378,10 @@
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32969433" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32969433" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -379,7 +400,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="Errors In Solution" order="4" />
-      <window_info active="true" anchor="right" id="Database" order="5" visible="true" weight="0.20010673" />
+      <window_info anchor="right" id="Database" order="5" visible="true" weight="0.20010673" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -417,10 +438,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a3646725-dbe2-4375-827e-13ff696f14ee/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="167" column="4" selection-start-line="167" selection-start-column="4" selection-end-line="167" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DAIS_ORM/Database.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="135">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
             <marker date="1555591058223" expanded="false" signature="6:61" ph="..." />
             <marker date="1555591058223" expanded="true" signature="81:436" ph="{...}" />
@@ -430,60 +458,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a3646725-dbe2-4375-827e-13ff696f14ee/console.sql">
+    <entry file="file://$PROJECT_DIR$/DAIS_ORM/Uzivatel.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2505">
-          <caret line="167" column="4" selection-start-line="167" selection-start-column="4" selection-end-line="167" selection-end-column="4" />
+        <state relative-caret-position="345">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding>
+            <marker date="1555777972005" expanded="false" signature="6:95" ph="..." />
+            <marker date="1555777972005" expanded="true" signature="115:4510" ph="{...}" />
+            <marker date="1555777972005" expanded="true" signature="155:3725" ph="{...}" />
+            <marker date="1555777972005" expanded="true" signature="294:383" ph="{...}" />
+            <marker date="1555777972005" expanded="true" signature="430:1218" ph="{...}" />
+            <marker date="1555777972005" expanded="true" signature="844:1151" ph="{...}" />
+            <marker date="1555777972005" expanded="true" signature="1275:2120" ph="{...}" />
+            <marker date="1555777972005" expanded="true" signature="1747:2054" ph="{...}" />
+            <marker date="1555777972005" expanded="true" signature="2188:2450" ph="{...}" />
+            <marker date="1555777972005" expanded="true" signature="2505:2711" ph="{...}" />
+            <marker date="1555777972005" expanded="true" signature="2781:3709" ph="{...}" />
+            <marker date="1555777972005" expanded="true" signature="3208:3699" ph="{...}" />
+            <marker date="1555777972005" expanded="true" signature="3751:4508" ph="{...}" />
+            <marker date="1555777972005" expanded="true" signature="3954:4044" ph="{...}" />
+            <marker date="1555777972005" expanded="true" signature="4079:4171" ph="{...}" />
+            <marker date="1555777972005" expanded="true" signature="4203:4281" ph="{...}" />
+            <marker date="1555777972005" expanded="true" signature="4309:4385" ph="{...}" />
+            <marker date="1555777972005" expanded="true" signature="4416:4498" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DAIS_ORM/Dokument.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        <state relative-caret-position="390">
+          <caret line="67" column="8" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
           <folding>
-            <marker date="1555592766555" expanded="false" signature="6:95" ph="..." />
-            <marker date="1555592766555" expanded="true" signature="116:1180" ph="{...}" />
-            <marker date="1555592766555" expanded="true" signature="153:1178" ph="{...}" />
-            <marker date="1555592766555" expanded="true" signature="266:1172" ph="{...}" />
-            <marker date="1555592766555" expanded="true" signature="404:588" ph="{...}" />
-            <marker date="1555592766555" expanded="true" signature="588:876" ph="{...}" />
-            <marker date="1555592766555" expanded="true" signature="1183:1560" ph="/* SqlCommand list = _connection.CreateCommand(); ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DAIS_ORM/Uzivatel.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-          <folding>
-            <marker date="1555776083780" expanded="false" signature="6:95" ph="..." />
-            <marker date="1555776083780" expanded="true" signature="115:4453" ph="{...}" />
-            <marker date="1555776083780" expanded="true" signature="155:3668" ph="{...}" />
-            <marker date="1555776083780" expanded="true" signature="294:383" ph="{...}" />
-            <marker date="1555776083780" expanded="true" signature="430:1189" ph="{...}" />
-            <marker date="1555776083780" expanded="true" signature="844:1151" ph="{...}" />
-            <marker date="1555776083780" expanded="true" signature="1246:2063" ph="{...}" />
-            <marker date="1555776083780" expanded="true" signature="1718:2025" ph="{...}" />
-            <marker date="1555776083780" expanded="true" signature="2131:2393" ph="{...}" />
-            <marker date="1555776083780" expanded="true" signature="2448:2654" ph="{...}" />
-            <marker date="1555776083780" expanded="true" signature="2724:3652" ph="{...}" />
-            <marker date="1555776083780" expanded="true" signature="3151:3642" ph="{...}" />
-            <marker date="1555776083780" expanded="true" signature="3694:4451" ph="{...}" />
-            <marker date="1555776083780" expanded="true" signature="3897:3987" ph="{...}" />
-            <marker date="1555776083780" expanded="true" signature="4022:4114" ph="{...}" />
-            <marker date="1555776083780" expanded="true" signature="4146:4224" ph="{...}" />
-            <marker date="1555776083780" expanded="true" signature="4252:4328" ph="{...}" />
-            <marker date="1555776083780" expanded="true" signature="4359:4441" ph="{...}" />
+            <marker date="1555856282619" expanded="false" signature="6:95" ph="..." />
+            <marker date="1555856282619" expanded="true" signature="155:3644" ph="{...}" />
+            <marker date="1555856282619" expanded="true" signature="192:3210" ph="{...}" />
+            <marker date="1555856282619" expanded="true" signature="305:1212" ph="{...}" />
+            <marker date="1555856282619" expanded="true" signature="443:627" ph="{...}" />
+            <marker date="1555856282619" expanded="true" signature="627:916" ph="{...}" />
+            <marker date="1555856282619" expanded="true" signature="1278:1598" ph="{...}" />
+            <marker date="1555856282619" expanded="true" signature="1657:2315" ph="{...}" />
+            <marker date="1555856282619" expanded="true" signature="2009:2250" ph="{...}" />
+            <marker date="1555856282619" expanded="true" signature="2399:2884" ph="{...}" />
+            <marker date="1555856282619" expanded="true" signature="2958:3186" ph="{...}" />
+            <marker date="1555856282619" expanded="true" signature="3234:3642" ph="{...}" />
+            <marker date="1555856282619" expanded="true" signature="3359:3432" ph="{...}" />
+            <marker date="1555856282619" expanded="true" signature="3462:3533" ph="{...}" />
+            <marker date="1555856282619" expanded="true" signature="3565:3636" ph="{...}" />
+            <marker date="1555856282619" expanded="true" signature="3647:4024" ph="/* SqlCommand list = _connection.CreateCommand(); ... */" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        <state relative-caret-position="180">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
         </state>
       </provider>
     </entry>

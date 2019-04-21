@@ -1,0 +1,11 @@
+/home/kvitajin/RiderProjects/vsb/DAIS_ORM/DAIS_ORM/bin/Debug/netcoreapp2.2/DAIS_ORM.deps.json
+/home/kvitajin/RiderProjects/vsb/DAIS_ORM/DAIS_ORM/bin/Debug/netcoreapp2.2/DAIS_ORM.runtimeconfig.json
+/home/kvitajin/RiderProjects/vsb/DAIS_ORM/DAIS_ORM/bin/Debug/netcoreapp2.2/DAIS_ORM.runtimeconfig.dev.json
+/home/kvitajin/RiderProjects/vsb/DAIS_ORM/DAIS_ORM/bin/Debug/netcoreapp2.2/DAIS_ORM.dll
+/home/kvitajin/RiderProjects/vsb/DAIS_ORM/DAIS_ORM/bin/Debug/netcoreapp2.2/DAIS_ORM.pdb
+/home/kvitajin/RiderProjects/vsb/DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.csprojAssemblyReference.cache
+/home/kvitajin/RiderProjects/vsb/DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.csproj.CoreCompileInputs.cache
+/home/kvitajin/RiderProjects/vsb/DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.AssemblyInfoInputs.cache
+/home/kvitajin/RiderProjects/vsb/DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.AssemblyInfo.cs
+/home/kvitajin/RiderProjects/vsb/DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.dll
+/home/kvitajin/RiderProjects/vsb/DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.pdb

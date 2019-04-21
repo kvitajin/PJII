@@ -24,6 +24,8 @@ namespace DAIS_ORM {
                 vystup.Add(tmp);
             }
 
+            reader.Close();
+
             return vystup;
         }
 
@@ -42,6 +44,7 @@ namespace DAIS_ORM {
                 tmp.ObecNazev = Convert.ToString(reader["nazev"]);
                 vystup.Add(tmp);
             }
+            reader.Close();
 
             return vystup;
         }
