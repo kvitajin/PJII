@@ -1,48 +1,82 @@
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Data;
 using System.Data.SqlClient;
+using System.Security.Cryptography;
+using Oracle.ManagedDataAccess.Client;
 
 namespace DAIS_ORM {
     public class Obec : Database {
-        public void VytvorObec(string nazev) {
-            SqlCommand create = _connection.CreateCommand();
-            create.CommandText = "INSERT INTO SEM_OBEC(NAZEV) VALUES (@NAZEV)";
-            create.Parameters.AddWithValue("NAZEV", nazev);
-            create.ExecuteNonQuery();
+        public void VytvorObec(string nazev) { 
+            using (OracleCommand cmd = new OracleCommand()) {
+                    cmd.Connection = Connection;
+                    cmd.CommandText = "INSERT INTO SEM_OBEC(obec_id, nazev, vidible) VALUES (SEQ_OBEC.nextval,:obec, 1)";
+                    cmd.Parameters.Add("obec", nazev);
+                    int tmo = cmd.ExecuteNonQuery();
+                }
         }
-
+    
         public void SkryjObec(int obecId) {
-            SqlCommand hide = _connection.CreateCommand();
-            hide.CommandText = "UPDATE SEM_OBEC SET VIDIBLE =0 where OBEC_ID=obecId";
-            hide.ExecuteNonQuery();
+            using (OracleCommand cmd = new OracleCommand()) {
+                cmd.Connection = Connection;
+                cmd.CommandText = "UPDATE SEM_OBEC SET VIDIBLE=0 WHERE OBEC_ID=:obecId";
+                cmd.Parameters.Add("obedId", obecId);
+                int tmp = cmd.ExecuteNonQuery();
+            }
         }
 
-        public IList<Obc> ZobrazObce() {
-            SqlCommand show = _connection.CreateCommand();
-            show.CommandText = "SELECT NAZEV FROM SEM_OBEC WHERE VIDIBLE=1 ";
-            Obc tmp = new Obc();
-            IList<Obc> vystup = new List<Obc>();
-            SqlDataReader reader = show.ExecuteReader();
-            while ((reader.Read())) {
-                tmp.Nazev = Convert.ToString(reader["nazev"]);
-                vystup.Add(tmp);
-            }
 
-            return vystup;
+        public List<Obc> ZobrazObce() {
+            using (Connection) {
+                using (OracleCommand cmd = new OracleCommand()) {
+                    cmd.Connection = Connection;
+                    cmd.CommandText = "SELECT NAZEV FROM SEM_OBEC WHERE VIDIBLE=1 ";
+                    List<Obc> vystup = new List<Obc>();
+                    OracleDataReader reader = cmd.ExecuteReader();
+                    while (reader.Read()) {
+                        Obc tmp = new Obc();
+                        tmp.Nazev = (string) reader.GetValue(0);
+                        vystup.Add(tmp);
+                    }
+                    reader.Close();
+                    return vystup;
+                }
+            }
+        }
+
+        public List<Obc> ZobrazVsechnyObce() {
+            using (Connection) {
+                using (OracleCommand cmd = new OracleCommand()) {
+                    cmd.Connection = Connection;
+                    cmd.CommandText = "SELECT nazev, vidible FROM SEM_OBEC";
+                    List<Obc> vystup = new List<Obc>();
+                    OracleDataReader reader = cmd.ExecuteReader();
+                    while (reader.Read()) {
+                        Obc tmp = new Obc();
+                        tmp.Nazev = (string) reader.GetValue(0);
+                        tmp.Visibility = (Decimal) reader.GetValue(1);
+                        
+                        vystup.Add(tmp);
+                    }
+                    reader.Close();
+                    return vystup;
+                }
+                
+            }
         }
     }
 
     public class Obc {
         private string nazev;
-        private int visibility;
+        private Decimal? visibility;
 
         public string Nazev {
             get => nazev;
             set => nazev = value;
         }
 
-        public int Visibility {
+        public Decimal? Visibility {
             get => visibility;
             set => visibility = value;
         }

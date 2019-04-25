@@ -8,6 +8,7 @@
     <e p="$USER_HOME$/.Rider2018.3/system/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_DAIS_ORM.1290614938.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="DAIS_ORM" t="IncludeRecursive">
+        <e p="Album.cs" t="Include" />
         <e p="DAIS_ORM.csproj" t="IncludeRecursive" />
         <e p="Database.cs" t="Include" />
         <e p="Dokument.cs" t="Include" />
