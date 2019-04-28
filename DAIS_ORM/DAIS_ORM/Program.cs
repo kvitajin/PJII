@@ -34,12 +34,53 @@ namespace DAIS_ORM {
             Database db = new Database();
             db.Connect();
             Obec obec = new Obec();
-            //obec.VytvorObec("Závišice");
+            Dokument dokument = new Dokument();
+            Rubrika rubrika = new Rubrika();
+            Uzivatel uzivatel = new Uzivatel();
+            Album album = new Album();
+            DateTime naroz=  new DateTime(2006, 04, 26 );
+                uzivatel.RegistraceUzivatele("Edie", "qwerty123", "qwerty123", "qwerty1@seznam.cz", 1, naroz);
+            
+/**3.1.**/
+//            obec.VytvorObec("Závišice");
+/**3.2.**/
 //            obec.SkryjObec(2);
-            var tmp= obec.ZobrazVsechnyObce();
-            foreach (var obc in tmp) {
-                Console.WriteLine(obc.Nazev + "\t" + obc.Visibility);
+//*3.3.**/
+//            var tmp= obec.ZobrazVsechnyObce();
+//            foreach (var obc in tmp) {
+//                Console.WriteLine(obc.Nazev + "\t" + obc.Visibility);
+//            }
+
+
+//            dokument.VytvorDokument(1, "Hovno", "wjfnsflkslskjslkjcscksjcnskjcsnckjscnksjcnskcjsncksjcnskjcnscjksdncksjcnskjcnsdckjsndckjsnckjsdc", 1);
+//            dokument.UpravDokument(1, "ajdndlmld");
+
+//            var tmp = dokument.ZobrazDetailDokumentuVRubrice(1);
+//            foreach (var doku in tmp) {
+//                Console.WriteLine(doku.Nadpis + "\n" + doku.Datum + "\n" + doku.Obsah + "\n");
+//            }
+/**7.1.**/
+//            rubrika.PridejRubriku("PokusnaRubrika");
+
+//            rubrika.UpravRubriku(1, "wtf");
+/**7.2.**/
+//            db.Connect();
+//            var tmp = rubrika.VypisDokumentyVRubrice(1);
+//            foreach (var doku in tmp) {
+//                Console.WriteLine(doku.Nadpis + "\n" + doku.Datum  + "\n");
+//            }
+/**4.1.**/
+            db.Connect();
+            album.VytvorAlbum("pokusneAlbum", 1);
+/**4.2.**/
+            db.Connect();
+            var alba = album.ZobrazAlbaObce(1);
+            foreach (var album1 in alba) {
+                Console.WriteLine(album1.Nazev);
             }
+/**4.3.**/
+            db.Connect();
+            album.SkryjAlbum(2);
             db.Disconnect();
 
 

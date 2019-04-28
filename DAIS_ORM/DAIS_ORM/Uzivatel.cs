@@ -2,12 +2,54 @@ using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
+using System.Threading.Tasks.Dataflow;
+using Oracle.ManagedDataAccess.Client;
+
 namespace DAIS_ORM {
        public class Uzivatel:Database {
-//        public void RegistraceUzivatele(string jmeno, string heslo, string hesloZnova, string email, int obecId, DateTime datumNarozeni) {
-//            SqlCommand reg = _connection.CreateCommand();
-//            //TODO 
-//        }
+        public void RegistraceUzivatele(string nick, string heslo, string hesloZnova, string email, int obecId, DateTime datumNarozeni) {        
+            using (Connection) {
+                using (OracleCommand cmd = new OracleCommand()) {
+                    DateTime now = DateTime.Now;  
+                    int vek = new DateTime(DateTime.Now.Subtract(datumNarozeni).Ticks).Year - 1;  
+                   //Console.WriteLine(vek);
+                   if (vek >= 13) {
+                       using (OracleCommand mail = new OracleCommand()) {
+                           mail.Connection = Connection;
+                           mail.CommandText = "SELECT COUNT(*) FROM SEM_UZIVATEL WHERE EMAIL =:mail ";
+                           mail.Parameters.Add("mail", email);
+                           OracleDataReader reader = mail.ExecuteReader();
+                           reader.Read();
+                           Console.WriteLine(reader.GetValue(0));
+                           decimal pocet = (decimal)reader.GetValue(0);
+                           if (pocet!=0) {
+                               return;
+                           }
+                           reader.Close();
+                       }
+
+                       if (heslo != hesloZnova) {
+                           return;
+                       }
+
+                       string hash = BCrypt.Net.BCrypt.HashString(heslo);
+                       Database db = new Database();
+                       db.Connect();
+                       cmd.Connection = Connection;
+                       cmd.CommandText =
+                           @"INSERT INTO SEM_UZIVATEL (UZIVATEL_ID, NICK, HESLO, EMAIL, DATUM_NAROZENI, BAN, OBEC_OBEC_ID) 
+                           VALUES (SEQ_UZIVATEL.nextval, :nick, :hash, :mail, :datum, 0, :obecId)";
+                       cmd.Parameters.Add("nick", nick);
+                       cmd.Parameters.Add("hash", hash);
+                       cmd.Parameters.Add("mail", email);
+                       cmd.Parameters.Add("datum", datumNarozeni);
+                       cmd.Parameters.Add("obecId", obecId);
+                       cmd.ExecuteNonQuery();
+                       db.Disconnect();
+                   }
+                }
+            }
+        }
 //
 //        public IList<User> SeznamUzivatelu() {
 //            SqlCommand list = _connection.CreateCommand();
