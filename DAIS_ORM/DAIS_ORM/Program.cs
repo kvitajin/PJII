@@ -82,17 +82,49 @@ namespace DAIS_ORM {
             db.Connect();
             album.SkryjAlbum(2);
             db.Disconnect();
+/**1.1.**/
+            db.Connect();
+            uzivatel.RegistraceUzivatele("Alfonz", "zxcvbnm321", "zxcvbnm321", "hubert1@seznam.cz", 2, naroz);
+/**1.2.**/
+            db.Connect();
+            var uzivatele = uzivatel.SeznamUzivatelu();
+            foreach (var vsichniUzivatele in uzivatele) {
+                Console.WriteLine(vsichniUzivatele.Nick + "\t"+ 
+                                  vsichniUzivatele.Ban + "\t" + 
+                                  vsichniUzivatele.ObecNazev);
+            }
+/**1.2.**/            
+            db.Connect();
+            var uzivateleObce = uzivatel.SeznamUzivatelu(1);
+            Console.WriteLine("uzivatele obce Rybi:");
+            foreach (var uzivatelObce in uzivateleObce) {
+                Console.WriteLine(uzivatelObce.Nick + "\t" +
+                                  uzivatelObce.Ban + "\t" +
+                                  uzivatelObce.ObecNazev);
+            }
+/**1.3.**/
+            db.Connect();
+            uzivatel.ZmenaStavuUzivatele(1, "Admin");
+/**1.4.**/
+            db.Connect();
+            uzivatel.ZabanovaniUzivatele(3);
+/**1.5.**/            
+            db.Connect();
+            uzivatel.SmazaniUzivatele(4);
+/**1.6.**/            
+            db.Connect();
+            Uzivatel vypisUzivatel = uzivatel.PrihlaseniUzivatele("qwerty1@seznam.cz","qwerty123");
+            if (vypisUzivatel != null) {
+                Console.WriteLine(vypisUzivatel.Nick + ", ban: " +vypisUzivatel.Ban + ", Obec Id: " + vypisUzivatel.ObecId);
+            }
+            
+                
+            
 
 
-            
-            
-            
-            
-            
-            
-            
-            
-            
+
+
+
 
 
 //            using (OracleConnection con = new OracleConnection("User Id=sku0084;Password=kZtothRHMv;Data Source=(DESCRIPTION = (ADDRESS_LIST = (ADDRESS = (PROTOCOL = TCP)(HOST = dbsys.cs.vsb.cz)(PORT = 1521)))(CONNECT_DATA = (SERVER = DEDICATED)(SERVICE_NAME = oracle.dbsys.cs.vsb.cz)));"))

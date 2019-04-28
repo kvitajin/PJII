@@ -41,7 +41,7 @@ namespace DAIS_ORM {
                         tmp.Datum = (DateTime) reader.GetValue(1);
                         vystup.Add(tmp);
                     }
-
+    
                     return vystup;
                 }
             }
