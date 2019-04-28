@@ -39,6 +39,7 @@ namespace DAIS_ORM {
                         tmp.Nazev = (string) reader.GetValue(0);
                         vystup.Add(tmp);
                     }
+
                     reader.Close();
                     return vystup;
                 }

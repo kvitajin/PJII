@@ -32,14 +32,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79775e71-fbe8-4e42-a352-d31964a760b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DAIS_ORM/Fotografie.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAIS_ORM/Komentar.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAIS_ORM/VerejneOznameni.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AuctionSystemORM_sqls/.idea/.idea.AuctionSystemORM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AuctionSystemORM_sqls/.idea/.idea.AuctionSystemORM/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AuctionSystemORM_sqls/Database/dao_sqls/AuctionTable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AuctionSystemORM_sqls/Database/dao_sqls/AuctionTable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DAIS_ORM/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DAIS_ORM/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee/storage_v2/_src_/schema/KVI0029.hWFPFg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee/storage_v2/_src_/schema/KVI0029.hWFPFg.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DAIS_ORM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DAIS_ORM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAIS_ORM/Obec.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAIS_ORM/Obec.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DAIS_ORM/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAIS_ORM/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAIS_ORM/Rubrika.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAIS_ORM/Rubrika.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAIS_ORM/Uzivatel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAIS_ORM/Uzivatel.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DAIS_ORM/bin/Debug/netcoreapp2.2/DAIS_ORM.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DAIS_ORM/bin/Debug/netcoreapp2.2/DAIS_ORM.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DAIS_ORM/bin/Debug/netcoreapp2.2/DAIS_ORM.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DAIS_ORM/bin/Debug/netcoreapp2.2/DAIS_ORM.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cv3/.idea/.idea.cv3/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/.idea/.idea.cv3/.idea/contentModel.xml" afterDir="false" />
@@ -107,211 +113,203 @@
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="@dbsys.cs.vsb.cz" type="feb32156:DbDataSourceImpl" />
         <item name="KVI0029: schema" type="3abd1b6a:OraImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="SEM_FOTO: table" type="942f455b:OraImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@dbsys.cs.vsb.cz" type="feb32156:DbDataSourceImpl" />
+        <item name="KVI0029: schema" type="3abd1b6a:OraImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="SEM_KOMENTAR: table" type="942f455b:OraImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@dbsys.cs.vsb.cz" type="feb32156:DbDataSourceImpl" />
+        <item name="KVI0029: schema" type="3abd1b6a:OraImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="SEM_VEREJNE_OZNAMENI: table" type="942f455b:OraImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@dbsys.cs.vsb.cz" type="feb32156:DbDataSourceImpl" />
+        <item name="KVI0029: schema" type="3abd1b6a:OraImplModel$Schema" />
         <item name="sequences" type="d4e8921:DatabaseStructure$FamilyGroup" />
       </path>
     </expand>
     <select />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5683453">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/DAIS_ORM/Program.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="529">
-                  <caret line="117" column="16" lean-forward="true" selection-start-line="117" selection-start-column="16" selection-end-line="117" selection-end-column="16" />
-                  <folding>
-                    <marker date="1556454371382" expanded="false" signature="6:236" ph="..." />
-                    <marker date="1556454371382" expanded="true" signature="93:159" ph="/* using Oracle.DataAccess.Client; ... */" />
-                    <marker date="1556454371382" expanded="true" signature="257:5527" ph="{...}" />
-                    <marker date="1556454371382" expanded="true" signature="277:5525" ph="{...}" />
-                    <marker date="1556454371382" expanded="true" signature="319:5519" ph="{...}" />
-                    <marker date="1556454371382" expanded="true" signature="321:1323" ph="/* Database db = new Database(); ... */" />
-                    <marker date="1556454371382" expanded="true" signature="1856:2077" ph="/* obec.SkryjObec(2); ... */" />
-                    <marker date="1556454371382" expanded="true" signature="2080:2510" ph="/* dokument.VytvorDokument(1, &quot;Hovno&quot;, &quot;wjfnsflkslskjslkjcscksjcnskjcsnckjscnksjcnskcjsncksjcnskjcnscjksdncksjcns ... */" />
-                    <marker date="1556454371382" expanded="true" signature="2522:2623" ph="/* rubrika.PridejRubriku(&quot;PokusnaRubrika&quot;); ... */" />
-                    <marker date="1556454371382" expanded="true" signature="2635:2857" ph="/* db.Connect(); ... */" />
-                    <marker date="1556454371382" expanded="true" signature="3071:3135" ph="{...}" />
-                    <marker date="1556454371382" expanded="true" signature="3532:3740" ph="{...}" />
-                    <marker date="1556454371382" expanded="true" signature="3962:4157" ph="{...}" />
-                    <marker date="1556454371382" expanded="true" signature="4634:5507" ph="/* using (OracleConnection con = new OracleConnection(&quot;User Id=sku0084;Password=kZtothRHMv;Data Source=(DESCRIPTI ... */" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/DAIS_ORM/Rubrika.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="399">
-                  <caret line="43" column="4" lean-forward="true" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
-                  <folding>
-                    <marker date="1556451774091" expanded="false" signature="6:86" ph="..." />
-                    <marker date="1556451774091" expanded="true" signature="107:2053" ph="{...}" />
-                    <marker date="1556451774091" expanded="true" signature="143:2051" ph="{...}" />
-                    <marker date="1556451774091" expanded="true" signature="193:614" ph="{...}" />
-                    <marker date="1556451774091" expanded="true" signature="226:604" ph="{...}" />
-                    <marker date="1556451774091" expanded="true" signature="292:590" ph="{...}" />
-                    <marker date="1556451774091" expanded="true" signature="677:1121" ph="{...}" />
-                    <marker date="1556451774091" expanded="true" signature="710:1111" ph="{...}" />
-                    <marker date="1556451774091" expanded="true" signature="776:1097" ph="{...}" />
-                    <marker date="1556451774091" expanded="true" signature="1191:2045" ph="{...}" />
-                    <marker date="1556451774091" expanded="true" signature="1224:2035" ph="{...}" />
-                    <marker date="1556451774091" expanded="true" signature="1290:2021" ph="{...}" />
-                    <marker date="1556451774091" expanded="true" signature="1712:1963" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a3646725-dbe2-4375-827e-13ff696f14ee/console.sql">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="538">
-                  <caret line="215" selection-start-line="215" selection-end-line="215" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="15">
-                  <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/DAIS_ORM/Album.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="413">
-                  <caret line="53" column="42" selection-start-line="53" selection-start-column="42" selection-end-line="53" selection-end-column="42" />
-                  <folding>
-                    <marker date="1556442264675" expanded="true" signature="6:154" ph="..." />
-                    <marker date="1556442264675" expanded="true" signature="175:2191" ph="{...}" />
-                    <marker date="1556442264675" expanded="true" signature="209:2189" ph="{...}" />
-                    <marker date="1556442264675" expanded="true" signature="270:341" ph="{...}" />
-                    <marker date="1556442264675" expanded="true" signature="401:910" ph="{...}" />
-                    <marker date="1556442264675" expanded="true" signature="434:900" ph="{...}" />
-                    <marker date="1556442264675" expanded="true" signature="500:886" ph="{...}" />
-                    <marker date="1556442264675" expanded="true" signature="966:1745" ph="{...}" />
-                    <marker date="1556442264675" expanded="true" signature="999:1735" ph="{...}" />
-                    <marker date="1556442264675" expanded="true" signature="1065:1721" ph="{...}" />
-                    <marker date="1556442264675" expanded="true" signature="1455:1632" ph="{...}" />
-                    <marker date="1556442264675" expanded="true" signature="1791:2183" ph="{...}" />
-                    <marker date="1556442264675" expanded="true" signature="1824:2173" ph="{...}" />
-                    <marker date="1556442264675" expanded="true" signature="1890:2159" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/DAIS_ORM/Uzivatel.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-143">
-                  <caret line="174" column="43" selection-start-line="174" selection-start-column="43" selection-end-line="174" selection-end-column="43" />
-                  <folding>
-                    <marker date="1556453861424" expanded="false" signature="6:173" ph="..." />
-                    <marker date="1556453861424" expanded="true" signature="194:8822" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="234:8820" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="455:533" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="565:641" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="676:758" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="795:885" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="924:1016" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="1153:3265" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="1194:3255" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="1260:3241" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="1491:3223" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="1565:2223" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="2086:2155" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="2273:2334" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="3314:4421" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="3347:4412" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="3413:4398" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="3855:4309" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="4480:5662" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="4512:5653" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="4577:5640" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="5108:5554" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="5732:6812" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="5807:5849" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="5904:5946" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="6009:6050" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="6103:6143" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="6206:6246" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="6246:6360" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="6391:6803" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="6456:6790" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="6876:7271" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="6908:7262" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="6973:7249" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="7325:7721" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="7357:7712" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="7422:7699" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="7794:8814" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="7826:8805" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="7891:8792" ph="{...}" />
-                    <marker date="1556453861424" expanded="true" signature="8298:8640" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/DAIS_ORM/Obec.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="64">
-                  <caret line="43" column="17" lean-forward="true" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
-                  <folding>
-                    <marker date="1556197694938" expanded="false" signature="6:199" ph="..." />
-                    <marker date="1556197694938" expanded="true" signature="220:2936" ph="{...}" />
-                    <marker date="1556197694938" expanded="true" signature="255:2618" ph="{...}" />
-                    <marker date="1556197694938" expanded="true" signature="302:673" ph="{...}" />
-                    <marker date="1556197694938" expanded="true" signature="365:663" ph="{...}" />
-                    <marker date="1556197694938" expanded="true" signature="721:1045" ph="{...}" />
-                    <marker date="1556197694938" expanded="true" signature="783:1035" ph="{...}" />
-                    <marker date="1556197694938" expanded="true" signature="1086:1773" ph="{...}" />
-                    <marker date="1556197694938" expanded="true" signature="1119:1763" ph="{...}" />
-                    <marker date="1556197694938" expanded="true" signature="1185:1749" ph="{...}" />
-                    <marker date="1556197694938" expanded="true" signature="1486:1660" ph="{...}" />
-                    <marker date="1556197694938" expanded="true" signature="1820:2612" ph="{...}" />
-                    <marker date="1556197694938" expanded="true" signature="1853:2602" ph="{...}" />
-                    <marker date="1556197694938" expanded="true" signature="1919:2571" ph="{...}" />
-                    <marker date="1556197694938" expanded="true" signature="2212:2482" ph="{...}" />
-                    <marker date="1556197694938" expanded="true" signature="2641:2934" ph="{...}" />
-                    <marker date="1556197694938" expanded="true" signature="2739:2810" ph="{...}" />
-                    <marker date="1556197694938" expanded="true" signature="2847:2928" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="das://a3646725-dbe2-4375-827e-13ff696f14ee/schema/KVI0029/table/SEM_UZIVATEL">
-              <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-                <state>
-                  <filtering enabled="true" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DAIS_ORM/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="398">
+              <caret line="147" column="66" selection-start-line="147" selection-start-column="66" selection-end-line="147" selection-end-column="66" />
+              <folding>
+                <marker date="1556483024186" expanded="false" signature="6:236" ph="..." />
+                <marker date="1556483024186" expanded="true" signature="93:159" ph="/* using Oracle.DataAccess.Client; ... */" />
+                <marker date="1556483024186" expanded="true" signature="257:5364" ph="{...}" />
+                <marker date="1556483024186" expanded="true" signature="277:5362" ph="{...}" />
+                <marker date="1556483024186" expanded="true" signature="319:5350" ph="{...}" />
+                <marker date="1556483024186" expanded="true" signature="1148:1356" ph="{...}" />
+                <marker date="1556483024186" expanded="true" signature="1578:1773" ph="{...}" />
+                <marker date="1556483024186" expanded="true" signature="2226:2366" ph="{...}" />
+                <marker date="1556483024186" expanded="true" signature="2798:2908" ph="{...}" />
+                <marker date="1556483024186" expanded="true" signature="3207:3292" ph="{...}" />
+                <marker date="1556483024186" expanded="true" signature="3506:3570" ph="{...}" />
+                <marker date="1556483024186" expanded="true" signature="3911:4025" ph="{...}" />
+                <marker date="1556483024186" expanded="true" signature="4825:4916" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DAIS_ORM/VerejneOznameni.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-22">
+              <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="24" selection-end-column="12" />
+              <folding>
+                <marker date="1556482508987" expanded="true" signature="6:125" ph="..." />
+                <marker date="1556482508987" expanded="true" signature="146:2462" ph="{...}" />
+                <marker date="1556482508987" expanded="true" signature="190:2460" ph="{...}" />
+                <marker date="1556482508987" expanded="true" signature="278:941" ph="{...}" />
+                <marker date="1556482508987" expanded="true" signature="311:931" ph="{...}" />
+                <marker date="1556482508987" expanded="true" signature="377:917" ph="{...}" />
+                <marker date="1556482508987" expanded="true" signature="414:899" ph="{...}" />
+                <marker date="1556482508987" expanded="true" signature="1021:2445" ph="{...}" />
+                <marker date="1556482508987" expanded="true" signature="1108:2435" ph="{...}" />
+                <marker date="1556482508987" expanded="true" signature="1174:2421" ph="{...}" />
+                <marker date="1556482508987" expanded="true" signature="2051:2367" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DAIS_ORM/Fotografie.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="106" column="4" selection-start-line="106" selection-start-column="4" selection-end-line="106" selection-end-column="4" />
+              <folding>
+                <marker date="1556475353793" expanded="true" signature="6:86" ph="..." />
+                <marker date="1556475353793" expanded="true" signature="107:4514" ph="{...}" />
+                <marker date="1556475353793" expanded="true" signature="146:4512" ph="{...}" />
+                <marker date="1556475353793" expanded="true" signature="271:342" ph="{...}" />
+                <marker date="1556475353793" expanded="true" signature="373:444" ph="{...}" />
+                <marker date="1556475353793" expanded="true" signature="474:545" ph="{...}" />
+                <marker date="1556475353793" expanded="true" signature="633:1707" ph="{...}" />
+                <marker date="1556475353793" expanded="true" signature="666:1697" ph="{...}" />
+                <marker date="1556475353793" expanded="true" signature="732:1683" ph="{...}" />
+                <marker date="1556475353793" expanded="true" signature="871:1084" ph="{...}" />
+                <marker date="1556475353793" expanded="true" signature="1084:1308" ph="{...}" />
+                <marker date="1556475353793" expanded="true" signature="1458:1541" ph="{...}" />
+                <marker date="1556475353793" expanded="true" signature="1778:2775" ph="{...}" />
+                <marker date="1556475353793" expanded="true" signature="1811:2765" ph="{...}" />
+                <marker date="1556475353793" expanded="true" signature="1877:2751" ph="{...}" />
+                <marker date="1556475353793" expanded="true" signature="2308:2662" ph="{...}" />
+                <marker date="1556475353793" expanded="true" signature="2826:3216" ph="{...}" />
+                <marker date="1556475353793" expanded="true" signature="2859:3206" ph="{...}" />
+                <marker date="1556475353793" expanded="true" signature="2925:3192" ph="{...}" />
+                <marker date="1556475353793" expanded="true" signature="3297:4506" ph="{...}" />
+                <marker date="1556475353793" expanded="true" signature="3330:4496" ph="{...}" />
+                <marker date="1556475353793" expanded="true" signature="3396:4482" ph="{...}" />
+                <marker date="1556475353793" expanded="true" signature="3826:4438" ph="{...}" />
+                <marker date="1556475353793" expanded="true" signature="3903:4416" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DAIS_ORM/Komentar.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="57" column="169" selection-start-line="57" selection-start-column="169" selection-end-line="57" selection-end-column="169" />
+              <folding>
+                <marker date="1556476695564" expanded="true" signature="6:101" ph="..." />
+                <marker date="1556476695564" expanded="true" signature="122:2997" ph="{...}" />
+                <marker date="1556476695564" expanded="true" signature="159:2995" ph="{...}" />
+                <marker date="1556476695564" expanded="true" signature="220:291" ph="{...}" />
+                <marker date="1556476695564" expanded="true" signature="321:392" ph="{...}" />
+                <marker date="1556476695564" expanded="true" signature="494:890" ph="{...}" />
+                <marker date="1556476695564" expanded="true" signature="527:880" ph="{...}" />
+                <marker date="1556476695564" expanded="true" signature="593:866" ph="{...}" />
+                <marker date="1556476695564" expanded="true" signature="963:1939" ph="{...}" />
+                <marker date="1556476695564" expanded="true" signature="996:1929" ph="{...}" />
+                <marker date="1556476695564" expanded="true" signature="1062:1898" ph="{...}" />
+                <marker date="1556476695564" expanded="true" signature="1560:1809" ph="{...}" />
+                <marker date="1556476695564" expanded="true" signature="2012:2967" ph="{...}" />
+                <marker date="1556476695564" expanded="true" signature="2045:2957" ph="{...}" />
+                <marker date="1556476695564" expanded="true" signature="2111:2926" ph="{...}" />
+                <marker date="1556476695564" expanded="true" signature="2588:2837" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DAIS_ORM/Dokument.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-952">
+              <caret line="29" column="43" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="43" />
+              <folding>
+                <marker date="1556355855905" expanded="false" signature="6:173" ph="..." />
+                <marker date="1556355855905" expanded="true" signature="194:5016" ph="{...}" />
+                <marker date="1556355855905" expanded="true" signature="231:5014" ph="{...}" />
+                <marker date="1556355855905" expanded="true" signature="388:461" ph="{...}" />
+                <marker date="1556355855905" expanded="true" signature="491:562" ph="{...}" />
+                <marker date="1556355855905" expanded="true" signature="594:665" ph="{...}" />
+                <marker date="1556355855905" expanded="true" signature="784:1988" ph="{...}" />
+                <marker date="1556355855905" expanded="true" signature="817:1978" ph="{...}" />
+                <marker date="1556355855905" expanded="true" signature="883:1964" ph="{...}" />
+                <marker date="1556355855905" expanded="true" signature="975:1238" ph="{...}" />
+                <marker date="1556355855905" expanded="true" signature="1238:1610" ph="{...}" />
+                <marker date="1556355855905" expanded="true" signature="2054:2529" ph="{...}" />
+                <marker date="1556355855905" expanded="true" signature="2098:2506" ph="{...}" />
+                <marker date="1556355855905" expanded="true" signature="2164:2492" ph="{...}" />
+                <marker date="1556355855905" expanded="true" signature="2607:3668" ph="{...}" />
+                <marker date="1556355855905" expanded="true" signature="2640:3658" ph="{...}" />
+                <marker date="1556355855905" expanded="true" signature="2706:3644" ph="{...}" />
+                <marker date="1556355855905" expanded="true" signature="3125:3547" ph="{...}" />
+                <marker date="1556355855905" expanded="true" signature="3752:4421" ph="{...}" />
+                <marker date="1556355855905" expanded="true" signature="3785:4411" ph="{...}" />
+                <marker date="1556355855905" expanded="true" signature="3851:4397" ph="{...}" />
+                <marker date="1556355855905" expanded="true" signature="4495:5008" ph="{...}" />
+                <marker date="1556355855905" expanded="true" signature="4528:4998" ph="{...}" />
+                <marker date="1556355855905" expanded="true" signature="4594:4984" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a3646725-dbe2-4375-827e-13ff696f14ee/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="786">
+              <caret line="243" column="79" selection-start-line="243" selection-start-column="79" selection-end-line="243" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>reader</find>
       <find>insert</find>
       <find>tost</find>
+      <find>obec</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -322,7 +320,10 @@
     <setting file="file://$PROJECT_DIR$/DAIS_ORM/Uzivatel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DAIS_ORM/Dokument.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DAIS_ORM/Rubrika.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAIS_ORM/VerejneOznameni.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DAIS_ORM/Obec.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAIS_ORM/Komentar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAIS_ORM/Fotografie.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DAIS_ORM/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DAIS_ORM/Album.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/38FBADEC-5A63-41CE-BFB8-431FCCAA168A/34/ed23deca/OracleParameterCollection.cs" root0="SKIP_HIGHLIGHTING" />
@@ -331,20 +332,24 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
-        <option value="$PROJECT_DIR$/DAIS_ORM/Obec.cs" />
         <option value="$PROJECT_DIR$/DAIS_ORM/Dokument.cs" />
         <option value="$PROJECT_DIR$/DAIS_ORM/Database.cs" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a3646725-dbe2-4375-827e-13ff696f14ee/console.sql" />
         <option value="$PROJECT_DIR$/DAIS_ORM/Album.cs" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
         <option value="$PROJECT_DIR$/DAIS_ORM/Rubrika.cs" />
         <option value="$PROJECT_DIR$/DAIS_ORM/Uzivatel.cs" />
+        <option value="$PROJECT_DIR$/DAIS_ORM/Obec.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a3646725-dbe2-4375-827e-13ff696f14ee/console.sql" />
+        <option value="$PROJECT_DIR$/DAIS_ORM/Fotografie.cs" />
+        <option value="$PROJECT_DIR$/DAIS_ORM/Komentar.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+        <option value="$PROJECT_DIR$/DAIS_ORM/verejne_oznameni.cs" />
+        <option value="$PROJECT_DIR$/DAIS_ORM/VerejneOznameni.cs" />
         <option value="$PROJECT_DIR$/DAIS_ORM/Program.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="1227" />
+    <option name="y" value="27" />
     <option name="width" value="1920" />
     <option name="height" value="1053" />
   </component>
@@ -467,12 +472,12 @@
       <workItem from="1556106389533" duration="3154000" />
       <workItem from="1556178965067" duration="17317000" />
       <workItem from="1556289927825" duration="2535000" />
-      <workItem from="1556351819844" duration="21418000" />
+      <workItem from="1556351819844" duration="39703000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98982000" />
+    <option name="totallyTimeSpent" value="117267000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -484,7 +489,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="1227" width="1920" height="1053" extended-state="6" />
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18836713" />
@@ -494,7 +499,7 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25655022" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25655022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.38537118" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -514,7 +519,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="Errors In Solution" order="4" />
-      <window_info anchor="right" id="Database" order="5" visible="true" weight="0.20010673" />
+      <window_info active="true" anchor="right" id="Database" order="5" visible="true" weight="0.20010673" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -588,39 +593,6 @@
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DAIS_ORM/Dokument.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="82" column="87" selection-start-line="82" selection-start-column="87" selection-end-line="82" selection-end-column="87" />
-          <folding>
-            <marker date="1556355855905" expanded="false" signature="6:173" ph="..." />
-            <marker date="1556355855905" expanded="true" signature="194:5016" ph="{...}" />
-            <marker date="1556355855905" expanded="true" signature="231:5014" ph="{...}" />
-            <marker date="1556355855905" expanded="true" signature="388:461" ph="{...}" />
-            <marker date="1556355855905" expanded="true" signature="491:562" ph="{...}" />
-            <marker date="1556355855905" expanded="true" signature="594:665" ph="{...}" />
-            <marker date="1556355855905" expanded="true" signature="784:1988" ph="{...}" />
-            <marker date="1556355855905" expanded="true" signature="817:1978" ph="{...}" />
-            <marker date="1556355855905" expanded="true" signature="883:1964" ph="{...}" />
-            <marker date="1556355855905" expanded="true" signature="975:1238" ph="{...}" />
-            <marker date="1556355855905" expanded="true" signature="1238:1610" ph="{...}" />
-            <marker date="1556355855905" expanded="true" signature="2054:2529" ph="{...}" />
-            <marker date="1556355855905" expanded="true" signature="2098:2506" ph="{...}" />
-            <marker date="1556355855905" expanded="true" signature="2164:2492" ph="{...}" />
-            <marker date="1556355855905" expanded="true" signature="2607:3668" ph="{...}" />
-            <marker date="1556355855905" expanded="true" signature="2640:3658" ph="{...}" />
-            <marker date="1556355855905" expanded="true" signature="2706:3644" ph="{...}" />
-            <marker date="1556355855905" expanded="true" signature="3125:3547" ph="{...}" />
-            <marker date="1556355855905" expanded="true" signature="3752:4421" ph="{...}" />
-            <marker date="1556355855905" expanded="true" signature="3785:4411" ph="{...}" />
-            <marker date="1556355855905" expanded="true" signature="3851:4397" ph="{...}" />
-            <marker date="1556355855905" expanded="true" signature="4495:5008" ph="{...}" />
-            <marker date="1556355855905" expanded="true" signature="4528:4998" ph="{...}" />
-            <marker date="1556355855905" expanded="true" signature="4594:4984" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -843,50 +815,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DAIS_ORM/Obec.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="43" column="17" lean-forward="true" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
-          <folding>
-            <marker date="1556197694938" expanded="false" signature="6:199" ph="..." />
-            <marker date="1556197694938" expanded="true" signature="220:2936" ph="{...}" />
-            <marker date="1556197694938" expanded="true" signature="255:2618" ph="{...}" />
-            <marker date="1556197694938" expanded="true" signature="302:673" ph="{...}" />
-            <marker date="1556197694938" expanded="true" signature="365:663" ph="{...}" />
-            <marker date="1556197694938" expanded="true" signature="721:1045" ph="{...}" />
-            <marker date="1556197694938" expanded="true" signature="783:1035" ph="{...}" />
-            <marker date="1556197694938" expanded="true" signature="1086:1773" ph="{...}" />
-            <marker date="1556197694938" expanded="true" signature="1119:1763" ph="{...}" />
-            <marker date="1556197694938" expanded="true" signature="1185:1749" ph="{...}" />
-            <marker date="1556197694938" expanded="true" signature="1486:1660" ph="{...}" />
-            <marker date="1556197694938" expanded="true" signature="1820:2612" ph="{...}" />
-            <marker date="1556197694938" expanded="true" signature="1853:2602" ph="{...}" />
-            <marker date="1556197694938" expanded="true" signature="1919:2571" ph="{...}" />
-            <marker date="1556197694938" expanded="true" signature="2212:2482" ph="{...}" />
-            <marker date="1556197694938" expanded="true" signature="2641:2934" ph="{...}" />
-            <marker date="1556197694938" expanded="true" signature="2739:2810" ph="{...}" />
-            <marker date="1556197694938" expanded="true" signature="2847:2928" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://a3646725-dbe2-4375-827e-13ff696f14ee/schema/KVI0029/table/SEM_UZIVATEL">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DAIS_ORM/Uzivatel.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-143">
+        <state relative-caret-position="78">
           <caret line="174" column="43" selection-start-line="174" selection-start-column="43" selection-end-line="174" selection-end-column="43" />
           <folding>
             <marker date="1556453861424" expanded="false" signature="6:173" ph="..." />
@@ -935,32 +866,190 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DAIS_ORM/Obec.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+          <folding>
+            <marker date="1556460538685" expanded="false" signature="6:199" ph="..." />
+            <marker date="1556460538685" expanded="true" signature="220:2937" ph="{...}" />
+            <marker date="1556460538685" expanded="true" signature="255:2619" ph="{...}" />
+            <marker date="1556460538685" expanded="true" signature="302:673" ph="{...}" />
+            <marker date="1556460538685" expanded="true" signature="365:663" ph="{...}" />
+            <marker date="1556460538685" expanded="true" signature="721:1045" ph="{...}" />
+            <marker date="1556460538685" expanded="true" signature="783:1035" ph="{...}" />
+            <marker date="1556460538685" expanded="true" signature="1086:1774" ph="{...}" />
+            <marker date="1556460538685" expanded="true" signature="1119:1764" ph="{...}" />
+            <marker date="1556460538685" expanded="true" signature="1185:1750" ph="{...}" />
+            <marker date="1556460538685" expanded="true" signature="1486:1660" ph="{...}" />
+            <marker date="1556460538685" expanded="true" signature="1821:2613" ph="{...}" />
+            <marker date="1556460538685" expanded="true" signature="1854:2603" ph="{...}" />
+            <marker date="1556460538685" expanded="true" signature="1920:2572" ph="{...}" />
+            <marker date="1556460538685" expanded="true" signature="2213:2483" ph="{...}" />
+            <marker date="1556460538685" expanded="true" signature="2642:2935" ph="{...}" />
+            <marker date="1556460538685" expanded="true" signature="2740:2811" ph="{...}" />
+            <marker date="1556460538685" expanded="true" signature="2848:2929" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a3646725-dbe2-4375-827e-13ff696f14ee/schema/KVI0029/table/SEM_UZIVATEL">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAIS_ORM/Komentar.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="57" column="169" selection-start-line="57" selection-start-column="169" selection-end-line="57" selection-end-column="169" />
+          <folding>
+            <marker date="1556476695564" expanded="true" signature="6:101" ph="..." />
+            <marker date="1556476695564" expanded="true" signature="122:2997" ph="{...}" />
+            <marker date="1556476695564" expanded="true" signature="159:2995" ph="{...}" />
+            <marker date="1556476695564" expanded="true" signature="220:291" ph="{...}" />
+            <marker date="1556476695564" expanded="true" signature="321:392" ph="{...}" />
+            <marker date="1556476695564" expanded="true" signature="494:890" ph="{...}" />
+            <marker date="1556476695564" expanded="true" signature="527:880" ph="{...}" />
+            <marker date="1556476695564" expanded="true" signature="593:866" ph="{...}" />
+            <marker date="1556476695564" expanded="true" signature="963:1939" ph="{...}" />
+            <marker date="1556476695564" expanded="true" signature="996:1929" ph="{...}" />
+            <marker date="1556476695564" expanded="true" signature="1062:1898" ph="{...}" />
+            <marker date="1556476695564" expanded="true" signature="1560:1809" ph="{...}" />
+            <marker date="1556476695564" expanded="true" signature="2012:2967" ph="{...}" />
+            <marker date="1556476695564" expanded="true" signature="2045:2957" ph="{...}" />
+            <marker date="1556476695564" expanded="true" signature="2111:2926" ph="{...}" />
+            <marker date="1556476695564" expanded="true" signature="2588:2837" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAIS_ORM/Fotografie.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="106" column="4" selection-start-line="106" selection-start-column="4" selection-end-line="106" selection-end-column="4" />
+          <folding>
+            <marker date="1556475353793" expanded="true" signature="6:86" ph="..." />
+            <marker date="1556475353793" expanded="true" signature="107:4514" ph="{...}" />
+            <marker date="1556475353793" expanded="true" signature="146:4512" ph="{...}" />
+            <marker date="1556475353793" expanded="true" signature="271:342" ph="{...}" />
+            <marker date="1556475353793" expanded="true" signature="373:444" ph="{...}" />
+            <marker date="1556475353793" expanded="true" signature="474:545" ph="{...}" />
+            <marker date="1556475353793" expanded="true" signature="633:1707" ph="{...}" />
+            <marker date="1556475353793" expanded="true" signature="666:1697" ph="{...}" />
+            <marker date="1556475353793" expanded="true" signature="732:1683" ph="{...}" />
+            <marker date="1556475353793" expanded="true" signature="871:1084" ph="{...}" />
+            <marker date="1556475353793" expanded="true" signature="1084:1308" ph="{...}" />
+            <marker date="1556475353793" expanded="true" signature="1458:1541" ph="{...}" />
+            <marker date="1556475353793" expanded="true" signature="1778:2775" ph="{...}" />
+            <marker date="1556475353793" expanded="true" signature="1811:2765" ph="{...}" />
+            <marker date="1556475353793" expanded="true" signature="1877:2751" ph="{...}" />
+            <marker date="1556475353793" expanded="true" signature="2308:2662" ph="{...}" />
+            <marker date="1556475353793" expanded="true" signature="2826:3216" ph="{...}" />
+            <marker date="1556475353793" expanded="true" signature="2859:3206" ph="{...}" />
+            <marker date="1556475353793" expanded="true" signature="2925:3192" ph="{...}" />
+            <marker date="1556475353793" expanded="true" signature="3297:4506" ph="{...}" />
+            <marker date="1556475353793" expanded="true" signature="3330:4496" ph="{...}" />
+            <marker date="1556475353793" expanded="true" signature="3396:4482" ph="{...}" />
+            <marker date="1556475353793" expanded="true" signature="3826:4438" ph="{...}" />
+            <marker date="1556475353793" expanded="true" signature="3903:4416" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a3646725-dbe2-4375-827e-13ff696f14ee/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="215" selection-start-line="215" selection-end-line="215" />
+        <state relative-caret-position="786">
+          <caret line="243" column="79" selection-start-line="243" selection-start-column="79" selection-end-line="243" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a3646725-dbe2-4375-827e-13ff696f14ee/schema/KVI0029/table/SEM_VEREJNE_OZNAMENI">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAIS_ORM/Dokument.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-952">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="43" />
+          <folding>
+            <marker date="1556355855905" expanded="false" signature="6:173" ph="..." />
+            <marker date="1556355855905" expanded="true" signature="194:5016" ph="{...}" />
+            <marker date="1556355855905" expanded="true" signature="231:5014" ph="{...}" />
+            <marker date="1556355855905" expanded="true" signature="388:461" ph="{...}" />
+            <marker date="1556355855905" expanded="true" signature="491:562" ph="{...}" />
+            <marker date="1556355855905" expanded="true" signature="594:665" ph="{...}" />
+            <marker date="1556355855905" expanded="true" signature="784:1988" ph="{...}" />
+            <marker date="1556355855905" expanded="true" signature="817:1978" ph="{...}" />
+            <marker date="1556355855905" expanded="true" signature="883:1964" ph="{...}" />
+            <marker date="1556355855905" expanded="true" signature="975:1238" ph="{...}" />
+            <marker date="1556355855905" expanded="true" signature="1238:1610" ph="{...}" />
+            <marker date="1556355855905" expanded="true" signature="2054:2529" ph="{...}" />
+            <marker date="1556355855905" expanded="true" signature="2098:2506" ph="{...}" />
+            <marker date="1556355855905" expanded="true" signature="2164:2492" ph="{...}" />
+            <marker date="1556355855905" expanded="true" signature="2607:3668" ph="{...}" />
+            <marker date="1556355855905" expanded="true" signature="2640:3658" ph="{...}" />
+            <marker date="1556355855905" expanded="true" signature="2706:3644" ph="{...}" />
+            <marker date="1556355855905" expanded="true" signature="3125:3547" ph="{...}" />
+            <marker date="1556355855905" expanded="true" signature="3752:4421" ph="{...}" />
+            <marker date="1556355855905" expanded="true" signature="3785:4411" ph="{...}" />
+            <marker date="1556355855905" expanded="true" signature="3851:4397" ph="{...}" />
+            <marker date="1556355855905" expanded="true" signature="4495:5008" ph="{...}" />
+            <marker date="1556355855905" expanded="true" signature="4528:4998" ph="{...}" />
+            <marker date="1556355855905" expanded="true" signature="4594:4984" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAIS_ORM/VerejneOznameni.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="24" selection-end-column="12" />
+          <folding>
+            <marker date="1556482508987" expanded="true" signature="6:125" ph="..." />
+            <marker date="1556482508987" expanded="true" signature="146:2462" ph="{...}" />
+            <marker date="1556482508987" expanded="true" signature="190:2460" ph="{...}" />
+            <marker date="1556482508987" expanded="true" signature="278:941" ph="{...}" />
+            <marker date="1556482508987" expanded="true" signature="311:931" ph="{...}" />
+            <marker date="1556482508987" expanded="true" signature="377:917" ph="{...}" />
+            <marker date="1556482508987" expanded="true" signature="414:899" ph="{...}" />
+            <marker date="1556482508987" expanded="true" signature="1021:2445" ph="{...}" />
+            <marker date="1556482508987" expanded="true" signature="1108:2435" ph="{...}" />
+            <marker date="1556482508987" expanded="true" signature="1174:2421" ph="{...}" />
+            <marker date="1556482508987" expanded="true" signature="2051:2367" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DAIS_ORM/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="117" column="16" lean-forward="true" selection-start-line="117" selection-start-column="16" selection-end-line="117" selection-end-column="16" />
+        <state relative-caret-position="398">
+          <caret line="147" column="66" selection-start-line="147" selection-start-column="66" selection-end-line="147" selection-end-column="66" />
           <folding>
-            <marker date="1556454371382" expanded="false" signature="6:236" ph="..." />
-            <marker date="1556454371382" expanded="true" signature="93:159" ph="/* using Oracle.DataAccess.Client; ... */" />
-            <marker date="1556454371382" expanded="true" signature="257:5527" ph="{...}" />
-            <marker date="1556454371382" expanded="true" signature="277:5525" ph="{...}" />
-            <marker date="1556454371382" expanded="true" signature="319:5519" ph="{...}" />
-            <marker date="1556454371382" expanded="true" signature="321:1323" ph="/* Database db = new Database(); ... */" />
-            <marker date="1556454371382" expanded="true" signature="1856:2077" ph="/* obec.SkryjObec(2); ... */" />
-            <marker date="1556454371382" expanded="true" signature="2080:2510" ph="/* dokument.VytvorDokument(1, &quot;Hovno&quot;, &quot;wjfnsflkslskjslkjcscksjcnskjcsnckjscnksjcnskcjsncksjcnskjcnscjksdncksjcns ... */" />
-            <marker date="1556454371382" expanded="true" signature="2522:2623" ph="/* rubrika.PridejRubriku(&quot;PokusnaRubrika&quot;); ... */" />
-            <marker date="1556454371382" expanded="true" signature="2635:2857" ph="/* db.Connect(); ... */" />
-            <marker date="1556454371382" expanded="true" signature="3071:3135" ph="{...}" />
-            <marker date="1556454371382" expanded="true" signature="3532:3740" ph="{...}" />
-            <marker date="1556454371382" expanded="true" signature="3962:4157" ph="{...}" />
-            <marker date="1556454371382" expanded="true" signature="4634:5507" ph="/* using (OracleConnection con = new OracleConnection(&quot;User Id=sku0084;Password=kZtothRHMv;Data Source=(DESCRIPTI ... */" />
+            <marker date="1556483024186" expanded="false" signature="6:236" ph="..." />
+            <marker date="1556483024186" expanded="true" signature="93:159" ph="/* using Oracle.DataAccess.Client; ... */" />
+            <marker date="1556483024186" expanded="true" signature="257:5364" ph="{...}" />
+            <marker date="1556483024186" expanded="true" signature="277:5362" ph="{...}" />
+            <marker date="1556483024186" expanded="true" signature="319:5350" ph="{...}" />
+            <marker date="1556483024186" expanded="true" signature="1148:1356" ph="{...}" />
+            <marker date="1556483024186" expanded="true" signature="1578:1773" ph="{...}" />
+            <marker date="1556483024186" expanded="true" signature="2226:2366" ph="{...}" />
+            <marker date="1556483024186" expanded="true" signature="2798:2908" ph="{...}" />
+            <marker date="1556483024186" expanded="true" signature="3207:3292" ph="{...}" />
+            <marker date="1556483024186" expanded="true" signature="3506:3570" ph="{...}" />
+            <marker date="1556483024186" expanded="true" signature="3911:4025" ph="{...}" />
+            <marker date="1556483024186" expanded="true" signature="4825:4916" ph="{...}" />
           </folding>
         </state>
       </provider>

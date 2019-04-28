@@ -10,26 +10,6 @@ using Oracle.ManagedDataAccess.Types;
 namespace DAIS_ORM {
     class Program {
         static void Main(string[] args) {
-//            Database db = new Database();
-//            db.Connect("rzbi");
-//            Console.WriteLine(db.Connection.ToString());
-//            Obec obec = new Obec();
-//            obec.Connect();
-//            obec.VytvorObec("Rybi");
-
-//
-//            using (OracleConnection con = new OracleConnection(
-//                "User Id=kvi0029;Password=n2HO69fi3w;Data Source=(DESCRIPTION = (ADDRESS_LIST = (ADDRESS = (PROTOCOL = TCP)(HOST = dbsys.cs.vsb.cz)(PORT = 1521)))(CONNECT_DATA = (SERVER = DEDICATED)(SERVICE_NAME = oracle.dbsys.cs.vsb.cz)));")
-//            ) {
-//                con.Open();
-//                Console.WriteLine("ahoj");
-//                using (OracleCommand cmd = new OracleCommand()) {
-//                    cmd.Connection = con;
-//                    cmd.CommandText = "INSERT INTO SEM_OBEC(obec_id, nazev, vidible) VALUES (2,'Závišice',1)";
-//                    int tmo = cmd.ExecuteNonQuery();
-//                    con.Close();
-//                }
-//            }
 
             Database db = new Database();
             db.Connect();
@@ -38,50 +18,11 @@ namespace DAIS_ORM {
             Rubrika rubrika = new Rubrika();
             Uzivatel uzivatel = new Uzivatel();
             Album album = new Album();
+            Fotografie fotografie = new Fotografie();   
+            Komentar komentar = new Komentar();
+            VerejneOznameni verejneOznameni = new VerejneOznameni();
             DateTime naroz=  new DateTime(2006, 04, 26 );
-                uzivatel.RegistraceUzivatele("Edie", "qwerty123", "qwerty123", "qwerty1@seznam.cz", 1, naroz);
             
-/**3.1.**/
-//            obec.VytvorObec("Závišice");
-/**3.2.**/
-//            obec.SkryjObec(2);
-//*3.3.**/
-//            var tmp= obec.ZobrazVsechnyObce();
-//            foreach (var obc in tmp) {
-//                Console.WriteLine(obc.Nazev + "\t" + obc.Visibility);
-//            }
-
-
-//            dokument.VytvorDokument(1, "Hovno", "wjfnsflkslskjslkjcscksjcnskjcsnckjscnksjcnskcjsncksjcnskjcnscjksdncksjcnskjcnsdckjsndckjsnckjsdc", 1);
-//            dokument.UpravDokument(1, "ajdndlmld");
-
-//            var tmp = dokument.ZobrazDetailDokumentuVRubrice(1);
-//            foreach (var doku in tmp) {
-//                Console.WriteLine(doku.Nadpis + "\n" + doku.Datum + "\n" + doku.Obsah + "\n");
-//            }
-/**7.1.**/
-//            rubrika.PridejRubriku("PokusnaRubrika");
-
-//            rubrika.UpravRubriku(1, "wtf");
-/**7.2.**/
-//            db.Connect();
-//            var tmp = rubrika.VypisDokumentyVRubrice(1);
-//            foreach (var doku in tmp) {
-//                Console.WriteLine(doku.Nadpis + "\n" + doku.Datum  + "\n");
-//            }
-/**4.1.**/
-            db.Connect();
-            album.VytvorAlbum("pokusneAlbum", 1);
-/**4.2.**/
-            db.Connect();
-            var alba = album.ZobrazAlbaObce(1);
-            foreach (var album1 in alba) {
-                Console.WriteLine(album1.Nazev);
-            }
-/**4.3.**/
-            db.Connect();
-            album.SkryjAlbum(2);
-            db.Disconnect();
 /**1.1.**/
             db.Connect();
             uzivatel.RegistraceUzivatele("Alfonz", "zxcvbnm321", "zxcvbnm321", "hubert1@seznam.cz", 2, naroz);
@@ -118,33 +59,99 @@ namespace DAIS_ORM {
                 Console.WriteLine(vypisUzivatel.Nick + ", ban: " +vypisUzivatel.Ban + ", Obec Id: " + vypisUzivatel.ObecId);
             }
             
-                
+/**2.1.**/
+            db.Connect();
+            dokument.VytvorDokument(1, "Hovno", "wjfnsflkslskjslkjcscksjcnskjcsnckjscnksjcnskcjsncksjcnskjcnscjksdncksjcnskjcnsdckjsndckjsnckjsdc", 1);
+/**2.2.**/
+            db.Connect();
+            dokument.UpravDokument(1, "ajdndlmld");
+/**2.3.**/
+            db.Connect();
+            var tmp = dokument.ZobrazDetailDokumentuVRubrice(1);
+            foreach (var doku in tmp) {
+                Console.WriteLine(doku.Nadpis + "\n" + doku.Datum + "\n" + doku.Obsah + "\n");
+            }           
             
+/**3.1.**/
+            db.Connect();
+            obec.VytvorObec("Závišice");
+/**3.2.**/
+            db.Connect();
+            obec.SkryjObec(2);
+/*3.3.**/
+            db.Connect();
+            var obcList= obec.ZobrazVsechnyObce();
+            foreach (var obc in obcList) {
+                Console.WriteLine(obc.Nazev + "\t" + obc.Visibility);
+            }
+/**4.1.**/
+            db.Connect();
+            album.VytvorAlbum("pokusneAlbum", 1);
+/**4.2.**/
+            db.Connect();
+            var alba = album.ZobrazAlbaObce(1);
+            foreach (var album1 in alba) {
+                Console.WriteLine(album1.Nazev);
+            }
+/**4.3.**/
+            db.Connect();
+            album.SkryjAlbum(2);
+            
+/**5.1.**/   
+            db.Connect();
+            fotografie.PridaniFotografie("asjnskj.jpg", 1, "sksdklds");
+/**5.2.**/
+            db.Connect();
+            var fotky = fotografie.ZobrazeniFotografiiAlba(1);
+            foreach (var fotografy in fotky) {
+                Console.WriteLine(fotografy.Fotka +" " +fotografy.Datum + "\n" + fotografy.Popis);
+            }
+/**5.3.**/
+            db.Connect();
+            fotografie.SkrytiFotografie(2);
+/**5.4.**/  
+            db.Connect();
+            fotografie.PridaniKomentare(1, 2, "bardyo fotka");
+/**6.1.**/
+            db.Connect();
+            komentar.SmazatKomentar(1);
+/**6.2.**/
+            db.Connect();
+            komentar.ZobrazKomentareFotky(1);
+            
+            db.Connect();
+            komentar.ZobrazKomentareDokumentu(1);
 
-
-
-
-
-
-
-//            using (OracleConnection con = new OracleConnection("User Id=sku0084;Password=kZtothRHMv;Data Source=(DESCRIPTION = (ADDRESS_LIST = (ADDRESS = (PROTOCOL = TCP)(HOST = dbsys.cs.vsb.cz)(PORT = 1521)))(CONNECT_DATA = (SERVER = DEDICATED)(SERVICE_NAME = oracle.dbsys.cs.vsb.cz)));"))
-//            {
-//                con.Open();
-//                Console.WriteLine("ahoj");
-//                using(OracleCommand cmd = new OracleCommand())
-//                {
-//                    cmd.Connection = con;
-//                    cmd.CommandText = "SELECT * FROM Package";
-//                    var r = cmd.ExecuteReader();
-//                    while (r.Read())
-//                    {
-//                        Console.WriteLine("|{0,5}|{1,20}|",r.GetValue(0),r.GetValue(1));
-//                    }
-//                }
-//                con.Close();
-//            }
-
-
+/**6.3.**/
+            //trigger
+            
+/**7.1.**/
+            db.Connect();
+            rubrika.PridejRubriku("PokusnaRubrika");
+/**7.1,5**/            
+            db.Connect();
+            rubrika.UpravRubriku(1, "wtf");
+/**7.2.**/
+            db.Connect();
+            var rubry = rubrika.VypisDokumentyVRubrice(1);
+            foreach (var doku in rubry) {
+                Console.WriteLine(doku.Nadpis + "\n" + doku.Datum  + "\n");
+            }
+/**8.0.**/
+            db.Connect();
+            DateTime from = new DateTime(2019, 4, 27, 12,0,0);
+            DateTime to = new DateTime(2019, 4, 29, 12,0,0);
+            verejneOznameni.VytvorVerejneOznameni( from, to, 3);
+            
+/**8.1.**/
+            db.Connect();
+            verejneOznameni.ZobrazAktualniVerejneOznameni("Rybi");
+            
+            
+            
+            db.Disconnect();
+            
         }
+     
     }
 }
