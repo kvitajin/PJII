@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="483d89ff-e58c-454c-bf26-0cfda8b28443" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.dais_orm_znova/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.dais_orm_znova/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.dais_orm_znova/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.dais_orm_znova/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dais_orm_znova.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dais_orm_znova/Album.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dais_orm_znova/Dokument.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dais_orm_znova/Fotografie.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dais_orm_znova/Komentar.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dais_orm_znova/Obec.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dais_orm_znova/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dais_orm_znova/Rubrika.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dais_orm_znova/Uzivatel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dais_orm_znova/VerejneOznameni.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dais_orm_znova/dais_orm_znova.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dais_orm_znova/obj/dais_orm_znova.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dais_orm_znova/obj/dais_orm_znova.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dais_orm_znova/obj/dais_orm_znova.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dais_orm_znova/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dais_orm_znova/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokusT/.idea/.idea.pokusT/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokusT/.idea/.idea.pokusT/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokusT/.idea/.idea.pokusT/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokusT/.idea/.idea.pokusT/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT.sln.DotSettings.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/Access.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/AccessControl.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/Card.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/User.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/obj/Debug/netcoreapp2.2/pokusT.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/obj/Debug/netcoreapp2.2/pokusT.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/obj/Debug/netcoreapp2.2/pokusT.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/obj/Debug/netcoreapp2.2/pokusT.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/obj/pokusT.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/obj/pokusT.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/obj/pokusT.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/pokusT.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuctionSystemORM_sqls/.idea/.idea.AuctionSystemORM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AuctionSystemORM_sqls/.idea/.idea.AuctionSystemORM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuctionSystemORM_sqls/Database/dao_sqls/AuctionTable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AuctionSystemORM_sqls/Database/dao_sqls/AuctionTable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee/storage_v2/_src_/schema/KVI0029.hWFPFg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee/storage_v2/_src_/schema/KVI0029.hWFPFg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Dokument.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Dokument.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Fotografie.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Fotografie.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/bin/Debug/netcoreapp2.2/DAIS_ORM.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/bin/Debug/netcoreapp2.2/DAIS_ORM.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/bin/Debug/netcoreapp2.2/DAIS_ORM.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/bin/Debug/netcoreapp2.2/DAIS_ORM.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv3/.idea/.idea.cv3/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/.idea/.idea.cv3/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv3/.idea/.idea.cv3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/.idea/.idea.cv3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv3/cv3/obj/Debug/netcoreapp2.2/cv3.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/cv3/obj/Debug/netcoreapp2.2/cv3.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv3/cv3/obj/Debug/netcoreapp2.2/cv3.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/cv3/obj/Debug/netcoreapp2.2/cv3.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv3/cv3/obj/cv3.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/cv3/obj/cv3.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv3/cv3/obj/cv3.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/cv3/obj/cv3.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv3/cv3/obj/cv3.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/cv3/obj/cv3.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv3/cv3/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/cv3/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv3/cv3/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/cv3/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv6/.idea/.idea.cv6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv6/.idea/.idea.cv6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv7/.idea/.idea.cv7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv7/.idea/.idea.cv7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv8/.idea/.idea.cv8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv8/.idea/.idea.cv8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dais1/.idea/.idea.dais1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dais1/.idea/.idea.dais1/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dais_orm_znova/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="1" />
+              <folding>
+                <marker date="1556628264549" expanded="true" signature="40:168" ph="{...}" />
+                <marker date="1556628264549" expanded="true" signature="60:166" ph="{...}" />
+                <marker date="1556628264549" expanded="true" signature="102:160" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dais_orm_znova/Uzivatel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+              <folding>
+                <marker date="1556629169903" expanded="true" signature="40:341" ph="{...}" />
+                <marker date="1556629169903" expanded="true" signature="68:339" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dais_orm_znova/Album.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+              <folding>
+                <marker date="1556629242743" expanded="true" signature="40:200" ph="{...}" />
+                <marker date="1556629242743" expanded="true" signature="65:198" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dais_orm_znova/Fotografie.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+              <folding>
+                <marker date="1556629333816" expanded="true" signature="40:293" ph="{...}" />
+                <marker date="1556629333816" expanded="true" signature="70:291" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dais_orm_znova/Komentar.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+              <folding>
+                <marker date="1556629397369" expanded="true" signature="25:283" ph="{...}" />
+                <marker date="1556629397369" expanded="true" signature="53:281" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dais_orm_znova/Dokument.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <folding>
+                <marker date="1556629032671" expanded="true" signature="40:296" ph="{...}" />
+                <marker date="1556629032671" expanded="true" signature="68:294" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dais_orm_znova/Rubrika.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <folding>
+                <marker date="1556629032718" expanded="true" signature="25:148" ph="{...}" />
+                <marker date="1556629032718" expanded="true" signature="52:146" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dais_orm_znova/VerejneOznameni.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding>
+                <marker date="1556629032695" expanded="true" signature="40:240" ph="{...}" />
+                <marker date="1556629032695" expanded="true" signature="75:238" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dais_orm_znova/Obec.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <folding>
+                <marker date="1556629032702" expanded="true" signature="25:142" ph="{...}" />
+                <marker date="1556629032702" expanded="true" signature="49:140" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/dais_orm_znova/Rubrika.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dais_orm_znova/VerejneOznameni.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dais_orm_znova/Dokument.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dais_orm_znova/Album.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dais_orm_znova/Fotografie.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dais_orm_znova/Komentar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dais_orm_znova/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dais_orm_znova/Uzivatel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dais_orm_znova/Obec.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dais_orm_znova/Obec.cs" />
+        <option value="$PROJECT_DIR$/dais_orm_znova/Rubrika.cs" />
+        <option value="$PROJECT_DIR$/dais_orm_znova/VerejneOznameni.cs" />
+        <option value="$PROJECT_DIR$/dais_orm_znova/Dokument.cs" />
+        <option value="$PROJECT_DIR$/dais_orm_znova/Uzivatel.cs" />
+        <option value="$PROJECT_DIR$/dais_orm_znova/Album.cs" />
+        <option value="$PROJECT_DIR$/dais_orm_znova/Fotografie.cs" />
+        <option value="$PROJECT_DIR$/dais_orm_znova/Komentar.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="27" />
+    <option name="width" value="1920" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="dais_orm_znova" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="dais_orm_znova" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="dais_orm_znova" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="483d89ff-e58c-454c-bf26-0cfda8b28443" name="Default Changelist" comment="" />
+      <created>1556628249333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556628249333</updated>
+      <workItem from="1556628252287" duration="1346000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1346000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="TeamCity" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/dais_orm_znova/Program.cs</url>
+          <line>4</line>
+          <properties documentPath="$PROJECT_DIR$/dais_orm_znova/Program.cs" initialLine="4">
+            <startOffsets>
+              <option value="102" />
+            </startOffsets>
+            <endOffsets>
+              <option value="103" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dais_orm_znova/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1556628264549" expanded="true" signature="40:168" ph="{...}" />
+            <marker date="1556628264549" expanded="true" signature="60:166" ph="{...}" />
+            <marker date="1556628264549" expanded="true" signature="102:160" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dais_orm_znova/Obec.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1556629032702" expanded="true" signature="25:142" ph="{...}" />
+            <marker date="1556629032702" expanded="true" signature="49:140" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dais_orm_znova/Rubrika.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1556629032718" expanded="true" signature="25:148" ph="{...}" />
+            <marker date="1556629032718" expanded="true" signature="52:146" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dais_orm_znova/VerejneOznameni.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <marker date="1556629032695" expanded="true" signature="40:240" ph="{...}" />
+            <marker date="1556629032695" expanded="true" signature="75:238" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dais_orm_znova/Dokument.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <marker date="1556629032671" expanded="true" signature="40:296" ph="{...}" />
+            <marker date="1556629032671" expanded="true" signature="68:294" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dais_orm_znova/Uzivatel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <marker date="1556629169903" expanded="true" signature="40:341" ph="{...}" />
+            <marker date="1556629169903" expanded="true" signature="68:339" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dais_orm_znova/Album.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <folding>
+            <marker date="1556629242743" expanded="true" signature="40:200" ph="{...}" />
+            <marker date="1556629242743" expanded="true" signature="65:198" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dais_orm_znova/Fotografie.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding>
+            <marker date="1556629333816" expanded="true" signature="40:293" ph="{...}" />
+            <marker date="1556629333816" expanded="true" signature="70:291" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dais_orm_znova/Komentar.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+          <folding>
+            <marker date="1556629397369" expanded="true" signature="25:283" ph="{...}" />
+            <marker date="1556629397369" expanded="true" signature="53:281" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
