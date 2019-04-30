@@ -6,7 +6,8 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="db_shets" />
+      <PackageReference Include="BCrypt.Net-Core" Version="1.6.0" />
+      <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="2.18.6" />
     </ItemGroup>
 
 </Project>

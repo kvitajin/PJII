@@ -24,55 +24,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="483d89ff-e58c-454c-bf26-0cfda8b28443" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.dais_orm_znova/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.dais_orm_znova/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.dais_orm_znova/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.dais_orm_znova/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dais_orm_znova.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dais_orm_znova/Album.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dais_orm_znova/Dokument.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dais_orm_znova/Fotografie.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dais_orm_znova/Komentar.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dais_orm_znova/Obec.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dais_orm_znova/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dais_orm_znova/Rubrika.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dais_orm_znova/Uzivatel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dais_orm_znova/VerejneOznameni.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dais_orm_znova/dais_orm_znova.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dais_orm_znova/obj/dais_orm_znova.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dais_orm_znova/obj/dais_orm_znova.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dais_orm_znova/obj/dais_orm_znova.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dais_orm_znova/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dais_orm_znova/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokusT/.idea/.idea.pokusT/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokusT/.idea/.idea.pokusT/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokusT/.idea/.idea.pokusT/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokusT/.idea/.idea.pokusT/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT.sln.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/Access.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/AccessControl.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/Card.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/User.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/obj/Debug/netcoreapp2.2/pokusT.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/obj/Debug/netcoreapp2.2/pokusT.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/obj/Debug/netcoreapp2.2/pokusT.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/obj/Debug/netcoreapp2.2/pokusT.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/obj/pokusT.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/obj/pokusT.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/obj/pokusT.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokusT/pokusT/pokusT.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dais_orm_znova/db_shets/AlbumTable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dais_orm_znova/db_shets/Database.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dais_orm_znova/db_shets/ObecTable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dais_orm_znova/proxy_shet/ObecTableProxy.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/.idea/.idea.test2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/.idea/.idea.test2/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/.idea/.idea.test2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/.idea/.idea.test2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/test2.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/test2/House.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/test2/IConsumer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/test2/NotEnoughMoneyExeption.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/test2/PowerPlant.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/test2/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/test2/Unit.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/test2/obj/Debug/netcoreapp2.2/test2.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/test2/obj/Debug/netcoreapp2.2/test2.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/test2/obj/Debug/netcoreapp2.2/test2.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/test2/obj/Debug/netcoreapp2.2/test2.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/test2/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/test2/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/test2/obj/test2.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/test2/obj/test2.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/test2/obj/test2.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/test2/test2.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AuctionSystemORM_sqls/.idea/.idea.AuctionSystemORM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AuctionSystemORM_sqls/.idea/.idea.AuctionSystemORM/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AuctionSystemORM_sqls/Database/dao_sqls/AuctionTable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AuctionSystemORM_sqls/Database/dao_sqls/AuctionTable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee/storage_v2/_src_/schema/KVI0029.hWFPFg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee/storage_v2/_src_/schema/KVI0029.hWFPFg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee/storage_v2/_src_/schema/KVI0029.hWFPFg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee/storage_v2/_src_/schema/KVI0029.hWFPFg.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee/storage_v2/_src_/schema/PUBLIC.aaZQjQ.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Dokument.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Dokument.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Fotografie.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Fotografie.cs" afterDir="false" />
@@ -103,6 +87,23 @@
       <change beforePath="$PROJECT_DIR$/../cv7/.idea/.idea.cv7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv7/.idea/.idea.cv7/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cv8/.idea/.idea.cv8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv8/.idea/.idea.cv8/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dais1/.idea/.idea.dais1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dais1/.idea/.idea.dais1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.dais_orm_znova/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.dais_orm_znova/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.dais_orm_znova/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.dais_orm_znova/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dais_orm_znova/Obec.cs" beforeDir="false" afterPath="$PROJECT_DIR$/dais_orm_znova/Obec.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dais_orm_znova/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/dais_orm_znova/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dais_orm_znova/dais_orm_znova.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/dais_orm_znova/dais_orm_znova.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dais_orm_znova/obec_clanek.cs" beforeDir="false" afterPath="$PROJECT_DIR$/dais_orm_znova/ObecClanek.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dais_orm_znova/obj/dais_orm_znova.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/dais_orm_znova/obj/dais_orm_znova.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dais_orm_znova/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/dais_orm_znova/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dais_orm_znova/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/dais_orm_znova/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pokusT/pokusT/Access.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../pokusT/pokusT/Access.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pokusT/pokusT/AccessControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../pokusT/pokusT/AccessControl.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pokusT/pokusT/Card.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../pokusT/pokusT/Card.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pokusT/pokusT/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../pokusT/pokusT/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pokusT/pokusT/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../pokusT/pokusT/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pokusT/pokusT/pokusT.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../pokusT/pokusT/pokusT.csproj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -110,146 +111,181 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@dbsys.cs.vsb.cz" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@dbsys.cs.vsb.cz" type="feb32156:DbDataSourceImpl" />
+        <item name="KVI0029: schema" type="3abd1b6a:OraImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@dbsys.cs.vsb.cz" type="feb32156:DbDataSourceImpl" />
+        <item name="KVI0029: schema" type="3abd1b6a:OraImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@dbsys.cs.vsb.cz" type="feb32156:DbDataSourceImpl" />
+        <item name="KVI0029: schema" type="3abd1b6a:OraImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="SEM_OBEC: table" type="942f455b:OraImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dais_orm_znova/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="1" />
-              <folding>
-                <marker date="1556628264549" expanded="true" signature="40:168" ph="{...}" />
-                <marker date="1556628264549" expanded="true" signature="60:166" ph="{...}" />
-                <marker date="1556628264549" expanded="true" signature="102:160" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dais_orm_znova/Uzivatel.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-              <folding>
-                <marker date="1556629169903" expanded="true" signature="40:341" ph="{...}" />
-                <marker date="1556629169903" expanded="true" signature="68:339" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dais_orm_znova/Album.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-              <folding>
-                <marker date="1556629242743" expanded="true" signature="40:200" ph="{...}" />
-                <marker date="1556629242743" expanded="true" signature="65:198" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dais_orm_znova/Fotografie.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-              <folding>
-                <marker date="1556629333816" expanded="true" signature="40:293" ph="{...}" />
-                <marker date="1556629333816" expanded="true" signature="70:291" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dais_orm_znova/Komentar.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-              <folding>
-                <marker date="1556629397369" expanded="true" signature="25:283" ph="{...}" />
-                <marker date="1556629397369" expanded="true" signature="53:281" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dais_orm_znova/Dokument.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-              <folding>
-                <marker date="1556629032671" expanded="true" signature="40:296" ph="{...}" />
-                <marker date="1556629032671" expanded="true" signature="68:294" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dais_orm_znova/Rubrika.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-              <folding>
-                <marker date="1556629032718" expanded="true" signature="25:148" ph="{...}" />
-                <marker date="1556629032718" expanded="true" signature="52:146" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dais_orm_znova/VerejneOznameni.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-              <folding>
-                <marker date="1556629032695" expanded="true" signature="40:240" ph="{...}" />
-                <marker date="1556629032695" expanded="true" signature="75:238" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dais_orm_znova/Obec.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-              <folding>
-                <marker date="1556629032702" expanded="true" signature="25:142" ph="{...}" />
-                <marker date="1556629032702" expanded="true" signature="49:140" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5488332">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/dais_orm_znova/db_shets/ObecTable.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="555">
+                  <caret line="37" column="54" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
+                  <folding>
+                    <marker date="1556652711414" expanded="true" signature="6:144" ph="..." />
+                    <marker date="1556652711414" expanded="true" signature="180:3620" ph="{...}" />
+                    <marker date="1556652711414" expanded="true" signature="224:3618" ph="{...}" />
+                    <marker date="1556652711414" expanded="true" signature="808:929" ph="{...}" />
+                    <marker date="1556652711414" expanded="true" signature="988:1283" ph="{...}" />
+                    <marker date="1556652711414" expanded="true" signature="1336:1732" ph="{...}" />
+                    <marker date="1556652711414" expanded="true" signature="1784:2073" ph="{...}" />
+                    <marker date="1556652711414" expanded="true" signature="2133:2997" ph="{...}" />
+                    <marker date="1556652711414" expanded="true" signature="2471:2712" ph="{...}" />
+                    <marker date="1556652711414" expanded="true" signature="2861:2909" ph="{...}" />
+                    <marker date="1556652711414" expanded="true" signature="3046:3612" ph="{...}" />
+                    <marker date="1556652711414" expanded="true" signature="3333:3574" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a3646725-dbe2-4375-827e-13ff696f14ee/console.sql">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-1749" />
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/dais_orm_znova/Program.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="165">
+                  <caret line="11" selection-start-line="11" selection-end-line="11" />
+                  <folding>
+                    <marker date="1556652845128" expanded="true" signature="6:78" ph="..." />
+                    <marker date="1556652845128" expanded="true" signature="138:795" ph="{...}" />
+                    <marker date="1556652845128" expanded="true" signature="158:793" ph="{...}" />
+                    <marker date="1556652845128" expanded="true" signature="200:787" ph="{...}" />
+                    <marker date="1556652845128" expanded="true" signature="602:708" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="das://a3646725-dbe2-4375-827e-13ff696f14ee/schema/KVI0029/table/SEM_OBEC">
+              <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+                <state>
+                  <filtering enabled="true" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/dais_orm_znova/Program.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="120">
+                  <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+                  <folding>
+                    <marker date="1556652845128" expanded="false" signature="6:78" ph="..." />
+                    <marker date="1556652845128" expanded="true" signature="138:795" ph="{...}" />
+                    <marker date="1556652845128" expanded="true" signature="158:793" ph="{...}" />
+                    <marker date="1556652845128" expanded="true" signature="200:787" ph="{...}" />
+                    <marker date="1556652845128" expanded="true" signature="602:708" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/dais_orm_znova/proxy_shet/ObecTableProxy.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="331">
+                  <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+                  <folding>
+                    <marker date="1556652554938" expanded="false" signature="6:108" ph="..." />
+                    <marker date="1556652554938" expanded="true" signature="146:1016" ph="{...}" />
+                    <marker date="1556652554938" expanded="true" signature="189:1014" ph="{...}" />
+                    <marker date="1556652554938" expanded="true" signature="236:300" ph="{...}" />
+                    <marker date="1556652554938" expanded="true" signature="600:644" ph="{...}" />
+                    <marker date="1556652554938" expanded="true" signature="691:735" ph="{...}" />
+                    <marker date="1556652554938" expanded="true" signature="782:826" ph="{...}" />
+                    <marker date="1556652554938" expanded="true" signature="866:917" ph="{...}" />
+                    <marker date="1556652554938" expanded="true" signature="961:1008" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/dais_orm_znova/Obec.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="45">
+                  <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+                  <folding>
+                    <marker date="1556649686783" expanded="true" signature="25:181" ph="{...}" />
+                    <marker date="1556649686783" expanded="true" signature="49:179" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/dais_orm_znova/proxy_shet/ObecTableProxy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dais_orm_znova/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dais_orm_znova/Uzivatel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dais_orm_znova/Obec.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/dais_orm_znova/Rubrika.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/dais_orm_znova/VerejneOznameni.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/dais_orm_znova/Dokument.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/dais_orm_znova/Album.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/dais_orm_znova/Fotografie.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/dais_orm_znova/Komentar.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/dais_orm_znova/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/dais_orm_znova/Uzivatel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/dais_orm_znova/Obec.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dais_orm_znova/ObecClanek.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dais_orm_znova/db_shets/AlbumTable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dais_orm_znova/db_shets/ObecTable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dais_orm_znova/db_shets/Database.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dais_orm_znova/Obec.cs" />
         <option value="$PROJECT_DIR$/dais_orm_znova/Rubrika.cs" />
         <option value="$PROJECT_DIR$/dais_orm_znova/VerejneOznameni.cs" />
         <option value="$PROJECT_DIR$/dais_orm_znova/Dokument.cs" />
@@ -257,6 +293,14 @@
         <option value="$PROJECT_DIR$/dais_orm_znova/Album.cs" />
         <option value="$PROJECT_DIR$/dais_orm_znova/Fotografie.cs" />
         <option value="$PROJECT_DIR$/dais_orm_znova/Komentar.cs" />
+        <option value="$PROJECT_DIR$/dais_orm_znova/obec_clanek.cs" />
+        <option value="$PROJECT_DIR$/dais_orm_znova/db_shets/AlbumTable.cs" />
+        <option value="$PROJECT_DIR$/dais_orm_znova/db_shets/Database.cs" />
+        <option value="$PROJECT_DIR$/dais_orm_znova/ObecClanek.cs" />
+        <option value="$PROJECT_DIR$/dais_orm_znova/Obec.cs" />
+        <option value="$PROJECT_DIR$/dais_orm_znova/proxy_shet/ObecTableProxy.cs" />
+        <option value="$PROJECT_DIR$/dais_orm_znova/db_shets/ObecTable.cs" />
+        <option value="$PROJECT_DIR$/dais_orm_znova/Program.cs" />
       </list>
     </option>
   </component>
@@ -283,6 +327,33 @@
               <item name="dais_orm_znova" type="24d0babc:SolutionExplorerModelNode" />
               <item name="dais_orm_znova" type="24d0babc:SolutionExplorerModelNode" />
             </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="dais_orm_znova" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="dais_orm_znova" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="db_shets" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="dais_orm_znova" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="dais_orm_znova" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="proxy_shet" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Database Consoles" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Database Consoles" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="a3646725-dbe2-4375-827e-13ff696f14ee" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -293,9 +364,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="oracle" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -312,20 +385,25 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+    <configuration name="chmpff" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/dais_orm_znova/bin/Debug/netcoreapp2.2/dais_orm_znova.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dais_orm_znova" />
       <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/dais_orm_znova/dais_orm_znova.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="None" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <browser url="http://localhost:5000" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
@@ -341,12 +419,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556628249333</updated>
-      <workItem from="1556628252287" duration="1346000" />
+      <workItem from="1556628252287" duration="3580000" />
+      <workItem from="1556639763742" duration="10724000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1346000" />
+    <option name="totallyTimeSpent" value="14304000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -359,40 +438,41 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="TeamCity" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.20384204" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" weight="0.32969433" />
+      <window_info anchor="bottom" id="Build" order="0" weight="0.32969433" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="2" />
+      <window_info anchor="bottom" id="TeamCity" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969433" />
+      <window_info anchor="bottom" id="NuGet" order="8" weight="0.32969433" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" />
+      <window_info anchor="bottom" id="Run" order="11" visible="true" weight="0.32969433" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.3995633" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="right" id="Errors In Solution" order="0" />
+      <window_info active="true" anchor="right" id="Database" order="1" visible="true" weight="0.178762" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -401,46 +481,10 @@
           <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="1" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/dais_orm_znova/Program.cs</url>
-          <line>4</line>
-          <properties documentPath="$PROJECT_DIR$/dais_orm_znova/Program.cs" initialLine="4">
-            <startOffsets>
-              <option value="102" />
-            </startOffsets>
-            <endOffsets>
-              <option value="103" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dais_orm_znova/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <marker date="1556628264549" expanded="true" signature="40:168" ph="{...}" />
-            <marker date="1556628264549" expanded="true" signature="60:166" ph="{...}" />
-            <marker date="1556628264549" expanded="true" signature="102:160" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dais_orm_znova/Obec.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <marker date="1556629032702" expanded="true" signature="25:142" ph="{...}" />
-            <marker date="1556629032702" expanded="true" signature="49:140" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dais_orm_znova/Rubrika.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -455,32 +499,10 @@
     <entry file="file://$PROJECT_DIR$/dais_orm_znova/VerejneOznameni.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding>
             <marker date="1556629032695" expanded="true" signature="40:240" ph="{...}" />
             <marker date="1556629032695" expanded="true" signature="75:238" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dais_orm_znova/Dokument.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-          <folding>
-            <marker date="1556629032671" expanded="true" signature="40:296" ph="{...}" />
-            <marker date="1556629032671" expanded="true" signature="68:294" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dais_orm_znova/Uzivatel.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-          <folding>
-            <marker date="1556629169903" expanded="true" signature="40:341" ph="{...}" />
-            <marker date="1556629169903" expanded="true" signature="68:339" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -492,6 +514,17 @@
           <folding>
             <marker date="1556629242743" expanded="true" signature="40:200" ph="{...}" />
             <marker date="1556629242743" expanded="true" signature="65:198" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dais_orm_znova/Uzivatel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <marker date="1556629169903" expanded="true" signature="40:341" ph="{...}" />
+            <marker date="1556629169903" expanded="true" signature="68:339" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -514,6 +547,139 @@
           <folding>
             <marker date="1556629397369" expanded="true" signature="25:283" ph="{...}" />
             <marker date="1556629397369" expanded="true" signature="53:281" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dais_orm_znova/Dokument.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <marker date="1556629032671" expanded="true" signature="40:296" ph="{...}" />
+            <marker date="1556629032671" expanded="true" signature="68:294" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dais_orm_znova/db_shets/AlbumTable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+          <folding>
+            <marker date="1556629994410" expanded="true" signature="34:82" ph="{...}" />
+            <marker date="1556629994410" expanded="true" signature="64:80" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dais_orm_znova/ObecClanek.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1556645507026" expanded="true" signature="25:150" ph="{...}" />
+            <marker date="1556645507026" expanded="true" signature="55:148" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dais_orm_znova/Obec.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding>
+            <marker date="1556649686783" expanded="true" signature="25:181" ph="{...}" />
+            <marker date="1556649686783" expanded="true" signature="49:179" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dais_orm_znova/db_shets/Database.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding>
+            <marker date="1556631753553" expanded="false" signature="6:52" ph="..." />
+            <marker date="1556631753553" expanded="true" signature="88:1874" ph="{...}" />
+            <marker date="1556631753553" expanded="true" signature="116:1872" ph="{...}" />
+            <marker date="1556631753553" expanded="true" signature="201:259" ph="{...}" />
+            <marker date="1556631753553" expanded="true" signature="305:532" ph="{...}" />
+            <marker date="1556631753553" expanded="true" signature="383:499" ph="{...}" />
+            <marker date="1556631753553" expanded="true" signature="562:923" ph="{...}" />
+            <marker date="1556631753553" expanded="true" signature="951:1000" ph="{...}" />
+            <marker date="1556631753553" expanded="true" signature="1057:1379" ph="{...}" />
+            <marker date="1556631753553" expanded="true" signature="1111:1191" ph="{...}" />
+            <marker date="1556631753553" expanded="true" signature="1222:1272" ph="{...}" />
+            <marker date="1556631753553" expanded="true" signature="1291:1341" ph="{...}" />
+            <marker date="1556631753553" expanded="true" signature="1440:1572" ph="{...}" />
+            <marker date="1556631753553" expanded="true" signature="1580:1661" ph="/// Select encapulated in the command. ... " />
+            <marker date="1556631753553" expanded="true" signature="1722:1866" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dais_orm_znova/proxy_shet/ObecTableProxy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+          <folding>
+            <marker date="1556652554938" expanded="false" signature="6:108" ph="..." />
+            <marker date="1556652554938" expanded="true" signature="146:1016" ph="{...}" />
+            <marker date="1556652554938" expanded="true" signature="189:1014" ph="{...}" />
+            <marker date="1556652554938" expanded="true" signature="236:300" ph="{...}" />
+            <marker date="1556652554938" expanded="true" signature="600:644" ph="{...}" />
+            <marker date="1556652554938" expanded="true" signature="691:735" ph="{...}" />
+            <marker date="1556652554938" expanded="true" signature="782:826" ph="{...}" />
+            <marker date="1556652554938" expanded="true" signature="866:917" ph="{...}" />
+            <marker date="1556652554938" expanded="true" signature="961:1008" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a3646725-dbe2-4375-827e-13ff696f14ee/schema/KVI0029/table/SEM_OBEC">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a3646725-dbe2-4375-827e-13ff696f14ee/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1749" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dais_orm_znova/db_shets/ObecTable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="54" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
+          <folding>
+            <marker date="1556652711414" expanded="true" signature="6:144" ph="..." />
+            <marker date="1556652711414" expanded="true" signature="180:3620" ph="{...}" />
+            <marker date="1556652711414" expanded="true" signature="224:3618" ph="{...}" />
+            <marker date="1556652711414" expanded="true" signature="808:929" ph="{...}" />
+            <marker date="1556652711414" expanded="true" signature="988:1283" ph="{...}" />
+            <marker date="1556652711414" expanded="true" signature="1336:1732" ph="{...}" />
+            <marker date="1556652711414" expanded="true" signature="1784:2073" ph="{...}" />
+            <marker date="1556652711414" expanded="true" signature="2133:2997" ph="{...}" />
+            <marker date="1556652711414" expanded="true" signature="2471:2712" ph="{...}" />
+            <marker date="1556652711414" expanded="true" signature="2861:2909" ph="{...}" />
+            <marker date="1556652711414" expanded="true" signature="3046:3612" ph="{...}" />
+            <marker date="1556652711414" expanded="true" signature="3333:3574" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dais_orm_znova/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1556652845128" expanded="true" signature="6:78" ph="..." />
+            <marker date="1556652845128" expanded="true" signature="138:795" ph="{...}" />
+            <marker date="1556652845128" expanded="true" signature="158:793" ph="{...}" />
+            <marker date="1556652845128" expanded="true" signature="200:787" ph="{...}" />
+            <marker date="1556652845128" expanded="true" signature="602:708" ph="{...}" />
           </folding>
         </state>
       </provider>

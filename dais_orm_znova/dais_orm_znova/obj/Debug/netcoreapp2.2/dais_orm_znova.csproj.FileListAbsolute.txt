@@ -1,0 +1,11 @@
+/home/kvitajin/RiderProjects/vsb/dais_orm_znova/dais_orm_znova/bin/Debug/netcoreapp2.2/dais_orm_znova.deps.json
+/home/kvitajin/RiderProjects/vsb/dais_orm_znova/dais_orm_znova/bin/Debug/netcoreapp2.2/dais_orm_znova.runtimeconfig.json
+/home/kvitajin/RiderProjects/vsb/dais_orm_znova/dais_orm_znova/bin/Debug/netcoreapp2.2/dais_orm_znova.runtimeconfig.dev.json
+/home/kvitajin/RiderProjects/vsb/dais_orm_znova/dais_orm_znova/bin/Debug/netcoreapp2.2/dais_orm_znova.dll
+/home/kvitajin/RiderProjects/vsb/dais_orm_znova/dais_orm_znova/bin/Debug/netcoreapp2.2/dais_orm_znova.pdb
+/home/kvitajin/RiderProjects/vsb/dais_orm_znova/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.csprojAssemblyReference.cache
+/home/kvitajin/RiderProjects/vsb/dais_orm_znova/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.csproj.CoreCompileInputs.cache
+/home/kvitajin/RiderProjects/vsb/dais_orm_znova/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.AssemblyInfoInputs.cache
+/home/kvitajin/RiderProjects/vsb/dais_orm_znova/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.AssemblyInfo.cs
+/home/kvitajin/RiderProjects/vsb/dais_orm_znova/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.dll
+/home/kvitajin/RiderProjects/vsb/dais_orm_znova/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.pdb

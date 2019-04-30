@@ -2,15 +2,6 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.2": {
-      "BCrypt.Net-Core/1.6.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/BCrypt.Net-Core.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/BCrypt.Net-Core.dll": {}
-        }
-      },
       "Microsoft.NETCore.App/2.2.0": {
         "type": "package",
         "dependencies": {
@@ -216,42 +207,10 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
-      },
-      "Oracle.ManagedDataAccess.Core/2.18.6": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {}
-        }
       }
     }
   },
   "libraries": {
-    "BCrypt.Net-Core/1.6.0": {
-      "sha512": "FSHnTNSQNIQvgTEX1bxLW2F2pFZXPq4aCMWeBJtPdjKSsC/zL+IpNycdBMNt+fvLBH9UVCbfxp0fufQxHs+jgg==",
-      "type": "package",
-      "path": "bcrypt.net-core/1.6.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "bcrypt.net-core.1.6.0.nupkg.sha512",
-        "bcrypt.net-core.nuspec",
-        "lib/net40/BCrypt.Net-Core.dll",
-        "lib/net40/BCrypt.Net-Core.pdb",
-        "lib/net45/BCrypt.Net-Core.dll",
-        "lib/net45/BCrypt.Net-Core.pdb",
-        "lib/net451/BCrypt.Net-Core.dll",
-        "lib/net451/BCrypt.Net-Core.pdb",
-        "lib/net452/BCrypt.Net-Core.dll",
-        "lib/net452/BCrypt.Net-Core.pdb",
-        "lib/netstandard1.3/BCrypt.Net-Core.dll",
-        "lib/netstandard1.3/BCrypt.Net-Core.pdb",
-        "lib/netstandard2.0/BCrypt.Net-Core.dll",
-        "lib/netstandard2.0/BCrypt.Net-Core.pdb"
-      ]
-    },
     "Microsoft.NETCore.App/2.2.0": {
       "sha512": "scu9EtZfMBXAeyTPgiP5l/18xTU6QKDK+UfYWMFM7m5ZuBOPLhqjm+QyX8T6PI5y8exgcNiVd50TflyBl9M/og==",
       "type": "package",
@@ -721,29 +680,11 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
-    },
-    "Oracle.ManagedDataAccess.Core/2.18.6": {
-      "sha512": "+mS+PFu4BnTKzw2/fOpPEEOracUhIGVyZlu926iTQa7QRb00j6x+GyaIzVvYrQlPQ+FqmCuHpx018yx5agh6Fw==",
-      "type": "package",
-      "path": "oracle.manageddataaccess.core/2.18.6",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "PerfCounters/register_odpc_perfmon_counters.ps1",
-        "PerfCounters/unregister_odpc_perfmon_counters.ps1",
-        "info.txt",
-        "lib/netstandard2.0/Oracle.ManagedDataAccess.dll",
-        "oracle.manageddataaccess.core.2.18.6.nupkg.sha512",
-        "oracle.manageddataaccess.core.nuspec",
-        "readme.txt"
-      ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "BCrypt.Net-Core >= 1.6.0",
-      "Microsoft.NETCore.App >= 2.2.0",
-      "Oracle.ManagedDataAccess.Core >= 2.18.6"
+      "Microsoft.NETCore.App >= 2.2.0"
     ]
   },
   "packageFolders": {
@@ -752,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kvitajin/RiderProjects/vsb/dais_orm_znova/dais_orm_znova/dais_orm_znova.csproj",
-      "projectName": "dais_orm_znova",
-      "projectPath": "/home/kvitajin/RiderProjects/vsb/dais_orm_znova/dais_orm_znova/dais_orm_znova.csproj",
+      "projectUniqueName": "/home/kvitajin/RiderProjects/vsb/test2/test2/test2.csproj",
+      "projectName": "test2",
+      "projectPath": "/home/kvitajin/RiderProjects/vsb/test2/test2/test2.csproj",
       "packagesPath": "/home/kvitajin/.nuget/packages/",
-      "outputPath": "/home/kvitajin/RiderProjects/vsb/dais_orm_znova/dais_orm_znova/obj/",
+      "outputPath": "/home/kvitajin/RiderProjects/vsb/test2/test2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/kvitajin/.config/NuGet/NuGet.Config"
@@ -781,19 +722,11 @@
     "frameworks": {
       "netcoreapp2.2": {
         "dependencies": {
-          "BCrypt.Net-Core": {
-            "target": "Package",
-            "version": "[1.6.0, )"
-          },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
             "version": "[2.2.0, )",
             "autoReferenced": true
-          },
-          "Oracle.ManagedDataAccess.Core": {
-            "target": "Package",
-            "version": "[2.18.6, )"
           }
         },
         "imports": [

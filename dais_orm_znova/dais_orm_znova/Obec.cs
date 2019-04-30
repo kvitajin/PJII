@@ -1,6 +1,7 @@
 namespace dais_orm_znova {
     public class Obec {
-        private int ObecId { get; set; }
-        private string Nazev { get; set; }
+        public int ObecId { get; set; }
+        public string Nazev { get; set; }
+        public int Visible { get; set; }
     }
 }

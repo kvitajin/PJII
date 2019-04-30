@@ -13,19 +13,27 @@
         <e p="Fotografie.cs" t="Include" />
         <e p="Komentar.cs" t="Include" />
         <e p="Obec.cs" t="Include" />
+        <e p="ObecClanek.cs" t="Include" />
         <e p="Program.cs" t="Include" />
         <e p="Rubrika.cs" t="Include" />
         <e p="Uzivatel.cs" t="Include" />
         <e p="VerejneOznameni.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="dais_orm_znova.csproj" t="IncludeRecursive" />
-        <e p="db_shets" t="Include" />
+        <e p="db_shets" t="Include">
+          <e p="AlbumTable.cs" t="Include" />
+          <e p="Database.cs" t="Include" />
+          <e p="ObecTable.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp2.2" t="Include">
               <e p="dais_orm_znova.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
+        </e>
+        <e p="proxy_shet" t="Include">
+          <e p="ObecTableProxy.cs" t="Include" />
         </e>
       </e>
       <e p="dais_orm_znova.sln" t="IncludeFlat" />

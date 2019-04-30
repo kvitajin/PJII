@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "8401a20a70ebe2702a44cece80e02be6a2b5f56d"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "dais_orm_znova/1.0.0": {
+        "dependencies": {
+          "BCrypt.Net-Core": "1.6.0",
+          "Oracle.ManagedDataAccess.Core": "2.18.6"
+        },
+        "runtime": {
+          "dais_orm_znova.dll": {}
+        }
+      },
+      "BCrypt.Net-Core/1.6.0": {
+        "runtime": {
+          "lib/netstandard2.0/BCrypt.Net-Core.dll": {
+            "assemblyVersion": "1.6.0.0",
+            "fileVersion": "1.6.0.0"
+          }
+        }
+      },
+      "Oracle.ManagedDataAccess.Core/2.18.6": {
+        "runtime": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {
+            "assemblyVersion": "2.0.18.3",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dais_orm_znova/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BCrypt.Net-Core/1.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FSHnTNSQNIQvgTEX1bxLW2F2pFZXPq4aCMWeBJtPdjKSsC/zL+IpNycdBMNt+fvLBH9UVCbfxp0fufQxHs+jgg==",
+      "path": "bcrypt.net-core/1.6.0",
+      "hashPath": "bcrypt.net-core.1.6.0.nupkg.sha512"
+    },
+    "Oracle.ManagedDataAccess.Core/2.18.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+mS+PFu4BnTKzw2/fOpPEEOracUhIGVyZlu926iTQa7QRb00j6x+GyaIzVvYrQlPQ+FqmCuHpx018yx5agh6Fw==",
+      "path": "oracle.manageddataaccess.core/2.18.6",
+      "hashPath": "oracle.manageddataaccess.core.2.18.6.nupkg.sha512"
+    }
+  }
+}
