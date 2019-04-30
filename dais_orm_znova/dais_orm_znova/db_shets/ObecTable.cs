@@ -9,7 +9,7 @@ namespace dais_orm_znova.db_shets {
         public static string SELECT_ALL = "SELECT obec_id, nazev, vidible FROM SEM_OBEC";
         public static string INSERT = "INSERT INTO SEM_OBEC(OBEC_ID, NAZEV) VALUES (SEQ_OBEC.nextval, :nazev)";
         public static string UPDATE = "UPDATE SEM_OBEC SET NAZEV= :nazev, VIDIBLE = :vis where OBEC_ID = :obecId";
-        public static string DELETE = "DELETE FROM SEM_OBEC WHERE OBEC_ID = :obecId";
+        public static string DELETE = "UPDATE SEM_OBEC SET VIDIBLE = 0 where OBEC_ID = :obecId";
 
 
         public static void Prepare(OracleCommand cmd, Obec chmpff) {
@@ -65,9 +65,6 @@ namespace dais_orm_znova.db_shets {
                 tmp.Visible = readshit.GetInt32(2);
                 vystup.Add(tmp);
             }
-            db.Close();
-            readshit.Close();
-            
             Obec wtf = null;
                 
             if (vystup.Count == 1) {
@@ -92,7 +89,8 @@ namespace dais_orm_znova.db_shets {
                 tmp.Visible = readshit.GetInt32(2);
                 vystup.Add(tmp);
             }
-
+            readshit.Close();
+            db.Close();
             return vystup;
         }
     }

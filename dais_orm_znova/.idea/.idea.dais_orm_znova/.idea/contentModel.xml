@@ -23,7 +23,10 @@
         <e p="db_shets" t="Include">
           <e p="AlbumTable.cs" t="Include" />
           <e p="Database.cs" t="Include" />
+          <e p="DokumentTable.cs" t="Include" />
           <e p="ObecTable.cs" t="Include" />
+          <e p="RubrikaTable.cs" t="Include" />
+          <e p="UzivatelTable.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -33,7 +36,10 @@
           </e>
         </e>
         <e p="proxy_shet" t="Include">
+          <e p="DokumentTableProxy.cs" t="Include" />
           <e p="ObecTableProxy.cs" t="Include" />
+          <e p="RubrikaTableProxy.cs" t="Include" />
+          <e p="UzivatelTableProxy.cs" t="Include" />
         </e>
       </e>
       <e p="dais_orm_znova.sln" t="IncludeFlat" />
