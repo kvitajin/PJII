@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.3/system/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_pokusT.-1171464486.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="pokusT" t="IncludeRecursive">
+        <e p="Access.cs" t="Include" />
+        <e p="AccessControl.cs" t="Include" />
+        <e p="Card.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="User.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="pokusT.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="pokusT.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="pokusT.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

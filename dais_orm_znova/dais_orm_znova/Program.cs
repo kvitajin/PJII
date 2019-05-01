@@ -59,9 +59,13 @@ namespace dais_orm_znova {
 //                Console.WriteLine(hovno.RubrikaId + " " + hovno.Nazev );
 //            }
 
-
-
-
+            Komentar komentar = new Komentar();
+            komentar.Obsah = "dsmlsms";
+            komentar.DokumentId = 1;
+            komentar.UzivatelId = 1;
+            KomentarTableProxy.Update(komentar);
+            KomentarTableProxy.Select_dokument(1);
+            
 
 //            db.Connect();
 //            OracleCommand cmd = new OracleCommand();

@@ -3,7 +3,8 @@
 namespace pokusT {
     class Program {
         static void Main(string[] args) {
-            Console.WriteLine("Hello World!");
+            Card card = new Card("123456789-Edie/Amoulen");
+            Console.WriteLine(card.CardId + " " + card.HolderLastName + " " + card.HolderFirstName);
         }
     }
 }

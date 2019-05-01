@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using dais_orm_znova.proxy_shet;
 using Oracle.ManagedDataAccess.Client;
@@ -11,9 +12,15 @@ namespace dais_orm_znova.db_shets {
         VALUES (SEQ_OBEC.nextval, :nick, :heslo, :email, :datumNarozeni, 0, :obecId)";
         public static string UPDATE = "UPDATE SEM_UZIVATEL SET NICK=:nick, DATUM_NAROZENI=:datumNarozeni, BAN=:ban, OBEC_OBEC_ID=:obecId where UZIVATEL_ID = :uzivatelId";
         public static string DELETE = "UPDATE SEM_UZIVATEL SET ban = -1 where UZIVATEL_ID = :uzivatelId";
+        public static string ZMENA_PRAV = "UPDATE SEM_UZIVATEL SET BAN= :ban WHERE UZIVATEL_ID = :uzivatelId";
 
         protected override void insert(Uzivatel uzivatel) {
-            throw new System.NotImplementedException();
+//            Database db = new Database();
+//            db.Connect();
+//            OracleCommand cmd = new OracleCommand("Registruj");
+//            cmd.Parameters.Add("p_datumNarozeni", OracleDbType.Date).Value = uzivatel.DatumNarozeni;
+//            cmd.ExecuteNonQuery();
+            throw new NotImplementedException();
         }
 
         protected override void update(Uzivatel uzivatel) {
@@ -92,7 +99,7 @@ namespace dais_orm_znova.db_shets {
         protected override List<Uzivatel> select_obec(int obecId) {
             Database db = new Database();
             db.Connect();
-            OracleCommand cmd = db.CreateCommand(SELECT_ALL);
+            OracleCommand cmd = db.CreateCommand(SELECT_OBEC);
             cmd.Parameters.Add("obecId", obecId);
             List<Uzivatel> vystup = new List<Uzivatel>();
             OracleDataReader readshit = db.Select(cmd);
@@ -111,6 +118,36 @@ namespace dais_orm_znova.db_shets {
             readshit.Close();
             db.Close();
             return vystup;
+        }
+
+        protected override void zmena_prav(Uzivatel uzivatel, string prava) {
+            int iStav;
+            if (prava == "admin" || prava == "Admin") {
+                iStav = 255;
+            }
+            else if (prava == "knez" || prava == "Knez") {
+                iStav = 127;
+            }
+            else if (prava == "fotograf" || prava == "Fotograf") {
+                iStav = 63;
+            }
+            else if (prava == "ban" || prava == "Ban") {
+                iStav = 3;
+            }
+            else if (prava == "uzivatel" || prava == "Uzivatel") {
+                iStav = 0;
+            }
+            else {
+                Console.WriteLine("neznamy stav uzivatele");
+                return;
+            }
+            Database db = new Database();
+            db.Connect();
+            OracleCommand cmd = db.CreateCommand(ZMENA_PRAV);
+            cmd.Parameters.Add("ban", iStav);
+            cmd.Parameters.Add("uzivatelId", uzivatel.UzivatelId);
+            db.ExecuteNonQuery(cmd);   
+            db.Close(); 
         }
     }
 }

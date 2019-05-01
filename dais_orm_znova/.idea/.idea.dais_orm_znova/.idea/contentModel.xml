@@ -29,6 +29,7 @@
           <e p="ObecTable.cs" t="Include" />
           <e p="RubrikaTable.cs" t="Include" />
           <e p="UzivatelTable.cs" t="Include" />
+          <e p="VerejneOznameniTable.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -45,6 +46,7 @@
           <e p="ObecTableProxy.cs" t="Include" />
           <e p="RubrikaTableProxy.cs" t="Include" />
           <e p="UzivatelTableProxy.cs" t="Include" />
+          <e p="VerejneOznameniProxy.cs" t="Include" />
         </e>
       </e>
       <e p="dais_orm_znova.sln" t="IncludeFlat" />

@@ -7,6 +7,8 @@ using System.Data;
 using Oracle.ManagedDataAccess.Client;
 using Oracle.ManagedDataAccess.Types;
 
+
+/**nugety: brypt.net, microsoft.netcore.app, uracle.dataaccess.x86, uracle.manageddataacccess    .**/
 namespace DAIS_ORM {
     class Program {
         static void Main(string[] args) {
@@ -45,7 +47,7 @@ namespace DAIS_ORM {
             }
 /**1.3.**/
             db.Connect();
-            uzivatel.ZmenaStavuUzivatele(1, "Admin");
+            uzivatel.ZmenaStavuUzivatele(1, "Knez");
 /**1.4.**/
             db.Connect();
             uzivatel.ZabanovaniUzivatele(3);
@@ -70,7 +72,13 @@ namespace DAIS_ORM {
             var tmp = dokument.ZobrazDetailDokumentuVRubrice(1);
             foreach (var doku in tmp) {
                 Console.WriteLine(doku.Nadpis + "\n" + doku.Datum + "\n" + doku.Obsah + "\n");
-            }           
+            }   
+/**2.4.**/            
+            db.Connect();
+            dokument.KomentujDokument(3, "koakokdso", 1);
+/**2.5.**/            
+            db.Connect();
+            dokument.ZmenRubrikuDokumentu(5, 3);
             
 /**3.1.**/
             db.Connect();
@@ -141,7 +149,8 @@ namespace DAIS_ORM {
             db.Connect();
             DateTime from = new DateTime(2019, 4, 27, 12,0,0);
             DateTime to = new DateTime(2019, 4, 29, 12,0,0);
-            verejneOznameni.VytvorVerejneOznameni( from, to, 3);
+            //verejneOznameni.VytvorVerejneOznameni( from, to, 4);
+            //todo odkomentovat
             
 /**8.1.**/
             db.Connect();

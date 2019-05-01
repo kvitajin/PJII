@@ -90,14 +90,17 @@ namespace DAIS_ORM {
                     OracleDataReader reader = cmd.ExecuteReader();
                     reader.Read();
                     decimal ban = (decimal) reader.GetValue(0);
+                    Database db = new Database();
+                    db.Connect();
                     if (ban != -1 || ban != 3) {
                         using (OracleCommand insert = new OracleCommand()) {
-                            cmd.Connection = Connection;
-                            cmd.CommandText= @"INSERT INTO SEM_KOMENTAR(KOMENTAR_ID, OBSAH, FOTO_FOTO_ID, UZIVATEL_UZIVATEL_ID) 
-                                  VALUES (SEQ_KOMENTAR.nextval, :obsah, :fotoId, :uzivatelId)";
-                            cmd.Parameters.Add("obsah", obsah);
-                            cmd.Parameters.Add("fotoId", fotoId);
-                            cmd.Parameters.Add("uzivatelId", uzivatelId);
+                            insert.Connection = Connection;
+                            insert.CommandText= @"INSERT INTO SEM_KOMENTAR(KOMENTAR_ID, OBSAH, FOTO_FOTO_ID, UZIVATEL_UZIVATEL_ID) 
+                                  VALUES (SEQ_KOMENTAR.nextval, :obsah,  :fotoId, :uzivatelId)";
+                            insert.Parameters.Add("obsah", obsah);
+                            insert.Parameters.Add("fotoId", fotoId);
+                            insert.Parameters.Add("uzivatelId", uzivatelId);
+                            insert.ExecuteNonQuery();
                         }
                     }
 //                       

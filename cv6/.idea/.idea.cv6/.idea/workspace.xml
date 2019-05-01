@@ -21,81 +21,72 @@
     <option name="SHOW_CLOSE_PROMPT" value="true" />
     <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <treeState key="project">
+      <selectedPath>
+        <pathElement>
+          <option name="myNodeId" value="helperText" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.LinkedTextDescriptor" />
+        </pathElement>
+      </selectedPath>
+    </treeState>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04514523-88eb-4c8d-96e8-9c9c11a53e7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM.sln.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/DAIS_ORM.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/DAIS_ORM.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/DAIS_ORM.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/DAIS_ORM.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/Calculator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/cv5.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.cv6/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.cv6/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.cv6/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.cv6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.cv6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv6.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv6/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv6/Reader.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv6/Users.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv6/cv6.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv6/obj/Debug/netcoreapp2.2/cv6.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv6/obj/Debug/netcoreapp2.2/cv6.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv6/obj/Debug/netcoreapp2.2/cv6.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv6/obj/Debug/netcoreapp2.2/cv6.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv6/obj/cv6.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv6/obj/cv6.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv6/obj/cv6.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv6/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv6/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv7/.idea/.idea.cv7/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv7/cv7/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/.idea/.idea.dais1/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/dais1.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/Debug/netcoreapp2.2/dais1.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/Debug/netcoreapp2.2/dais1.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/Debug/netcoreapp2.2/dais1.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/Debug/netcoreapp2.2/dais1.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/dais1.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/dais1.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/dais1.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cv2/.idea/.idea.cv2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv2/.idea/.idea.cv2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/db_shets/AlbumTable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/db_shets/Database.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/db_shets/ObecTable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuctionSystemORM_sqls/.idea/.idea.AuctionSystemORM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AuctionSystemORM_sqls/.idea/.idea.AuctionSystemORM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuctionSystemORM_sqls/Database/dao_sqls/AuctionTable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AuctionSystemORM_sqls/Database/dao_sqls/AuctionTable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee/storage_v2/_src_/schema/KVI0029.hWFPFg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee/storage_v2/_src_/schema/KVI0029.hWFPFg.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee/storage_v2/_src_/schema/PUBLIC.aaZQjQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Dokument.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Dokument.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Fotografie.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Fotografie.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/bin/Debug/netcoreapp2.2/DAIS_ORM.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/bin/Debug/netcoreapp2.2/DAIS_ORM.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/bin/Debug/netcoreapp2.2/DAIS_ORM.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/bin/Debug/netcoreapp2.2/DAIS_ORM.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv3/.idea/.idea.cv3/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/.idea/.idea.cv3/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cv3/.idea/.idea.cv3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/.idea/.idea.cv3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test1/.idea/.idea.test1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test1/.idea/.idea.test1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv3/cv3/obj/Debug/netcoreapp2.2/cv3.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/cv3/obj/Debug/netcoreapp2.2/cv3.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv3/cv3/obj/Debug/netcoreapp2.2/cv3.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/cv3/obj/Debug/netcoreapp2.2/cv3.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv3/cv3/obj/cv3.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/cv3/obj/cv3.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv3/cv3/obj/cv3.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/cv3/obj/cv3.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv3/cv3/obj/cv3.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/cv3/obj/cv3.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv3/cv3/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/cv3/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv3/cv3/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/cv3/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.cv6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cv6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv7/.idea/.idea.cv7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv7/.idea/.idea.cv7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv8/.idea/.idea.cv8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv8/.idea/.idea.cv8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dais1/.idea/.idea.dais1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dais1/.idea/.idea.dais1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dais_orm_znova/.idea/.idea.dais_orm_znova/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dais_orm_znova/.idea/.idea.dais_orm_znova/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dais_orm_znova/.idea/.idea.dais_orm_znova/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dais_orm_znova/.idea/.idea.dais_orm_znova/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/dais_orm_znova.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/dais_orm_znova.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/obj/dais_orm_znova.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/obj/dais_orm_znova.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pokusT/pokusT/Access.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../pokusT/pokusT/Access.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pokusT/pokusT/AccessControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../pokusT/pokusT/AccessControl.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pokusT/pokusT/Card.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../pokusT/pokusT/Card.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pokusT/pokusT/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../pokusT/pokusT/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pokusT/pokusT/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../pokusT/pokusT/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pokusT/pokusT/pokusT.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../pokusT/pokusT/pokusT.csproj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -122,17 +113,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cv6/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1230">
-              <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+            <state relative-caret-position="-1197">
+              <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
               <folding>
-                <marker date="1555417492154" expanded="true" signature="6:144" ph="..." />
+                <marker date="1555417492154" expanded="false" signature="6:144" ph="..." />
                 <marker date="1555417492154" expanded="true" signature="163:5021" ph="{...}" />
                 <marker date="1555417492154" expanded="true" signature="206:447" ph="{...}" />
                 <marker date="1555417492154" expanded="true" signature="297:440" ph="{...}" />
                 <marker date="1555417492154" expanded="true" signature="465:4408" ph="{...}" />
                 <marker date="1555417492154" expanded="true" signature="520:4402" ph="{...}" />
                 <marker date="1555417492154" expanded="true" signature="577:722" ph="{...}" />
-                <marker date="1555417492154" expanded="true" signature="736:2197" ph="/* string ConnectString = &quot;Server= dbsys.cs.vsb.cz\\STUDENT;Database= waj0007; User Id = waj0007; Password=f77qjP ... */" />
+                <marker date="1555417492154" expanded="true" signature="736:2197" ph="/* String SqlConnectionStirng =&quot;Server = 'dbsys.cs.vsb.cz\\STUDENT', Database = 'kvi0029', User Id = 'kvi0029', p ... */" />
                 <marker date="1555417492154" expanded="true" signature="2412:4392" ph="{...}" />
                 <marker date="1555417492154" expanded="true" signature="2688:2826" ph="{...}" />
                 <marker date="1555417492154" expanded="true" signature="2988:3783" ph="{...}" />
@@ -153,8 +144,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cv6/Reader.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="120" selection-start-line="4" selection-start-column="120" selection-end-line="4" selection-end-column="120" />
+            <state relative-caret-position="105">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding>
                 <marker date="1554217614600" expanded="true" signature="43:302" ph="{...}" />
                 <marker date="1554217614600" expanded="true" signature="76:300" ph="{...}" />
@@ -208,46 +199,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="cv6" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="cv6" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="cv6" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="cv6" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="cv6" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="cv6" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="cv6" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
-              <item name=".NETCoreApp 2.2" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="cv6" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="cv6" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
-              <item name=".NETCoreApp 2.2" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="SDK" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -310,11 +266,15 @@
       <workItem from="1554213784043" duration="1332000" />
       <workItem from="1554215152490" duration="2483000" />
       <workItem from="1555417349286" duration="143000" />
+      <workItem from="1555587675901" duration="646000" />
+      <workItem from="1556562765400" duration="1928000" />
+      <workItem from="1556623593486" duration="18000" />
+      <workItem from="1556632779333" duration="19000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4049000" />
+    <option name="totallyTimeSpent" value="6660000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -327,8 +287,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25773746" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26947704" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -342,10 +303,10 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="NuGet" order="7" weight="0.32969433" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32969433" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Unit Tests" order="11" />
-      <window_info anchor="bottom" id="TeamCity" order="12" />
+      <window_info anchor="bottom" id="TeamCity" order="12" weight="0.32969433" />
       <window_info anchor="bottom" id="Terminal" order="13" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="15" weight="0.32969433" />
@@ -376,42 +337,19 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/43ebe773-3d79-46dc-abe0-5624e164c8a9/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/cv6/Reader.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="120" selection-start-line="4" selection-start-column="120" selection-end-line="4" selection-end-column="120" />
-          <folding>
-            <marker date="1554217614600" expanded="true" signature="43:302" ph="{...}" />
-            <marker date="1554217614600" expanded="true" signature="76:300" ph="{...}" />
-            <marker date="1554217614600" expanded="true" signature="162:294" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cv6/Users.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-          <folding>
-            <marker date="1554217614595" expanded="true" signature="14:257" ph="{...}" />
-            <marker date="1554217614595" expanded="true" signature="39:255" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cv6/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1230">
-          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+        <state relative-caret-position="-1197">
+          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
           <folding>
-            <marker date="1555417492154" expanded="true" signature="6:144" ph="..." />
+            <marker date="1555417492154" expanded="false" signature="6:144" ph="..." />
             <marker date="1555417492154" expanded="true" signature="163:5021" ph="{...}" />
             <marker date="1555417492154" expanded="true" signature="206:447" ph="{...}" />
             <marker date="1555417492154" expanded="true" signature="297:440" ph="{...}" />
             <marker date="1555417492154" expanded="true" signature="465:4408" ph="{...}" />
             <marker date="1555417492154" expanded="true" signature="520:4402" ph="{...}" />
             <marker date="1555417492154" expanded="true" signature="577:722" ph="{...}" />
-            <marker date="1555417492154" expanded="true" signature="736:2197" ph="/* string ConnectString = &quot;Server= dbsys.cs.vsb.cz\\STUDENT;Database= waj0007; User Id = waj0007; Password=f77qjP ... */" />
+            <marker date="1555417492154" expanded="true" signature="736:2197" ph="/* String SqlConnectionStirng =&quot;Server = 'dbsys.cs.vsb.cz\\STUDENT', Database = 'kvi0029', User Id = 'kvi0029', p ... */" />
             <marker date="1555417492154" expanded="true" signature="2412:4392" ph="{...}" />
             <marker date="1555417492154" expanded="true" signature="2688:2826" ph="{...}" />
             <marker date="1555417492154" expanded="true" signature="2988:3783" ph="{...}" />
@@ -424,6 +362,27 @@
             <marker date="1555417492154" expanded="true" signature="4701:4779" ph="{...}" />
             <marker date="1555417492154" expanded="true" signature="4804:4886" ph="{...}" />
             <marker date="1555417492154" expanded="true" signature="4916:5013" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cv6/Reader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <marker date="1554217614600" expanded="true" signature="76:300" ph="{...}" />
+            <marker date="1554217614600" expanded="true" signature="162:294" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cv6/Users.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+          <folding>
+            <marker date="1554217614595" expanded="true" signature="39:255" ph="{...}" />
           </folding>
         </state>
       </provider>

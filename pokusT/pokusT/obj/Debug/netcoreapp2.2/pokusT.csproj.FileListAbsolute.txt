@@ -1,0 +1,11 @@
+/home/kvitajin/RiderProjects/vsb/pokusT/pokusT/bin/Debug/netcoreapp2.2/pokusT.deps.json
+/home/kvitajin/RiderProjects/vsb/pokusT/pokusT/bin/Debug/netcoreapp2.2/pokusT.runtimeconfig.json
+/home/kvitajin/RiderProjects/vsb/pokusT/pokusT/bin/Debug/netcoreapp2.2/pokusT.runtimeconfig.dev.json
+/home/kvitajin/RiderProjects/vsb/pokusT/pokusT/bin/Debug/netcoreapp2.2/pokusT.dll
+/home/kvitajin/RiderProjects/vsb/pokusT/pokusT/bin/Debug/netcoreapp2.2/pokusT.pdb
+/home/kvitajin/RiderProjects/vsb/pokusT/pokusT/obj/Debug/netcoreapp2.2/pokusT.csprojAssemblyReference.cache
+/home/kvitajin/RiderProjects/vsb/pokusT/pokusT/obj/Debug/netcoreapp2.2/pokusT.csproj.CoreCompileInputs.cache
+/home/kvitajin/RiderProjects/vsb/pokusT/pokusT/obj/Debug/netcoreapp2.2/pokusT.AssemblyInfoInputs.cache
+/home/kvitajin/RiderProjects/vsb/pokusT/pokusT/obj/Debug/netcoreapp2.2/pokusT.AssemblyInfo.cs
+/home/kvitajin/RiderProjects/vsb/pokusT/pokusT/obj/Debug/netcoreapp2.2/pokusT.dll
+/home/kvitajin/RiderProjects/vsb/pokusT/pokusT/obj/Debug/netcoreapp2.2/pokusT.pdb

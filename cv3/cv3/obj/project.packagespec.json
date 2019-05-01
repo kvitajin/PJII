@@ -6,9 +6,6 @@
     "projectPath": "/home/kvitajin/RiderProjects/vsb/cv3/cv3/cv3.csproj",
     "outputPath": "/home/kvitajin/RiderProjects/vsb/cv3/cv3/obj/",
     "projectStyle": "PackageReference",
-    "fallbackFolders": [
-      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
-    ],
     "originalTargetFrameworks": [
       "netcoreapp2.2"
     ],

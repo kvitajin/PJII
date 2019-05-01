@@ -5,7 +5,7 @@ using System.Data.SqlClient;
 
 namespace AuctionSystem.ORM.DAO.Sqls
 {
-    public class AuctionTable
+    public class     AuctionTable
     {
         public static String TABLE_NAME = "Auction";
 

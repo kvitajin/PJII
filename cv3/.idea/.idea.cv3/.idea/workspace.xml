@@ -24,7 +24,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4d02e97-d6c8-4fb6-9cf2-ae0dc516b11d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../cv2/.idea/.idea.cv2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv2/.idea/.idea.cv2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuctionSystemORM_sqls/.idea/.idea.AuctionSystemORM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AuctionSystemORM_sqls/.idea/.idea.AuctionSystemORM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuctionSystemORM_sqls/Database/dao_sqls/AuctionTable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AuctionSystemORM_sqls/Database/dao_sqls/AuctionTable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee/storage_v2/_src_/schema/KVI0029.hWFPFg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee/storage_v2/_src_/schema/KVI0029.hWFPFg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Dokument.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Dokument.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Fotografie.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Fotografie.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/bin/Debug/netcoreapp2.2/DAIS_ORM.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/bin/Debug/netcoreapp2.2/DAIS_ORM.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/bin/Debug/netcoreapp2.2/DAIS_ORM.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/bin/Debug/netcoreapp2.2/DAIS_ORM.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.cv3/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cv3/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.cv3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cv3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv3/obj/Debug/netcoreapp2.2/cv3.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/cv3/obj/Debug/netcoreapp2.2/cv3.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv3/obj/Debug/netcoreapp2.2/cv3.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/cv3/obj/Debug/netcoreapp2.2/cv3.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv3/obj/cv3.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/cv3/obj/cv3.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv3/obj/cv3.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/cv3/obj/cv3.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv3/obj/cv3.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/cv3/obj/cv3.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv3/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/cv3/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv3/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/cv3/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv6/.idea/.idea.cv6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv6/.idea/.idea.cv6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dais1/.idea/.idea.dais1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dais1/.idea/.idea.dais1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,14 +64,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cv3/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+            <state relative-caret-position="405">
+              <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
               <folding>
-                <marker date="1551802135289" expanded="true" signature="6:58" ph="..." />
+                <marker date="1551802135289" expanded="false" signature="6:58" ph="..." />
                 <marker date="1551802135289" expanded="true" signature="74:986" ph="{...}" />
                 <marker date="1551802135289" expanded="true" signature="94:984" ph="{...}" />
                 <marker date="1551802135289" expanded="true" signature="136:978" ph="{...}" />
@@ -79,10 +110,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cv3/MujZasobnik.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
+            <state relative-caret-position="573">
               <caret line="56" column="15" selection-start-line="56" selection-start-column="15" selection-end-line="56" selection-end-column="15" />
               <folding>
-                <marker date="1551799746398" expanded="true" signature="6:96" ph="..." />
+                <marker date="1551799746398" expanded="false" signature="6:96" ph="..." />
                 <marker date="1551799746398" expanded="true" signature="112:1347" ph="{...}" />
                 <marker date="1551799746398" expanded="true" signature="140:156" ph="{...}" />
                 <marker date="1551799746398" expanded="true" signature="232:1345" ph="{...}" />
@@ -105,10 +136,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cv3/DynamicArry.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
+            <state relative-caret-position="378">
               <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
               <folding>
-                <marker date="1551802518700" expanded="true" signature="6:71" ph="..." />
+                <marker date="1551802518700" expanded="false" signature="6:90" ph="..." />
                 <marker date="1551802518700" expanded="true" signature="106:1872" ph="{...}" />
                 <marker date="1551802518700" expanded="true" signature="137:1870" ph="{...}" />
                 <marker date="1551802518700" expanded="true" signature="230:281" ph="{...}" />
@@ -171,24 +202,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="cv3" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="cv3" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="cv3" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
     </panes>
   </component>
@@ -196,6 +213,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cv5" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -247,11 +265,14 @@
       <option name="presentableId" value="Default" />
       <updated>1551798212385</updated>
       <workItem from="1551798216316" duration="4385000" />
+      <workItem from="1555587477261" duration="160000" />
+      <workItem from="1556533068741" duration="597000" />
+      <workItem from="1556556216484" duration="1211000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4385000" />
+    <option name="totallyTimeSpent" value="6353000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -264,11 +285,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.2497332" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.25773746" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
@@ -298,7 +318,7 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -318,6 +338,60 @@
           <folding>
             <marker date="1551798928831" expanded="true" signature="29:98" ph="{...}" />
             <marker date="1551798928831" expanded="true" signature="80:96" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cv3/DynamicArry.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+          <folding>
+            <marker date="1551802518700" expanded="false" signature="6:90" ph="..." />
+            <marker date="1551802518700" expanded="true" signature="106:1872" ph="{...}" />
+            <marker date="1551802518700" expanded="true" signature="137:1870" ph="{...}" />
+            <marker date="1551802518700" expanded="true" signature="230:281" ph="{...}" />
+            <marker date="1551802518700" expanded="true" signature="322:692" ph="{...}" />
+            <marker date="1551802518700" expanded="true" signature="387:682" ph="{...}" />
+            <marker date="1551802518700" expanded="true" signature="437:624" ph="{...}" />
+            <marker date="1551802518700" expanded="true" signature="736:1131" ph="{...}" />
+            <marker date="1551802518700" expanded="true" signature="829:1017" ph="{...}" />
+            <marker date="1551802518700" expanded="true" signature="862:920" ph="{...}" />
+            <marker date="1551802518700" expanded="true" signature="920:1003" ph="{...}" />
+            <marker date="1551802518700" expanded="true" signature="1170:1319" ph="{...}" />
+            <marker date="1551802518700" expanded="true" signature="1209:1309" ph="{...}" />
+            <marker date="1551802518700" expanded="true" signature="1240:1295" ph="{...}" />
+            <marker date="1551802518700" expanded="true" signature="1352:1864" ph="{...}" />
+            <marker date="1551802518700" expanded="true" signature="1369:1854" ph="{...}" />
+            <marker date="1551802518700" expanded="true" signature="1455:1568" ph="{...}" />
+            <marker date="1551802518700" expanded="true" signature="1492:1550" ph="{...}" />
+            <marker date="1551802518700" expanded="true" signature="1611:1665" ph="{...}" />
+            <marker date="1551802518700" expanded="true" signature="1702:1759" ph="{...}" />
+            <marker date="1551802518700" expanded="true" signature="1759:1840" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cv3/MujZasobnik.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="56" column="15" selection-start-line="56" selection-start-column="15" selection-end-line="56" selection-end-column="15" />
+          <folding>
+            <marker date="1551799746398" expanded="false" signature="6:96" ph="..." />
+            <marker date="1551799746398" expanded="true" signature="112:1347" ph="{...}" />
+            <marker date="1551799746398" expanded="true" signature="140:156" ph="{...}" />
+            <marker date="1551799746398" expanded="true" signature="232:1345" ph="{...}" />
+            <marker date="1551799746398" expanded="true" signature="387:464" ph="{...}" />
+            <marker date="1551799746398" expanded="true" signature="503:619" ph="{...}" />
+            <marker date="1551799746398" expanded="true" signature="539:583" ph="{...}" />
+            <marker date="1551799746398" expanded="true" signature="650:780" ph="{...}" />
+            <marker date="1551799746398" expanded="true" signature="700:744" ph="{...}" />
+            <marker date="1551799746398" expanded="true" signature="810:850" ph="{...}" />
+            <marker date="1551799746398" expanded="true" signature="888:969" ph="{...}" />
+            <marker date="1551799746398" expanded="true" signature="1000:1215" ph="{...}" />
+            <marker date="1551799746398" expanded="true" signature="1033:1112" ph="{...}" />
+            <marker date="1551799746398" expanded="true" signature="1238:1339" ph="{...}" />
+            <marker date="1551799746398" expanded="true" signature="1256:1317" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -344,66 +418,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cv3/MujZasobnik.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="56" column="15" selection-start-line="56" selection-start-column="15" selection-end-line="56" selection-end-column="15" />
-          <folding>
-            <marker date="1551799746398" expanded="true" signature="6:96" ph="..." />
-            <marker date="1551799746398" expanded="true" signature="112:1347" ph="{...}" />
-            <marker date="1551799746398" expanded="true" signature="140:156" ph="{...}" />
-            <marker date="1551799746398" expanded="true" signature="232:1345" ph="{...}" />
-            <marker date="1551799746398" expanded="true" signature="387:464" ph="{...}" />
-            <marker date="1551799746398" expanded="true" signature="503:619" ph="{...}" />
-            <marker date="1551799746398" expanded="true" signature="539:583" ph="{...}" />
-            <marker date="1551799746398" expanded="true" signature="650:780" ph="{...}" />
-            <marker date="1551799746398" expanded="true" signature="700:744" ph="{...}" />
-            <marker date="1551799746398" expanded="true" signature="810:850" ph="{...}" />
-            <marker date="1551799746398" expanded="true" signature="888:969" ph="{...}" />
-            <marker date="1551799746398" expanded="true" signature="1000:1215" ph="{...}" />
-            <marker date="1551799746398" expanded="true" signature="1033:1112" ph="{...}" />
-            <marker date="1551799746398" expanded="true" signature="1238:1339" ph="{...}" />
-            <marker date="1551799746398" expanded="true" signature="1256:1317" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cv3/DynamicArry.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
-          <folding>
-            <marker date="1551802518700" expanded="true" signature="6:71" ph="..." />
-            <marker date="1551802518700" expanded="true" signature="106:1872" ph="{...}" />
-            <marker date="1551802518700" expanded="true" signature="137:1870" ph="{...}" />
-            <marker date="1551802518700" expanded="true" signature="230:281" ph="{...}" />
-            <marker date="1551802518700" expanded="true" signature="322:692" ph="{...}" />
-            <marker date="1551802518700" expanded="true" signature="387:682" ph="{...}" />
-            <marker date="1551802518700" expanded="true" signature="437:624" ph="{...}" />
-            <marker date="1551802518700" expanded="true" signature="736:1131" ph="{...}" />
-            <marker date="1551802518700" expanded="true" signature="829:1017" ph="{...}" />
-            <marker date="1551802518700" expanded="true" signature="862:920" ph="{...}" />
-            <marker date="1551802518700" expanded="true" signature="920:1003" ph="{...}" />
-            <marker date="1551802518700" expanded="true" signature="1170:1319" ph="{...}" />
-            <marker date="1551802518700" expanded="true" signature="1209:1309" ph="{...}" />
-            <marker date="1551802518700" expanded="true" signature="1240:1295" ph="{...}" />
-            <marker date="1551802518700" expanded="true" signature="1352:1864" ph="{...}" />
-            <marker date="1551802518700" expanded="true" signature="1369:1854" ph="{...}" />
-            <marker date="1551802518700" expanded="true" signature="1455:1568" ph="{...}" />
-            <marker date="1551802518700" expanded="true" signature="1492:1550" ph="{...}" />
-            <marker date="1551802518700" expanded="true" signature="1611:1665" ph="{...}" />
-            <marker date="1551802518700" expanded="true" signature="1702:1759" ph="{...}" />
-            <marker date="1551802518700" expanded="true" signature="1759:1840" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cv3/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+        <state relative-caret-position="405">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
           <folding>
-            <marker date="1551802135289" expanded="true" signature="6:58" ph="..." />
+            <marker date="1551802135289" expanded="false" signature="6:58" ph="..." />
             <marker date="1551802135289" expanded="true" signature="74:986" ph="{...}" />
             <marker date="1551802135289" expanded="true" signature="94:984" ph="{...}" />
             <marker date="1551802135289" expanded="true" signature="136:978" ph="{...}" />

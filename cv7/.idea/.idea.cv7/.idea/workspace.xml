@@ -24,78 +24,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa64954e-ddb2-4d93-b5de-5d41bcf60103" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM.sln.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/DAIS_ORM.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/DAIS_ORM.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/DAIS_ORM.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/DAIS_ORM.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/Calculator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/cv5.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv5/cv5/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/.idea/.idea.cv6/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/.idea/.idea.cv6/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/.idea/.idea.cv6/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/.idea/.idea.cv6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/.idea/.idea.cv6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/Reader.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/Users.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/cv6.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/Debug/netcoreapp2.2/cv6.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/Debug/netcoreapp2.2/cv6.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/Debug/netcoreapp2.2/cv6.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/Debug/netcoreapp2.2/cv6.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/cv6.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/cv6.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/cv6.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cv6/cv6/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.cv7/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv7/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/.idea/.idea.dais1/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/dais1.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/Debug/netcoreapp2.2/dais1.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/Debug/netcoreapp2.2/dais1.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/Debug/netcoreapp2.2/dais1.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/Debug/netcoreapp2.2/dais1.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/dais1.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/dais1.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/dais1.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dais1/dais1/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cv2/.idea/.idea.cv2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv2/.idea/.idea.cv2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/db_shets/AlbumTable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/db_shets/Database.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/db_shets/ObecTable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuctionSystemORM_sqls/.idea/.idea.AuctionSystemORM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AuctionSystemORM_sqls/.idea/.idea.AuctionSystemORM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuctionSystemORM_sqls/Database/dao_sqls/AuctionTable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AuctionSystemORM_sqls/Database/dao_sqls/AuctionTable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee/storage_v2/_src_/schema/KVI0029.hWFPFg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee/storage_v2/_src_/schema/KVI0029.hWFPFg.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee/storage_v2/_src_/schema/PUBLIC.aaZQjQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Dokument.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Dokument.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Fotografie.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Fotografie.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/bin/Debug/netcoreapp2.2/DAIS_ORM.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/bin/Debug/netcoreapp2.2/DAIS_ORM.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/bin/Debug/netcoreapp2.2/DAIS_ORM.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/bin/Debug/netcoreapp2.2/DAIS_ORM.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/DAIS_ORM/obj/Debug/netcoreapp2.2/DAIS_ORM.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv3/.idea/.idea.cv3/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/.idea/.idea.cv3/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cv3/.idea/.idea.cv3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/.idea/.idea.cv3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test1/.idea/.idea.test1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test1/.idea/.idea.test1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv3/cv3/obj/Debug/netcoreapp2.2/cv3.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/cv3/obj/Debug/netcoreapp2.2/cv3.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv3/cv3/obj/Debug/netcoreapp2.2/cv3.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/cv3/obj/Debug/netcoreapp2.2/cv3.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv3/cv3/obj/cv3.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/cv3/obj/cv3.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv3/cv3/obj/cv3.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/cv3/obj/cv3.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv3/cv3/obj/cv3.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/cv3/obj/cv3.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv3/cv3/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/cv3/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv3/cv3/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cv3/cv3/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/.idea/.idea.cv5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/Debug/netcoreapp2.2/cv5.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/cv5.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv5/cv5/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cv5/cv5/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv6/.idea/.idea.cv6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv6/.idea/.idea.cv6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.cv7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cv7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cv8/.idea/.idea.cv8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cv8/.idea/.idea.cv8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dais1/.idea/.idea.dais1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dais1/.idea/.idea.dais1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dais_orm_znova/.idea/.idea.dais_orm_znova/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dais_orm_znova/.idea/.idea.dais_orm_znova/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dais_orm_znova/.idea/.idea.dais_orm_znova/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dais_orm_znova/.idea/.idea.dais_orm_znova/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/dais_orm_znova.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/dais_orm_znova.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/obj/dais_orm_znova.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/obj/dais_orm_znova.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../dais_orm_znova/dais_orm_znova/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pokusT/pokusT/Access.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../pokusT/pokusT/Access.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pokusT/pokusT/AccessControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../pokusT/pokusT/AccessControl.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pokusT/pokusT/Card.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../pokusT/pokusT/Card.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pokusT/pokusT/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../pokusT/pokusT/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pokusT/pokusT/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../pokusT/pokusT/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pokusT/pokusT/pokusT.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../pokusT/pokusT/pokusT.csproj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -108,8 +91,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cv7/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="97" column="18" selection-start-line="97" selection-start-column="16" selection-end-line="97" selection-end-column="18" />
+            <state relative-caret-position="255">
+              <caret line="107" column="26" selection-start-line="107" selection-start-column="26" selection-end-line="107" selection-end-column="26" />
               <folding>
                 <marker date="1554821996512" expanded="false" signature="6:111" ph="..." />
                 <marker date="1554821996512" expanded="true" signature="127:3567" ph="{...}" />
@@ -175,11 +158,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,11 +223,14 @@
       <workItem from="1554818645274" duration="4012000" />
       <workItem from="1554888404375" duration="591000" />
       <workItem from="1555419379638" duration="313000" />
+      <workItem from="1556618415372" duration="229000" />
+      <workItem from="1556623575747" duration="15000" />
+      <workItem from="1556632759830" duration="18000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4916000" />
+    <option name="totallyTimeSpent" value="5178000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -258,7 +244,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25506938" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26307365" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -305,8 +291,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cv7/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="97" column="18" selection-start-line="97" selection-start-column="16" selection-end-line="97" selection-end-column="18" />
+        <state relative-caret-position="255">
+          <caret line="107" column="26" selection-start-line="107" selection-start-column="26" selection-end-line="107" selection-end-column="26" />
           <folding>
             <marker date="1554821996512" expanded="false" signature="6:111" ph="..." />
             <marker date="1554821996512" expanded="true" signature="127:3567" ph="{...}" />

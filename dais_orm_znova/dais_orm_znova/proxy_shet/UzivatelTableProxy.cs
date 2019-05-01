@@ -11,6 +11,7 @@ namespace dais_orm_znova.proxy_shet {
         protected abstract Uzivatel select(Uzivatel uzivatel);
         protected abstract List<Uzivatel> select();
         protected abstract List<Uzivatel> select_obec(int obecId);
+        protected abstract void zmena_prav(Uzivatel uzivatel, string prava);
         
         public static void Insert(Uzivatel uzivatel) {
             chmpff.insert(uzivatel);
@@ -34,6 +35,10 @@ namespace dais_orm_znova.proxy_shet {
         
         public static List<Uzivatel> Select_obec(int obecId) {
             return chmpff.select();
+        }
+
+        public static void Zmena_prav(Uzivatel uzivatel, string prava) {
+            chmpff.zmena_prav(uzivatel, prava);
         }
         
     }

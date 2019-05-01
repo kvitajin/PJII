@@ -32,15 +32,19 @@ namespace DAIS_ORM {
                 using (OracleCommand cmd = new OracleCommand()) {
                     cmd.Connection = Connection;
                     if (obrazek == null) {
-                        cmd.CommandText = @"INSERT INTO SEM_DOKUMENT(dokument_id, nadpis, obsah, datum, rubrika_rubrika_id) 
-                                              values (SEQ_DOKUMENT.nextval, :nadpis, :text, :datum, :rubrikaId)";
+                        cmd.CommandText = @"INSERT ALL into SEM_DOKUMENT(dokument_id, nadpis, obsah, datum, rubrika_rubrika_id) 
+                                              values (SEQ_DOKUMENT.nextval, :nadpis, :text, :datum, :rubrikaId) 
+                                              into SEM_OBEC_CLANEK(obec_obec_id, dokument_dokument_id) values (:obecId, SEQ_DOKUMENT.currval)
+                                              select * from dual";
 
                     }
                     else {
-                        cmd.CommandText = @"INSERT INTO SEM_DOKUMENT(dokument_id, nadpis, obsah, datum, obrazek, rubrika_rubrika_id) 
-                                              values (SEQ_DOKUMENT.nextval, :nadpis, :text, :datum, :obrazek, :rubrikaId)";
+                        cmd.CommandText = @"INSERT all INTO SEM_DOKUMENT(dokument_id, nadpis, obsah, datum, obrazek, rubrika_rubrika_id) 
+                                              values (SEQ_DOKUMENT.nextval, :nadpis, :text, :datum, :obrazek, :rubrikaId) 
+                                              into SEM_OBEC_CLANEK(obec_obec_id, dokument_dokument_id) values (:obecId, SEQ_DOKUMENT.currval)
+                                              select * from dual";
                         cmd.Parameters.Add("obrazek", obrazek);
-
+ 
                     }
 
                     DateTime now = DateTime.Today;
@@ -48,8 +52,17 @@ namespace DAIS_ORM {
                     cmd.Parameters.Add("text", text);
                     cmd.Parameters.Add("datum", now);
                     cmd.Parameters.Add("rubrikaId", rubrikaId);
+                    cmd.Parameters.Add("obecId", obecId);
                     int tmp = cmd.ExecuteNonQuery();
-
+//                    Database db = new Database();
+//                    db.Connect();
+////                    using (OracleCommand link = new OracleCommand()) {
+//                        cmd.Connection = Connection;
+//                        cmd.CommandText =
+//                            "INSERT INTO SEM_OBEC_CLANEK (OBEC_OBEC_ID, DOKUMENT_DOKUMENT_ID) VALUES (:obecId, SEQ_DOKUMENT.currval)";
+//                        cmd.Parameters.Add("obecId", obecId);
+//                        cmd.ExecuteNonQuery();
+////                    }
                 }
             }
         }
