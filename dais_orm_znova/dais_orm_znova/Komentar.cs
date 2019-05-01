@@ -1,9 +1,9 @@
 namespace dais_orm_znova {
     public class Komentar {
-        private int KomentarId { get; set; }
-        private string obsah { get; set; }
-        private int? DokumentId { get; set; }
-        private int? FotoId { get; set; }
-        private int UzivatelId { get; set; }
+        public int KomentarId { get; set; }
+        public string Obsah { get; set; }
+        public int? DokumentId { get; set; }
+        public int? FotoId { get; set; }
+        public int UzivatelId { get; set; }
     }
 }

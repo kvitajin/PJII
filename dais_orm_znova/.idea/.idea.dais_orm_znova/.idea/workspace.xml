@@ -24,9 +24,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="483d89ff-e58c-454c-bf26-0cfda8b28443" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dais_orm_znova/db_shets/FotografieTable.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dais_orm_znova/proxy_shet/AlbumTableProxy.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dais_orm_znova/proxy_shet/FotografieTableProxy.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dais_orm_znova/db_shets/KomentarTable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dais_orm_znova/proxy_shet/KomentarTableProxy.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AuctionSystemORM_sqls/.idea/.idea.AuctionSystemORM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AuctionSystemORM_sqls/.idea/.idea.AuctionSystemORM/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AuctionSystemORM_sqls/Database/dao_sqls/AuctionTable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AuctionSystemORM_sqls/Database/dao_sqls/AuctionTable.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DAIS_ORM/.idea/.idea.DAIS_ORM/.idea/dataSources/a3646725-dbe2-4375-827e-13ff696f14ee.xml" afterDir="false" />
@@ -65,14 +64,9 @@
       <change beforePath="$PROJECT_DIR$/../dais1/.idea/.idea.dais1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dais1/.idea/.idea.dais1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.dais_orm_znova/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.dais_orm_znova/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.dais_orm_znova/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.dais_orm_znova/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dais_orm_znova/Album.cs" beforeDir="false" afterPath="$PROJECT_DIR$/dais_orm_znova/Album.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dais_orm_znova/Fotografie.cs" beforeDir="false" afterPath="$PROJECT_DIR$/dais_orm_znova/Fotografie.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dais_orm_znova/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/dais_orm_znova/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dais_orm_znova/Uzivatel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/dais_orm_znova/Uzivatel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dais_orm_znova/Komentar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/dais_orm_znova/Komentar.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dais_orm_znova/bin/Debug/netcoreapp2.2/dais_orm_znova.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dais_orm_znova/bin/Debug/netcoreapp2.2/dais_orm_znova.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dais_orm_znova/bin/Debug/netcoreapp2.2/dais_orm_znova.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/dais_orm_znova/bin/Debug/netcoreapp2.2/dais_orm_znova.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dais_orm_znova/db_shets/AlbumTable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/dais_orm_znova/db_shets/AlbumTable.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dais_orm_znova/db_shets/UzivatelTable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/dais_orm_znova/db_shets/UzivatelTable.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/dais_orm_znova/obj/Debug/netcoreapp2.2/dais_orm_znova.pdb" afterDir="false" />
@@ -138,37 +132,6 @@
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/dais_orm_znova/Program.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="407">
-                  <caret line="70" column="38" lean-forward="true" selection-start-line="70" selection-start-column="38" selection-end-line="70" selection-end-column="38" />
-                  <folding>
-                    <marker date="1556674129178" expanded="true" signature="6:130" ph="..." />
-                    <marker date="1556674129178" expanded="true" signature="196:2758" ph="{...}" />
-                    <marker date="1556674129178" expanded="true" signature="216:2756" ph="{...}" />
-                    <marker date="1556674129178" expanded="true" signature="258:2750" ph="{...}" />
-                    <marker date="1556674129178" expanded="true" signature="328:877" ph="/* Obec obec = new Obec(); ... */" />
-                    <marker date="1556674129178" expanded="true" signature="1314:2390" ph="/* List&lt;Dokument&gt; dopff; ... */" />
-                    <marker date="1556674129178" expanded="true" signature="2396:2740" ph="/* db.Connect(); ... */" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/dais_orm_znova/Album.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="105">
-                  <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-                  <folding>
-                    <marker date="1556675872762" expanded="true" signature="40:238" ph="{...}" />
-                    <marker date="1556675872762" expanded="true" signature="65:236" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/dais_orm_znova/Fotografie.cs">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="135">
@@ -176,25 +139,6 @@
                   <folding>
                     <marker date="1556678798515" expanded="true" signature="40:329" ph="{...}" />
                     <marker date="1556678798515" expanded="true" signature="70:327" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/dais_orm_znova/proxy_shet/AlbumTableProxy.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-29">
-                  <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-                  <folding>
-                    <marker date="1556674624008" expanded="true" signature="71:999" ph="{...}" />
-                    <marker date="1556674624008" expanded="true" signature="115:997" ph="{...}" />
-                    <marker date="1556674624008" expanded="true" signature="163:226" ph="{...}" />
-                    <marker date="1556674624008" expanded="true" signature="555:600" ph="{...}" />
-                    <marker date="1556674624008" expanded="true" signature="649:694" ph="{...}" />
-                    <marker date="1556674624008" expanded="true" signature="743:788" ph="{...}" />
-                    <marker date="1556674624008" expanded="true" signature="831:883" ph="{...}" />
-                    <marker date="1556674624008" expanded="true" signature="938:991" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -225,9 +169,22 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/dais_orm_znova/Komentar.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="120">
+                  <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+                  <folding>
+                    <marker date="1556681771579" expanded="true" signature="25:278" ph="{...}" />
+                    <marker date="1556681771579" expanded="true" signature="53:276" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a3646725-dbe2-4375-827e-13ff696f14ee/console.sql">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="381">
+                <state relative-caret-position="367">
                   <caret line="285" selection-start-line="285" selection-end-line="285" />
                 </state>
               </provider>
@@ -258,8 +215,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/dais_orm_znova/proxy_shet/FotografieTableProxy.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="331">
-                  <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+                <state relative-caret-position="256">
+                  <caret line="26" column="46" lean-forward="true" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
                   <folding>
                     <marker date="1556679623267" expanded="true" signature="71:1155" ph="{...}" />
                     <marker date="1556679623267" expanded="true" signature="120:1153" ph="{...}" />
@@ -274,10 +231,74 @@
               </provider>
             </entry>
           </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/dais_orm_znova/proxy_shet/KomentarTableProxy.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="46">
+                  <caret line="7" column="58" lean-forward="true" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+                  <folding>
+                    <marker date="1556680779537" expanded="true" signature="71:1306" ph="{...}" />
+                    <marker date="1556680779537" expanded="true" signature="118:1304" ph="{...}" />
+                    <marker date="1556680779537" expanded="true" signature="169:235" ph="{...}" />
+                    <marker date="1556680779537" expanded="true" signature="680:728" ph="{...}" />
+                    <marker date="1556680779537" expanded="true" signature="782:830" ph="{...}" />
+                    <marker date="1556680779537" expanded="true" signature="884:932" ph="{...}" />
+                    <marker date="1556680779537" expanded="true" signature="990:1045" ph="{...}" />
+                    <marker date="1556680779537" expanded="true" signature="1107:1165" ph="{...}" />
+                    <marker date="1556680779537" expanded="true" signature="1235:1297" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/dais_orm_znova/db_shets/RubrikaTable.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-15">
+                  <caret line="8" column="109" selection-start-line="8" selection-start-column="109" selection-end-line="8" selection-end-column="109" />
+                  <folding>
+                    <marker date="1556660473271" expanded="false" signature="6:105" ph="..." />
+                    <marker date="1556660473271" expanded="true" signature="141:3217" ph="{...}" />
+                    <marker date="1556660473271" expanded="true" signature="191:3215" ph="{...}" />
+                    <marker date="1556660473271" expanded="true" signature="773:1047" ph="{...}" />
+                    <marker date="1556660473271" expanded="true" signature="1105:1426" ph="{...}" />
+                    <marker date="1556660473271" expanded="true" signature="1484:1745" ph="{...}" />
+                    <marker date="1556660473271" expanded="true" signature="1806:2575" ph="{...}" />
+                    <marker date="1556660473271" expanded="true" signature="2156:2354" ph="{...}" />
+                    <marker date="1556660473271" expanded="true" signature="2439:2487" ph="{...}" />
+                    <marker date="1556660473271" expanded="true" signature="2627:3209" ph="{...}" />
+                    <marker date="1556660473271" expanded="true" signature="2920:3118" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/dais_orm_znova/db_shets/KomentarTable.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-28">
+                  <caret line="57" column="55" lean-forward="true" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
+                  <folding>
+                    <marker date="1556683269314" expanded="true" signature="6:119" ph="..." />
+                    <marker date="1556683269314" expanded="true" signature="155:3983" ph="{...}" />
+                    <marker date="1556683269314" expanded="true" signature="207:3981" ph="{...}" />
+                    <marker date="1556683269314" expanded="true" signature="1278:1873" ph="{...}" />
+                    <marker date="1556683269314" expanded="true" signature="1933:2279" ph="{...}" />
+                    <marker date="1556683269314" expanded="true" signature="2339:2605" ph="{...}" />
+                    <marker date="1556683269314" expanded="true" signature="2669:3697" ph="{...}" />
+                    <marker date="1556683269314" expanded="true" signature="3028:3475" ph="{...}" />
+                    <marker date="1556683269314" expanded="true" signature="3561:3609" ph="{...}" />
+                    <marker date="1556683269314" expanded="true" signature="3765:3832" ph="{...}" />
+                    <marker date="1556683269314" expanded="true" signature="3908:3975" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/dais_orm_znova/db_shets/FotografieTable.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="122">
+                <state relative-caret-position="424">
                   <caret line="85" column="61" lean-forward="true" selection-start-line="85" selection-start-column="61" selection-end-line="85" selection-end-column="61" />
                   <folding>
                     <marker date="1556679623306" expanded="true" signature="6:119" ph="..." />
@@ -357,8 +378,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/dais_orm_znova/proxy_shet/DokumentTableProxy.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret column="6" selection-start-column="6" selection-end-column="6" />
+                <state relative-caret-position="270">
+                  <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
                   <folding>
                     <marker date="1556656478107" expanded="true" signature="6:125" ph="..." />
                     <marker date="1556656478107" expanded="true" signature="163:1131" ph="{...}" />
@@ -377,8 +398,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/dais_orm_znova/db_shets/DokumentTable.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="137">
-                  <caret line="92" column="12" lean-forward="true" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
+                <state relative-caret-position="30">
+                  <caret line="56" column="12" selection-start-line="56" selection-start-column="12" selection-end-line="81" selection-end-column="23" />
                   <folding>
                     <marker date="1556661739647" expanded="false" signature="6:206" ph="..." />
                     <marker date="1556661739647" expanded="true" signature="242:4780" ph="{...}" />
@@ -437,6 +458,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/dais_orm_znova/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/dais_orm_znova/proxy_shet/ObecTableProxy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/dais_orm_znova/proxy_shet/DokumentTableProxy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/dais_orm_znova/db_shets/DokumentTable.cs" root0="FORCE_HIGHLIGHTING" />
@@ -444,7 +466,6 @@
     <setting file="file://$PROJECT_DIR$/dais_orm_znova/db_shets/RubrikaTable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/dais_orm_znova/proxy_shet/UzivatelTableProxy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/dais_orm_znova/db_shets/UzivatelTable.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/dais_orm_znova/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/dais_orm_znova/Uzivatel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/dais_orm_znova/proxy_shet/AlbumTableProxy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/dais_orm_znova/Obec.cs" root0="FORCE_HIGHLIGHTING" />
@@ -452,7 +473,9 @@
     <setting file="file://$PROJECT_DIR$/dais_orm_znova/Rubrika.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/dais_orm_znova/db_shets/FotografieTable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/dais_orm_znova/VerejneOznameni.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dais_orm_znova/proxy_shet/KomentarTableProxy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/dais_orm_znova/Dokument.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dais_orm_znova/db_shets/KomentarTable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/dais_orm_znova/Album.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/dais_orm_znova/Fotografie.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/dais_orm_znova/Komentar.cs" root0="FORCE_HIGHLIGHTING" />
@@ -465,7 +488,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/dais_orm_znova/VerejneOznameni.cs" />
-        <option value="$PROJECT_DIR$/dais_orm_znova/Komentar.cs" />
         <option value="$PROJECT_DIR$/dais_orm_znova/obec_clanek.cs" />
         <option value="$PROJECT_DIR$/dais_orm_znova/db_shets/Database.cs" />
         <option value="$PROJECT_DIR$/dais_orm_znova/ObecClanek.cs" />
@@ -489,6 +511,9 @@
         <option value="$PROJECT_DIR$/dais_orm_znova/Fotografie.cs" />
         <option value="$PROJECT_DIR$/dais_orm_znova/proxy_shet/FotografieTableProxy.cs" />
         <option value="$PROJECT_DIR$/dais_orm_znova/db_shets/FotografieTable.cs" />
+        <option value="$PROJECT_DIR$/dais_orm_znova/proxy_shet/KomentarTableProxy.cs" />
+        <option value="$PROJECT_DIR$/dais_orm_znova/Komentar.cs" />
+        <option value="$PROJECT_DIR$/dais_orm_znova/db_shets/KomentarTable.cs" />
       </list>
     </option>
   </component>
@@ -608,12 +633,12 @@
       <option name="presentableId" value="Default" />
       <updated>1556628249333</updated>
       <workItem from="1556628252287" duration="3580000" />
-      <workItem from="1556639763742" duration="34941000" />
+      <workItem from="1556639763742" duration="38386000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38521000" />
+    <option name="totallyTimeSpent" value="41966000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -685,17 +710,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dais_orm_znova/Komentar.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-          <folding>
-            <marker date="1556629397369" expanded="true" signature="25:283" ph="{...}" />
-            <marker date="1556629397369" expanded="true" signature="53:281" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dais_orm_znova/ObecClanek.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -739,26 +753,6 @@
           <folding>
             <marker date="1556660279971" expanded="true" signature="25:146" ph="{...}" />
             <marker date="1556660279971" expanded="true" signature="52:144" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dais_orm_znova/db_shets/RubrikaTable.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-508">
-          <caret line="8" column="109" selection-start-line="8" selection-start-column="109" selection-end-line="8" selection-end-column="109" />
-          <folding>
-            <marker date="1556660473271" expanded="true" signature="6:105" ph="..." />
-            <marker date="1556660473271" expanded="true" signature="141:3217" ph="{...}" />
-            <marker date="1556660473271" expanded="true" signature="191:3215" ph="{...}" />
-            <marker date="1556660473271" expanded="true" signature="773:1047" ph="{...}" />
-            <marker date="1556660473271" expanded="true" signature="1105:1426" ph="{...}" />
-            <marker date="1556660473271" expanded="true" signature="1484:1745" ph="{...}" />
-            <marker date="1556660473271" expanded="true" signature="1806:2575" ph="{...}" />
-            <marker date="1556660473271" expanded="true" signature="2156:2354" ph="{...}" />
-            <marker date="1556660473271" expanded="true" signature="2439:2487" ph="{...}" />
-            <marker date="1556660473271" expanded="true" signature="2627:3209" ph="{...}" />
-            <marker date="1556660473271" expanded="true" signature="2920:3118" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -844,17 +838,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a3646725-dbe2-4375-827e-13ff696f14ee/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="285" selection-start-line="285" selection-end-line="285" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dais_orm_znova/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="70" column="38" lean-forward="true" selection-start-line="70" selection-start-column="38" selection-end-line="70" selection-end-column="38" />
+        <state relative-caret-position="120">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
           <folding>
             <marker date="1556674129178" expanded="true" signature="6:130" ph="..." />
             <marker date="1556674129178" expanded="true" signature="196:2758" ph="{...}" />
@@ -934,24 +921,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dais_orm_znova/proxy_shet/DokumentTableProxy.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-          <folding>
-            <marker date="1556656478107" expanded="true" signature="6:125" ph="..." />
-            <marker date="1556656478107" expanded="true" signature="163:1131" ph="{...}" />
-            <marker date="1556656478107" expanded="true" signature="210:1129" ph="{...}" />
-            <marker date="1556656478107" expanded="true" signature="260:326" ph="{...}" />
-            <marker date="1556656478107" expanded="true" signature="665:708" ph="{...}" />
-            <marker date="1556656478107" expanded="true" signature="757:800" ph="{...}" />
-            <marker date="1556656478107" expanded="true" signature="849:892" ph="{...}" />
-            <marker date="1556656478107" expanded="true" signature="945:995" ph="{...}" />
-            <marker date="1556656478107" expanded="true" signature="1059:1114" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dais_orm_znova/Fotografie.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -985,20 +954,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dais_orm_znova/proxy_shet/FotografieTableProxy.cs">
+    <entry file="file://$PROJECT_DIR$/dais_orm_znova/db_shets/FotografieTable.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+        <state relative-caret-position="424">
+          <caret line="85" column="61" lean-forward="true" selection-start-line="85" selection-start-column="61" selection-end-line="85" selection-end-column="61" />
           <folding>
-            <marker date="1556679623267" expanded="true" signature="71:1155" ph="{...}" />
-            <marker date="1556679623267" expanded="true" signature="120:1153" ph="{...}" />
-            <marker date="1556679623267" expanded="true" signature="173:242" ph="{...}" />
-            <marker date="1556679623267" expanded="true" signature="636:686" ph="{...}" />
-            <marker date="1556679623267" expanded="true" signature="744:794" ph="{...}" />
-            <marker date="1556679623267" expanded="true" signature="852:902" ph="{...}" />
-            <marker date="1556679623267" expanded="true" signature="966:1023" ph="{...}" />
-            <marker date="1556679623267" expanded="true" signature="1088:1146" ph="{...}" />
+            <marker date="1556679623306" expanded="true" signature="6:119" ph="..." />
+            <marker date="1556679623306" expanded="true" signature="155:4495" ph="{...}" />
+            <marker date="1556679623306" expanded="true" signature="211:4493" ph="{...}" />
+            <marker date="1556679623306" expanded="true" signature="1035:1560" ph="{...}" />
+            <marker date="1556679623306" expanded="true" signature="1624:2090" ph="{...}" />
+            <marker date="1556679623306" expanded="true" signature="2154:2414" ph="{...}" />
+            <marker date="1556679623306" expanded="true" signature="2484:3519" ph="{...}" />
+            <marker date="1556679623306" expanded="true" signature="2841:3295" ph="{...}" />
+            <marker date="1556679623306" expanded="true" signature="3383:3431" ph="{...}" />
+            <marker date="1556679623306" expanded="true" signature="3589:4487" ph="{...}" />
+            <marker date="1556679623306" expanded="true" signature="3941:4395" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a3646725-dbe2-4375-827e-13ff696f14ee/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="285" selection-start-line="285" selection-end-line="285" />
         </state>
       </provider>
     </entry>
@@ -1022,10 +1001,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dais_orm_znova/proxy_shet/FotografieTableProxy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="26" column="46" lean-forward="true" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+          <folding>
+            <marker date="1556679623267" expanded="true" signature="71:1155" ph="{...}" />
+            <marker date="1556679623267" expanded="true" signature="120:1153" ph="{...}" />
+            <marker date="1556679623267" expanded="true" signature="173:242" ph="{...}" />
+            <marker date="1556679623267" expanded="true" signature="636:686" ph="{...}" />
+            <marker date="1556679623267" expanded="true" signature="744:794" ph="{...}" />
+            <marker date="1556679623267" expanded="true" signature="852:902" ph="{...}" />
+            <marker date="1556679623267" expanded="true" signature="966:1023" ph="{...}" />
+            <marker date="1556679623267" expanded="true" signature="1088:1146" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dais_orm_znova/proxy_shet/DokumentTableProxy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding>
+            <marker date="1556656478107" expanded="true" signature="6:125" ph="..." />
+            <marker date="1556656478107" expanded="true" signature="163:1131" ph="{...}" />
+            <marker date="1556656478107" expanded="true" signature="210:1129" ph="{...}" />
+            <marker date="1556656478107" expanded="true" signature="260:326" ph="{...}" />
+            <marker date="1556656478107" expanded="true" signature="665:708" ph="{...}" />
+            <marker date="1556656478107" expanded="true" signature="757:800" ph="{...}" />
+            <marker date="1556656478107" expanded="true" signature="849:892" ph="{...}" />
+            <marker date="1556656478107" expanded="true" signature="945:995" ph="{...}" />
+            <marker date="1556656478107" expanded="true" signature="1059:1114" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dais_orm_znova/db_shets/RubrikaTable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="8" column="109" selection-start-line="8" selection-start-column="109" selection-end-line="8" selection-end-column="109" />
+          <folding>
+            <marker date="1556660473271" expanded="false" signature="6:105" ph="..." />
+            <marker date="1556660473271" expanded="true" signature="141:3217" ph="{...}" />
+            <marker date="1556660473271" expanded="true" signature="191:3215" ph="{...}" />
+            <marker date="1556660473271" expanded="true" signature="773:1047" ph="{...}" />
+            <marker date="1556660473271" expanded="true" signature="1105:1426" ph="{...}" />
+            <marker date="1556660473271" expanded="true" signature="1484:1745" ph="{...}" />
+            <marker date="1556660473271" expanded="true" signature="1806:2575" ph="{...}" />
+            <marker date="1556660473271" expanded="true" signature="2156:2354" ph="{...}" />
+            <marker date="1556660473271" expanded="true" signature="2439:2487" ph="{...}" />
+            <marker date="1556660473271" expanded="true" signature="2627:3209" ph="{...}" />
+            <marker date="1556660473271" expanded="true" signature="2920:3118" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dais_orm_znova/db_shets/DokumentTable.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="92" column="12" lean-forward="true" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
+        <state relative-caret-position="30">
+          <caret line="56" column="12" selection-start-line="56" selection-start-column="12" selection-end-line="81" selection-end-column="23" />
           <folding>
             <marker date="1556661739647" expanded="false" signature="6:206" ph="..." />
             <marker date="1556661739647" expanded="true" signature="242:4780" ph="{...}" />
@@ -1042,22 +1076,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dais_orm_znova/db_shets/FotografieTable.cs">
+    <entry file="file://$PROJECT_DIR$/dais_orm_znova/Komentar.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="85" column="61" lean-forward="true" selection-start-line="85" selection-start-column="61" selection-end-line="85" selection-end-column="61" />
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
           <folding>
-            <marker date="1556679623306" expanded="true" signature="6:119" ph="..." />
-            <marker date="1556679623306" expanded="true" signature="155:4495" ph="{...}" />
-            <marker date="1556679623306" expanded="true" signature="211:4493" ph="{...}" />
-            <marker date="1556679623306" expanded="true" signature="1035:1560" ph="{...}" />
-            <marker date="1556679623306" expanded="true" signature="1624:2090" ph="{...}" />
-            <marker date="1556679623306" expanded="true" signature="2154:2414" ph="{...}" />
-            <marker date="1556679623306" expanded="true" signature="2484:3519" ph="{...}" />
-            <marker date="1556679623306" expanded="true" signature="2841:3295" ph="{...}" />
-            <marker date="1556679623306" expanded="true" signature="3383:3431" ph="{...}" />
-            <marker date="1556679623306" expanded="true" signature="3589:4487" ph="{...}" />
-            <marker date="1556679623306" expanded="true" signature="3941:4395" ph="{...}" />
+            <marker date="1556681771579" expanded="true" signature="25:278" ph="{...}" />
+            <marker date="1556681771579" expanded="true" signature="53:276" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dais_orm_znova/proxy_shet/KomentarTableProxy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="7" column="58" lean-forward="true" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+          <folding>
+            <marker date="1556680779537" expanded="true" signature="71:1306" ph="{...}" />
+            <marker date="1556680779537" expanded="true" signature="118:1304" ph="{...}" />
+            <marker date="1556680779537" expanded="true" signature="169:235" ph="{...}" />
+            <marker date="1556680779537" expanded="true" signature="680:728" ph="{...}" />
+            <marker date="1556680779537" expanded="true" signature="782:830" ph="{...}" />
+            <marker date="1556680779537" expanded="true" signature="884:932" ph="{...}" />
+            <marker date="1556680779537" expanded="true" signature="990:1045" ph="{...}" />
+            <marker date="1556680779537" expanded="true" signature="1107:1165" ph="{...}" />
+            <marker date="1556680779537" expanded="true" signature="1235:1297" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dais_orm_znova/db_shets/KomentarTable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="57" column="55" lean-forward="true" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
+          <folding>
+            <marker date="1556683269314" expanded="true" signature="6:119" ph="..." />
+            <marker date="1556683269314" expanded="true" signature="155:3983" ph="{...}" />
+            <marker date="1556683269314" expanded="true" signature="207:3981" ph="{...}" />
+            <marker date="1556683269314" expanded="true" signature="1278:1873" ph="{...}" />
+            <marker date="1556683269314" expanded="true" signature="1933:2279" ph="{...}" />
+            <marker date="1556683269314" expanded="true" signature="2339:2605" ph="{...}" />
+            <marker date="1556683269314" expanded="true" signature="2669:3697" ph="{...}" />
+            <marker date="1556683269314" expanded="true" signature="3028:3475" ph="{...}" />
+            <marker date="1556683269314" expanded="true" signature="3561:3609" ph="{...}" />
+            <marker date="1556683269314" expanded="true" signature="3765:3832" ph="{...}" />
+            <marker date="1556683269314" expanded="true" signature="3908:3975" ph="{...}" />
           </folding>
         </state>
       </provider>
