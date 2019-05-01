@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using dais_orm_znova.db_shets;
 using dais_orm_znova.proxy_shet;
+using Oracle.ManagedDataAccess.Client;
 
 namespace dais_orm_znova {
     class Program {
@@ -22,6 +24,8 @@ namespace dais_orm_znova {
 //            }
 //            
 //            ObecTableProxy.Delete(obec);
+            DateTime naroz=  new DateTime(2006, 04, 26 );
+
             
             Dokument doc= new Dokument();
             doc.Nadpis="oaksmasokkmsdlcks";
@@ -36,9 +40,9 @@ namespace dais_orm_znova {
 //            foreach (var hovno in dopff) {
 //                Console.WriteLine(hovno.DokumentId + " " + hovno.Nadpis + " " + hovno.Obsah+ " " + hovno.RubrikaId );
 //            }
-            doc.DokumentId = 1;
-            Dokument tmp = DokumentTableProxy.Select(doc);
-            Console.WriteLine(tmp.DokumentId + " " + tmp.Nadpis + " " + tmp.Obsah+ " " + tmp.RubrikaId );
+//            doc.DokumentId = 1;
+//            Dokument tmp = DokumentTableProxy.Select(doc);
+//            Console.WriteLine(tmp.DokumentId + " " + tmp.Nadpis + " " + tmp.Obsah+ " " + tmp.RubrikaId );
 
 //            
 //            Rubrika rubr =new Rubrika();
@@ -55,6 +59,16 @@ namespace dais_orm_znova {
 //                Console.WriteLine(hovno.RubrikaId + " " + hovno.Nazev );
 //            }
 
+
+
+
+
+//            db.Connect();
+//            OracleCommand cmd = new OracleCommand();
+//            cmd.CommandText = "Registruj";
+//            cmd.CommandType = CommandType.StoredProcedure;
+//            cmd.Parameters.Add((OracleDbType.Date)naroz.ToString("yyyy-M-d dddd"), OracleDbType.Date).Value=naroz;
+//            db.ExecuteNonQuery(cmd);
         }
     }
 }
